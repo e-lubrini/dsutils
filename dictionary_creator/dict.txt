@@ -1,0 +1,3622 @@
+(μπροστά) από	past	adv	 
+(προς τα) έξω	out	adv	 
+actual, factual, de facto	indeed [in truth]	adj	 
+aεροπορια {η}	aviation	noun	[aviat.]
+construction {η}	κατασκευή	noun	[constr.]
+geheimnisvoll	mysterious	adj	 
+now	νυν	adv	 
+oυνοκουάντιο {το}	Ununquadium	noun	[chem.]
+verbieten	to forbid	verb	 
+[βιβλιογραφικές] αναφορές {οι}	references	noun	 
+[κάποιος/κάτι] ήταν	sb./sth. was	 	 
+[κάποιος] έκανε	sb. did	 	 
+[κάποιος] θα	sb. shall	 	 
+[κάποιος] θα [+παρατατικός]	sb. would	 	 
+[κάποιος] θα πρέπει να	sb. should	 	 
+[κάποιος] μπορεί	sb. may [is permitted]	 	 
+[κάτι/κάποιος] είναι	sb./sth. is	 	 
+{η}Προεπιλογή	Default	noun	 
+{η} κρέμα	cream	noun	 
+{η} μετάφραση	translation	noun	 
+{η} πεθερά	mother-in-law	noun	 
+{η} πώληση	sale	noun	 
+{ο} ιδιοκτήτης	owner	noun	 
+{ο} σιδηρόδρομος	railroad <RR> [Am.]	noun	 
+{το} βράδυ	evening	noun	 
+{το} γέλιο	laugh	noun	 
+{το} μπουκάλι	bottle	noun	 
+{το} ξενοδοχείο	hotel	noun	 
+{το} φιλί	kiss	noun	 
+{το} ψωμί	bread	noun	 
+Άβαντας {ο}	Abas	noun	[myth.]
+Άκαστος {ο}	Acastus	noun	[myth.]
+Άνδρος {η}	Andros	noun	[geogr.]
+Άρης {ο}	Ares	noun	[relig.] [myth.]
+Άρτεμις {η}	Artemis	noun	[relig.] [myth.]
+Άστο!	Drop it!	 	 
+Άφησέ το!	Drop it!	 	 
+Έλα!	Come on!	 	 
+Έπαφος {ο}	Epaphus	noun	[myth.]
+Έχετε ... ;	Do you have ... ?	 	 
+Ήβη {η}	Hebe	noun	[relig.] [myth.]
+Ήλιος {ο}	Helios	noun	[myth.]
+Ήρα {η}	Hera	noun	[relig.] [myth.]
+Ήφαιστος {ο}	Hephaestus	noun	[myth.]
+Ίναχος {ο}	Inachus	noun	[myth.]
+Ίσις {η}	Isis	noun	[relig.] [myth.]
+Όσιρις {ο}	Osiris	noun	[relig.] [myth.]
+Ύπνος {ο}	Hypnos	noun	[myth.]
+Αίγυπτος {η}	Egypt <.eg>	noun	 
+Αγαμήδης {ο}	Agamedes	noun	[myth.]
+Αγγλία {η}	England	noun	 
+Αθάμας {ο}	Athamas	noun	[myth.]
+Αθήνα {η}	Athens	noun	[geogr.]
+Αιγαίο Πέλαγος {το}	Aegean Sea	noun	[geogr.]
+Αισχύλος {ο}	Aeschylus	noun	[theatre] [hist.] [lit.]
+Ακρίσιος {ο}	Acrisius	noun	[myth.]
+Αλκμήνη {η}	Alcmena	noun	[myth.]
+Αλκμήνη {η}	Alcmene	noun	[myth.]
+Αμερική {η}	America	noun	[geogr.]
+Αμφιτρίτη {η}	Amphitrite	noun	[myth.]
+Αμφιτρύωνας {ο}	Amphitryon	noun	[myth.]
+Ανδρομάχη {η}	Andromache	noun	[myth.]
+Ανδρόγεως {ο}	Androgeos	noun	[myth.]
+Ανδρόγεως {ο}	Androgeus	noun	[myth.]
+Αντίο!	Bye!	 	 
+Αντίο!	Goodbye!	 	 
+Ανταίος {ο}	Antaeus	noun	[myth.]
+Αντικύθηρα {τα}	Antikythera	noun	[geogr.]
+Απρίλιος {ο}	April <Apr.>	noun	 
+Απόλλων {ο}	Apollo	noun	[relig.] [myth.]
+Από πού είσαι;	Where are you from?	 	 
+Αράχνη {η}	Arachne	noun	[myth.]
+Αριστοφάνης {ο}	Aristophanes	noun	[theatre] [hist.] [lit.]
+Αρκάς {ο}	Arcas	noun	[myth.]
+Ασία {η}	Asia	noun	 
+Αστειεύομαι.	I'm just kidding.	 	 
+Αταλάντη {η}	Atalanta	noun	[myth.]
+Ατρέας {ο}	Atreus	noun	[myth.]
+Αυγή {η}	Auge	noun	[myth.]
+Αυστρία {η}	Austria	noun	[geogr.]
+Αυστραλία {η}	Australia	noun	[geogr.]
+Αφροδίτη {η}	Aphrodite	noun	[relig.] [myth.]
+Αύγουστος {ο}	August <Aug.>	noun	 
+Βέλγιο {το}	Belgium	noun	[geogr.]
+Βήλος {ο}	Belus	noun	[myth.]
+Βασιλιάς Ληρ	King Lear [William Shakespeare]		[theatre] [lit.]
+Βενετία {η}	Venice	noun	[geogr.]
+Βραζιλία {η}	Brazil <.br>	noun	 
+Βροτέας {ο}	Broteas	noun	[myth.]
+Γαία {η}	Gaia	noun	[myth.]
+Γαλλία	France	noun	[geogr.]
+Γαλλία {η}	France <.fr>	noun	 
+Γεια!	Goodbye!	 	 
+Γεια!	Hello!	 	 
+Γεια!	Hi!	 	 
+Γερμανία {η}	Germany <.de>	noun	 
+Γκαμπόν {το}	Gabon	noun	[geogr.]
+Γρήγορα!	Hurry up!	 	 
+Δάρδανος {ο}	Dardanus	noun	[myth.]
+Δίας {ο}	Zeus	noun	[relig.] [myth.]
+Δανάη {η}	Danaë	noun	[myth.]
+Δανία {η}	Denmark	noun	[geogr.]
+Δαρβινισμός {ο}	Darwinism	noun	[biol.]
+Δεκέμβριος {ο}	December <Dec.>	noun	 
+Δε με νοιάζει.	I don't care.	 	 
+Δεν καταλαβαίνω.	I don't understand.	 	 
+Δεν καταλαβαίνω.	I do not understand.	 	 
+Δεν ξέρω.	I don't know.	 	 
+Δεν πειράζει!	Never mind!	 	 
+Δεν υπάρχει πρόβλημα!	No problem! <np>	 	 
+Δευκαλίων {ο}	Deucalion	noun	[myth.]
+Δευτέρα {η}	Monday <Mon., Mo.>	noun	 
+Διομήδης {ο}	Diomedes	noun	[myth.]
+Διόνυσος {ο}	Dionysus	noun	[relig.] [myth.]
+Δρυόπη {η}	Dryope	noun	[myth.]
+Είμαι από την Αυστρία.	I am from Austria.	 	 
+Είμαι καλά.	I am OK.	 	 
+Είμαι κουρασμένος.	I am tired.	 	 
+Είμαι ξένος εδώ.	I'm a stranger here.	 	 
+Είναι η σειρά μου	It's my turn.	 	 
+Είναι η σειρά σου.	It's your turn.	 	 
+Ελβετία {η}	Switzerland <.ch>	noun	 
+Ελλάδα {η}	Greece	noun	[geogr.]
+Ελληνικά	Greek [language]	noun	[ling.]
+Εξαρτάται από το αν ...	It depends on whether ...	 	 
+Επίσης.	The same to you.	 	 
+Επιτρέπετε να ...;	May I ... ?	 	 
+Επιτρέψτε μου ...	Allow me ...	 	 
+Ερατώ {η}	Erato	noun	[myth.]
+Ερμής {ο}	Hermes	noun	[relig.] [myth.]
+Ερμιόνη {η}	Hermione	noun	[myth.]
+Εστία {η}	Hestia	noun	[relig.] [myth.]
+Εσύ τι λες;	What do you think?	 	 
+Ετεοκλής {ο}	Eteocles	noun	[myth.]
+Ευριπίδης {ο}	Euripides	noun	[theatre] [hist.] [lit.]
+Ευρώπη {η}	Europe	noun	 
+Εύανδρος {ο}	Evander (of Pallene)	noun	[myth.]
+Εύβοια {η}	Euboea	noun	[geogr.]
+Ζάκυνθος {η}	Zakynthos	noun	[geogr.]
+Ζεύς {ο}	Zeus	noun	[relig.] [myth.]
+Η Έβδομη Σφραγίδα [Ίνγκμαρ Μπέργκμαν]	The Seventh Seal [Ingmar	 	 
+Ηλεκτρύωνας {ο}	Electryon	noun	[myth.]
+Ησιόνη {η}	Hesione	noun	[myth.]
+Ηχώ {η}	Echo	noun	[myth.]
+Θάνατος {ο}	Thanatos	noun	[myth.]
+Θέμις {η}	Themis	noun	[myth.]
+Θέρσανδρος {ο}	Thersander	noun	[myth.]
+Θέσπιος {ο}	Thespius	noun	[myth.]
+Θα ήθελες να...;	Would you like to ... ?	 	 
+Θα θέλατε να του/της μεταφέρω κάποιο μύνημα? [επίσ.]	Can I tak	 	 
+Θησέας {ο}	Theseus	noun	[myth.]
+Θυέστης {ο}	Thyestes	noun	[myth.]
+Θόωσα {η}	Thoosa [also: Thoösa]	noun	[myth.]
+Ιανουάριος {ο}	January <Jan.>	noun	 
+Ιαπετός {ο}	Iapetus	noun	[astron.] [myth.]
+Ιαπετός {ο}	Japetus [Iapetus]	noun	[astron.]
+Ιαπωνία {η}	Japan <.jp>	noun	 
+Ιδομενέας {ο}	Idomeneus	noun	[myth.]
+Ιθάκη {η}	Ithaca	noun	[geogr.]
+Ιξίων {ο}	Ixion	noun	[myth.]
+Ιούλης {ο}	July	noun	 
+Ιούλιος {ο}	July	noun	 
+Ιούνιος {ο}	June	noun	 
+Ιρλανδία {η}	Ireland <.ie>	noun	 
+Ισπανία {η}	Spain <.es>	noun	 
+Ιταλία {η}	Italy <.it>	noun	 
+Ιόνιο Πέλαγος {το}	Ionian Sea	noun	[geogr.]
+Κάδμος {ο}	Cadmus	noun	[myth.]
+Κάρμη {η}	Carme	noun	[myth.]
+Κάρπαθος {η}	Karpathos	noun	[geogr.]
+Κάτι άλλο;	Anything else?	 	 
+Κέρκυρα {η}	Corfu	noun	[geogr.]
+Κέφαλος {ο}	Cephalus	noun	[myth.]
+Κίνα {η}	China	noun	[geogr.]
+Καλή τύχη!	Good luck!	 	 
+Καλημέρα!	Good afternoon!	 	 
+Καληνύχτα!	Good night! <Gn8>	 	 
+Καλησπέρα!	Good evening!	 	 
+Καναδάς {ο}	Canada	noun	[geogr.]
+Κεφαλονιά {η}	Cephalonia	noun	[geogr.]
+Κλύμενος {ο}	Clymenus	noun	[myth.]
+Κοίος {ο}	Coeus	noun	[myth.]
+Κρήτη {η}	Crete	noun	[geogr.]
+Κρίμα.	Too bad.	 	 
+Κροατία {η}	Croatia	noun	[geogr.]
+Κυκλάδες {οι}	Cyclades {pl}	noun	[geogr.]
+Κυλαράβης {ο}	Cylarabes	noun	[myth.]
+Κως {η}	Cos	noun	[geogr.]
+Κως {η}	Kos	noun	[geogr.]
+Κόδρος {ο}	Codrus	noun	[myth.]
+Κόφτο! [κοιν.]	Cut it short! [coll.]	 	 
+Κύθηρα {τα}	Kythira	noun	[geogr.]
+Κώκαλος {ο}	Cocalus	noun	[myth.]
+Λέσβος {η}	Lesbos	noun	[geogr.]
+Λαοδάμας {ο}	Laodamas	noun	[myth.]
+Λαομέδοντας {ο}	Laomedon	noun	[myth.]
+Λαομέδων {ο}	Laomedon	noun	[myth.]
+Λευκάδα {η}	Lefkada	noun	[geogr.]
+Λιθουανία {η}	Lithuania	noun	[geogr.]
+Λυκάων {ο}	Lycaon	noun	[myth.]
+Λυκομήδης {ο}	Lycomedes	noun	[myth.]
+Λυπάμαι, δεν κατάλαβα αυτό.	I'm sorry, I didn't get / catch th	 	 
+Λυπάμαι.	I am sorry.	 	 
+Μάης {ο} [κοιν.]	May	noun	 
+Μάιος {ο}	May	noun	 
+Μάρπησσα {η}	Marpessa	noun	[myth.]
+Μάρτιος {ο}	March <Mar.>	noun	 
+Μέδουσα {η}	Medusa	noun	[myth.]
+Μένω σε ...	I live in ...	 	 
+Μήδεια {η}	Medea	noun	[myth.]
+Μήλος {η}	Milos	noun	[geogr.]
+Μήτις {η}	Metis	noun	[myth.]
+Μίδας {ο}	Midas	noun	[myth.]
+Μίνωας {ο}	Minos	noun	[myth.]
+Μελία {η}	Melia	noun	[myth.]
+Μελικέρτης {ο}	Melicertes	noun	[myth.]
+Μελπομένη {η}	Melpomene	noun	[myth.]
+Μενέλαος {ο}	Menelaus	noun	[myth.]
+Μεξικό {το}	Mexico <.mx>	noun	 
+Με συγχωρείτε!	Excuse me!	 	 
+Με τις υγείες σου!	Bless you! [after sneezing]	 	 
+Μην σε νοιάζει!	Never mind!	 	 
+Μινέρβα {η}	Minerva	noun	[relig.] [myth.]
+Μινύας {ο}	Minyas	noun	[myth.]
+Μπαχάμες {οι}	Bahamas {pl}	noun	[geogr.]
+Μύκονος {η}	Mykonos	noun	[geogr.]
+Μώμος {ο}	Momus	noun	[myth.]
+Νάξος {η}	Naxos	noun	[geogr.]
+Νέα Γη {η}	Newfoundland	noun	[geogr.]
+Νέα Σκωτία {η}	Nova Scotia	noun	[geogr.]
+Νέμεσις {η}	Nemesis	noun	[myth.]
+Να είσαι προσεκτικός!	Be careful!	 	 
+Να σας συστήσω...	May I introduce ...	 	 
+Ναύπλιος {ο}	Nauplius	noun	[myth.]
+Νεστοριανισμός {ο}	Nestorianism	noun	[relig.] [hist.]
+Νηλέας {ο}	Neleus	noun	[myth.]
+Νηρέας {ο}	Nereus	noun	[myth.]
+Νοέμβριος {ο}	November <Nov.>	noun	 
+Νοιώθω ναυτία.	I am seasick.	 	 
+Νορβηγία {η}	Norway	noun	[geogr.]
+Νυξ {η}	Nyx	noun	[myth.]
+Οίαγρος {ο}	Oeagrus	noun	[myth.]
+Οινοπίων {ο}	Oenopion	noun	[myth.]
+Οκτώβριος {ο}	October <Oct.>	noun	 
+Ολλανδία {η}	Holland	noun	[geogr.]
+Ορίστε!	Here you are!	 	 
+Ορίστε;	I beg your pardon?	 	 
+Ορφέας {ο}	Orpheus	noun	[myth.]
+Ουγγαρία {η}	Hungary <.hu>	noun	 
+Πάμε!	Let's go!	 	 
+Πάρις {ο}	Paris	noun	[myth.]
+Πάσχα {το}	Easter	noun	 
+Πάτρα {η}	Patras	noun	[geogr.]
+Πάτροκλος {ο}	Patroclus	noun	[myth.]
+Πέμπτη {η}	Thursday <Thu., Th.>	noun	 
+Πανδώρα {η}	Pandora	noun	[myth.]
+Παρακαλώ!	Please!	 	 
+Παρακαλώ!	You are welcome!	 	 
+Παρασκευή {η}	Friday <Fri., Fr.>	noun	 
+Πειραιάς {ο}	Piraeus	noun	[geogr.]
+Πελίας {ο}	Pelias	noun	[myth.]
+Πελοπόννησος {η}	Peloponnese	noun	[geogr.]
+Περσέας {ο}	Perseus	noun	[myth.]
+Περσεφόνη {η}	Persephone	noun	[myth.]
+Πηγαίνει.	It fits.	 	 
+Πηλέας {ο}	Peleus	noun	[myth.]
+Πηνειός {ο}	Peneus	noun	[myth.]
+Πηνελόπη {η}	Penelope	noun	[myth.]
+Πλάκα κάνω.	I'm just kidding.	 	 
+Ποιά είναι η γνώμη σας;	What is your opinion?	 	 
+Ποιά είναι η παγίδα;	What's the catch?	 	 
+Ποιο είναι το όνομά σου;	What's your name?	 	 
+Ποιος είναι εκεί;	Who is there?	 	 
+Πολυνείκης {ο}	Polynices	noun	[myth.]
+Πολωνία {η}	Poland	noun	[geogr.]
+Πολύφημος {ο}	Polyphemus	noun	[myth.]
+Πορτογαλία {η}	Portugal <.pt>	noun	[geogr.]
+Ποσειδώνας {ο}	Poseidon	noun	[relig.] [myth.]
+Πού είναι η παγίδα;	What's the catch?	 	 
+Προμηθέας {ο}	Prometheus	noun	[myth.]
+Προχώρα!	Go ahead!	 	 
+Πρωτέας {ο}	Proteus	noun	[myth.]
+Πρόκρις {η}	Procris	noun	[myth.]
+Πυλάδης {ο}	Pylades	noun	[myth.]
+Πως τα πάει; [αυτός]	How's he doing?	 	 
+Πόσο κάνει αυτό;	How much is it?	noe	 
+Πόσο κοστίζει αυτό;	How much is it?	none	 
+Πόσο χρόνο θα κάνει;	How long will it take ... ?	 	 
+Πόσων ετών είσαι;	How old are you?	 	 
+Πόσων χρονών είσαι;	How old are you?	 	 
+Πώς είσαι;	What's up? [Am.] [coll.]	 	 
+Πώς λέτε ... στα ελληνικά;	How do you say ... in Greek?	 	 
+Πώς μπορώ να έρθω;	How do I get there?	 	 
+Πώς πάει;	How's it going?	 	 
+Ράκιος {ο}	Rhacius	noun	[myth.]
+Ρουμανία {η}	Romania	noun	[geogr.]
+Ρωσία {η}	Russia <.ru>	noun	 
+Ρόδος {η}	Rhodes	noun	[geogr.]
+Σάββατο {το}	Saturday <Sat., Sa.>	noun	 
+Σάμος {η}	Samos	noun	[geogr.]
+Σίσυφος {ο}	Sisyphus	noun	[myth.]
+Σαλαφισμός {ο}	Salafi movement	noun	[relig.] [pol.]
+Σαλαφισμός {ο}	Salafism	noun	[relig.] [pol.]
+Σαλαφισμός {ο}	Salafist movement	noun	[relig.] [pol.]
+Σαντορίνη {η}	Santorini	noun	[geogr.]
+Σελήνη {η}	Selene	noun	[myth.]
+Σερβία {η}	Serbia	noun	[geogr.]
+Σθενώ {η}	Stheno	noun	[myth.]
+Σικελία {η}	Sicily	noun	[geogr.]
+Σοφοκλής {ο}	Sophocles	noun	[theatre] [hist.] [lit.]
+Σπάρτη {η}	Sparta	noun	[geogr.]
+Στ'αρχίδια μου! [χυδ.]	Never mind!	 	 
+Σταμάτα!	Stop it!	 	 
+Στην υγειά σας!	Cheers!	 	 
+Στόπ!	Stop!	 	 
+Συγγνώμη!	Excuse me!	 	 
+Συγγνώμη!	Sorry!	 	 
+Συμφωνώ.	I agree.	 	 
+Σύμφωνοι;	Agreed?	 	 
+Τάνταλος {ο}	Tantalus	noun	[myth.]
+Τήλεφος {ο}	Telephus	noun	[myth.]
+Τήνος {η}	Tinos	noun	[geogr.]
+Τίποτα!	You are welcome!	 	 
+Τα λέμε!	See you!	 	 
+Τα λέμε.	See you.	 	 
+Ταοϊσμός {ο}	Daoism	noun	[relig.] [philos.]
+Ταοϊσμός {ο}	Taoism	noun	[relig.] [philos.]
+Τελαμώνας {ο}	Telamon	noun	[myth.]
+Τετάρτη {η}	Wednesday <Wed., We.>	noun	 
+Τι γίνεται;	What's up? [Am.] [coll.]	 	 
+Τι ηλικία έχεις;	How old are you?	 	 
+Τι θα θέλατε? [κοιν.]	What can I do for you?	 	 
+Τι κάνει εκείνος;	How's he doing?	 	 
+Τι κάνεις;	How are you?	 	 
+Τι κάνεις;	What's up? [Am.] [coll.]	 	 
+Τι κάνετε;	How do you do? [plural, honorific plural]	 	 
+Τι κρίμα!	What a pity!	 	 
+Τι πιστεύεις;	What do you think?	 	 
+Τι συμβαίνει;	What is the matter?	 	 
+Τι ώρα είναι;	What time is it?	 	 
+Το Πορτραίτο του Ντόριαν Γκρέυ	The Picture of Dorian Gray [Osc	 	 
+Το λογαριασμό παρακαλώ!	The bill please!	 	 
+Τρίτη {η}	Tuesday <Tue., Tu.>	noun	 
+Τριπτόλεμος {ο}	Triptolemus	noun	[myth.]
+Τρως {ο}	Tros	noun	[myth.]
+Τρώας {ο}	Tros	noun	[myth.]
+Υπερίων {ο}	Hyperion	noun	[myth.]
+Φάων {ο}	Phaon	noun	[myth.]
+Φεβρουάριος {ο}	February <Feb.>	noun	 
+Φειδίας {ο}	Phidias	noun	[hist.] [art]
+Φινλανδία {η}	Finland	noun	[geogr.]
+Φλεβάρης {ο}	February <Feb.>	noun	 
+Φόρκυς {ο}	Phorcys	noun	[myth.]
+Φύγε!	Go away!	 	 
+Χάρηκα για τη γνωριμία.	Nice to meet you.	 	 
+Χαίρω πολύ.	Pleased to meet you.	 	 
+Ωκεανός {ο}	Oceanus	noun	[myth.]
+άβακας {ο}	abacus	noun	 
+άβολος	uncomfortable	adj	 
+άγαλμα {το}	statue	noun	[art]
+άγγιγμα {το}	touch	noun	 
+άδεια {η}	permit	noun	 
+άδειος	empty	adj	 
+άδικος	unfair	adj	 
+άθροισμα {το}	total	noun	 
+άλλο	another	adj	 
+άλλωστε	besides	adv	 
+άλογο {το}	horse	noun	 
+άμεσα	immediately	adv	 
+άνδρας {ο}	man	noun	 
+άνδρες {οι}	men	noun	 
+άνεμος {ο}	wind	noun	 
+άνεργος {ο}	unemployed	noun	 
+άνετος	comfortable	adj	 
+άνετος	easy	adj	 
+άνθρωποι {οι}	people {pl}	noun	 
+άνθρωπος {ο}	human being	noun	 
+άνθρωπος {ο}	man	noun	 
+άνοιξη {η}	spring [season]	noun	 
+άνομος	illegal	adj	 
+άξιος	capable	adj	 
+άπαξ [επίσ.]	once	conj	 
+άποψη {η}	opinion	noun	 
+άποψη {η}	regard	noun	 
+άρα	hence	adv	 
+άρρωστος	ill	adj	 
+άρρωστος	sick	adj	 
+άρωμα {το}	perfume	noun	 
+άσπρος	white	adj	 
+άστατο {το} <At>	astatine <At>	noun	[chem.]
+άσχημος	ugly	adj	 
+άτακτος	rude	adj	 
+άτομο {το}	person	noun	 
+άφιξη {η}	arrival <arr.>	noun	 
+άφνιο {το} <Hf>	hafnium <Hf>	noun	[chem.]
+άχαρος	unsightly	adj	 
+έγκυος	expecting	adj	 
+έγκυος	pregnant	adj	 
+έκθεση {η}	fair	noun	 
+έκπληκτος	surprised	adj	 
+έκπληξη {η}	surprise	noun	 
+έκταση {η}	extent	noun	 
+έκτοτε	since	conj	 
+έκτοτε	since then	adv	 
+ένα	one	 	 
+ένα ποτήρι νερό	a glass of water	 	 
+ένας	a	 	 
+ένδειξη {η}	indication	noun	 
+έννοια {η}	meaning	noun	 
+έντεκα	eleven	 	 
+έξι	six	 	 
+έξοχος	magnificent	adj	 
+έξοχος	outstanding	adj	 
+έξυπνος	clever	adj	 
+έξυπνος	intelligent	adj	 
+έξυπνος	smart  [intelligent]	adj	 
+έξυπνος	wise	adj	 
+έπειτα	after	prep	 
+έρβιο {το} <Er>	erbium <Er>	noun	[chem.]
+έρημος {η}	desert	noun	 
+έρπω	to creep	verb	 
+έρχομαι	to come	verb	 
+έρχομαι μέσα	to step in	verb	 
+έτοιμος	ready	adj	 
+έτσι	so	adv	 
+έτσι	thus  [therefore]	adv	 
+έτσι κι αλλιώς	anyway	adv	 
+έτσι κι αλλιώς	in any case	adv	 
+έχω	to have got	verb	 
+έχω	to have	verb	 
+έχω ανάγκη	to require	verb	 
+έως	until	prep	 
+έως τώρα	so far	adv	 
+ή	or	conj	 
+ήδη	already	adv	 
+ήλιο {το} <He>	helium <He>	noun	[chem.]
+ήλιος {ο}	sun	noun	 
+ήμερος	tame	adj	 
+ήπαρ {το} [καθ.]	liver	noun	[anat.]
+ήπειρος {η}	continent	noun	[geogr.]
+ήρεμος	calm	adj	 
+ήσυχος	quiet	adj	 
+ήχος {ο}	sound	noun	 
+ίδιο	same	 	 
+ίνδιο {το} <In>	indium <In>	noun	[chem.]
+ίππος {ο} [επίσ.]	horse	noun	 
+ίσαμε	until	prep	 
+ίσκιος {ο}	shadow	noun	 
+αέρας {ο}	air	noun	 
+αίθουσα {η} δικαστηρίου	courtroom	noun	 
+αίμα {το}	blood	noun	 
+αίνιγμα {το}	mystery	noun	 
+αίσθημα {το}	feeling	noun	 
+αίσθημα {το} αυτοεκτίμησης	self esteem	noun	 
+αίσθηση {η}	notion	noun	 
+αίσθηση {η}	sense	noun	 
+αίτηση {η}	request	noun	 
+αβγατίζω [παρωχ.]	to increase	verb	 
+αβγό {το}	egg	noun	 
+αβγό {το} μάτι	fried egg	noun	 
+αβοήθητος	helpless	adj	 
+αβρός	considerate	adj	 
+αγάπη {η}	love	noun	 
+αγαθό {το}	good [commodity]	noun	 
+αγαπητός	dear	adj	 
+αγαπώ	to like	verb	 
+αγαπώ	to love	verb	 
+αγγίζω	to touch	verb	 
+αγγελία {η}	advertisement	noun	 
+αγγλικός	English <Eng. / Engl.>	adj	 
+αγγούρι {το}	cucumber [Cucumis sativus L.]	noun	 
+αγελάδα {η}	cow	noun	 
+αγενής	rude	adj	 
+αγενής	unfriendly	adj	 
+αγκάθι {το}	thorn	noun	 
+αγκαλιάζω	to embrace	verb	 
+αγκαλιάζω	to hug	verb	 
+αγκώνας {ο}	elbow	noun	 
+αγνοώ	to ignore	verb	 
+αγνωστικισμός {ο}	agnosticism	noun	[relig.] [philos.]
+αγορά {η}	market	noun	 
+αγορά {η} εργασίας	employment market	noun	[jobs] [econ.]
+αγορά {η} εργασίας	job market	noun	[jobs] [econ.]
+αγοράζω	to purchase	verb	 
+αγροτικός	rural	 	 
+αγρόκτημα {το}	farm	noun	 
+αγχώδης	nervous	adj	 
+αγωγός {ο} φωταερίου	gas main	noun	 
+αγωνία {η}	agony	noun	 
+αγωνιστικό αυτοκίνητο {το}	race car [Am.]	noun	[sports] [autom
+αγωνιστικό αυτοκίνητο {το}	racing car	noun	[sports] [automot.]
+αγόρι {το}	boy	noun	 
+αγόρια {τα}	boys	noun	 
+αδέλφια {τα}	siblings	noun	 
+αδένας {ο}	gland	noun	[anat.]
+αδέξιος	clumsy	adj	 
+αδελφός {ο}	brother <bro.>	noun	 
+αδερφή {η}	sister	noun	 
+αδιάφορος	indifferent	adj	 
+αδιαφιλονίκητος	indisputable	adj	 
+αδυναμία {η}	helplessness	noun	 
+αδύναμος	weak	adj	 
+αδύνατος	impossible	adj	 
+αδύνατος	slim	adj	 
+αδύνατος	thin	adj	 
+αδύνατος	weak	adj	 
+αεροδρόμιο {το}	airport	noun	 
+αεροπλάνο {το}	airplane [Am.]	noun	 
+αεροπλάνο {το}	plane	noun	[aviat.]
+αεροπορική εταιρεία {η}	airline	noun	 
+αετός {ο}	eagle	noun	 
+αηδιαστικός	disgusting	adj	 
+αηδιαστικός	yukky [coll.]	adj	 
+αηδόνι {το}	nightingale	noun	[orn.] [T]
+αθέμιτος	illegal	adj	 
+αθεϊσμός {ο}	atheism	noun	[relig.] [philos.]
+αθλητισμός {ο}	sports {pl}	noun	[sports]
+αιθαλομίχλη {η}	smog	noun	 
+αιθουσαία αίσθηση {η}	sense of balance	noun	 
+αισθάνομαι	to feel	verb	 
+αισιόδοξος	optimistic	adj	 
+αιτία {η}	reason	noun	 
+ακίνητα {τα}	immovable property	noun	 
+ακατάλληλος	inappropriate	adj	 
+ακαύχητος	humble	adj	 
+ακοή {η}	hearing	noun	 
+ακολουθώ	to follow	verb	 
+ακούραστος	tireless	adj	 
+ακούω	to hear	verb	 
+ακριβής	punctual	adj	 
+ακριβής	true	adj	 
+ακριβός	expensive	adj	 
+ακριβώς	exactly	adv	 
+ακριβώς	precisely	adv	 
+ακτή {η}	coast	noun	 
+ακτίνιο {το} <Ac>	actinium <Ac>	noun	[chem.]
+ακόμα	still	adv	 
+ακόμα	yet	adv	 
+ακόμη	still	adv	 
+ακόμη	yet	adv	 
+ακόμη και	even	adv	 
+αλάτι {το}	salt	noun	 
+αλήθεια {η}	trueness	noun	 
+αλήθεια {η}	truth	noun	 
+αλήτης {ο}	bum [Am.] [coll.]	noun	 
+αλαζών {ο}, -ών {η}, -ών {το}, -ες {οι}, -α {τα}	arrogant	adj	 
+αλαντικά {τα}	sausages	noun	 
+αληθής	true	adj	 
+αληθώς	indeed [in truth]	adv	 
+αλλά	but	conj	 
+αλλάζω	to change	verb	 
+αλλάσσω	to change	verb	 
+αλλιώς	else	adv	 
+αλλιώτικος	different	adj	 
+αλλοδαπός {ο}	foreigner	noun	 
+αλμυρός	salty	adj	 
+αμέλεια {η}	negligence	noun	 
+αμέσως	at once	adv	 
+αμβλύς	blunt	adj	 
+αμερίκιο {το} <Am>	americium <Am>	noun	[chem.]
+αμετάβλητα	invariably	adv	 
+αμφιβάλλω	to doubt	verb	 
+αμφιβολία {η}	doubt	noun	 
+αμφότεροι	both	adj pron	 
+αμόνι {το}	anvil	noun	[tools]
+αμύγδαλα {τα}	tonsils	noun	 
+αν	if	conj	 
+ανάγωγος	rude	adj	 
+ανάκατος	mixed	adj past-p	 
+ανάκριση {η}	interrogation	noun	 
+ανάμεικτη σαλάτα {η}	mixed salad	noun	 
+ανάμεικτος	mixed	adj past-p	 
+ανάμεσα σε	among	prep	 
+ανάμικτος	mixed	adj past-p	 
+ανάσα {η} [κοιν.]	breath	noun	 
+ανάστημα {το}	height	noun	 
+ανήσυχος	nervous	adj	 
+ανήσυχος	tense	adj	 
+ανία {η}	boredom	noun	 
+αναίσθητος	unconscious	adj	 
+αναγκαίος	necessary	adj	 
+αναγνωρίζω	to recognize	verb	 
+αναζητώ	to search	verb	 
+αναζητώ	to seek	verb	 
+αναιδής	fresh [coll.]	adj	 
+ανακαλύπτω	to discover	verb	 
+ανακαλύπτω	to find [discover, detect]	verb	 
+ανακινώ	to shake	verb	 
+ανακρίνω	to interrogate	verb	 
+ανακτώ	to retrieve	verb	 
+αναλυτική γεωμετρία {η}	analytic geometry	noun	[math.]
+αναμένω	to expect	verb	 
+αναμένω με ευχαρίστηση	to look forward to sth.	verb	 
+ανανάς {ο}	pineapple [Ananas comosus]	noun	 
+αναπάντεχος	unexpected	adj	 
+αναπαυτικός	comfortable	adj	 
+αναπαύομαι	to rest	verb	 
+αναπνοή {η}	breath	noun	 
+αναπτήρας {ο}	lighter	noun	 
+ανατολή {η}	east <E>	noun	 
+ανατολή {η} του ηλίου	sunrise	noun	 
+ανατολικός	eastern	adj	 
+ανατομία {η}	anatomy	noun	[anat.]
+αναφορά {η}	reference	noun	 
+αναχώρηση {η}	departure [on a journey]	noun	 
+αναψυκτικό {το} [φρούτων]	lemonade [Br.]	noun	 
+αναψυχή {η}	recreation	noun	 
+ανδρικές τουαλέτες {οι}	men's restroom [Am.]	noun	 
+ανεβαίνω	to climb	verb	 
+ανειλικρινής [επίσ.]	dishonest	adj	 
+ανελκυστήρας {ο}	lift [Br.] [elevator]	noun	 
+ανεμώδης	windy	adj	 
+ανεξάρτητος	independent	adj	 
+ανησυχώ	to worry	verb	 
+ανθρώπινο πλάσμα {το}	human being	noun	 
+ανθυγιεινός	unhealthy	adj	 
+ανικανότητα {η}	inability	noun	 
+ανιψιά {η}	niece	noun	 
+ανιψιός {ο}	nephew	noun	 
+αν και	though	conj	 
+ανοίγω	to open	verb	 
+ανοικτό (αστρικό) σμήνος {το}	open cluster	noun	[astron.]
+ανοικτός	open	adj	 
+ανοιχτός	open	adj	 
+ανοιχτός πράσινος	light green	adj	 
+ανομοιογενής	mixed	adj past-p	 
+ανοσοθεραπεία {η}	immunotherapy	noun	[med.]
+ανοσολογία {η}	immunology	noun	[biol.] [acad.] [med.]
+ανοσοποιητικό σύστημα {το}	immune system	noun	[biol.] [med.]
+αντάμα	together <tog.>	adv	 
+αντέχω	to bear	verb	 
+αντίγραφο {το}	copy	noun	 
+αντίθεση, αντιπολίτευση {η}	opposition	noun	 
+αντίθεση {η}	antithesis	noun	 
+αντίκες {οι}	antiques	noun	 
+αντίτιμο {το}	fee	noun	 
+αντίχειρας {ο}	thumb	noun	 
+αντβεντισμός {ο}	Adventism	noun	[relig.]
+αντηλιακό {το}	sun creme	noun	 
+αντιγράφω	copy	verb	 
+αντιδρώ	to react	verb	 
+αντικαθιστώ	to replace	verb	 
+αντικείμενο {το}	item	noun	 
+αντιλαμβάνομαι	to catch	verb	 
+αντιλοκάπρα {η}	pronghorn [Antilocapra americana]	noun	[zool.]
+αντιμόνιο {το} <Sb>	antimony <Sb>	noun	[chem.]
+αντιστέκομαι	to defy	verb	 
+αντιύλη {η}	antimatter	noun	[phys.]
+ανυπόμονος	impatient	adj	 
+ανόητος	silly	adj	 
+ανόητος {ο}	fool	noun	 
+αν όχι	unless	conj	 
+ανώμαλος	erratic	adj	 
+αξία {η}	value	noun	 
+αξία {η}	worth	noun	 
+αξιαγάπητος, -η, -ο	lovable	adj	 
+αξιοθέατα {τα}	sights	noun	 
+αξιοθέατο {το}	sight	noun	 
+αξιοπιστία {η}	reliability	noun	 
+αξιοποιώ στο έπακρο	make the most	 	 
+απέναντι	beyond	adv	 
+απέναντι	opposite	adv	 
+απίδια {τα}	pears	noun	 
+απίστευτος	incredible	adj	 
+απαίσιος	awful	adj	 
+απαίσιος	horrible	adj	 
+απαγγέλω	to pronounce	verb	 
+απαγορευτικός	prohibitive	adj	 
+απαγορεύω	prohibit	verb	 
+απαγόρευση {η}	prohibition	noun	 
+απαιτητικός	ambitious	adj	 
+απαιτώ	to require	verb	 
+απαραίτητος	indispensable	adj	 
+απαραίτητος	necessary	adj	 
+απασχολημένος	busy [with a lot to do]	adj	 
+απασχόληση {η}	occupation	noun	 
+απατηλός	hollow	adj	 
+απελπισμένος	desperate	adj	 
+απεριτίφ {το}	aperitive	noun	 
+απιστία {η}	infidelity	noun	 
+απλοϊκός	simple	adj	 
+απλός	easy	adj	 
+απλός	simple	adj	 
+απλός στρατιώτης {ο}	private	noun	 
+απλώνω	to lay	verb	 
+αποβιβάζομαι	to land	verb	 
+αποβιβάζω	to land	verb	 
+απογείωση {η}	take-off	noun	 
+απογοητεύω	to disappoint	verb	 
+αποδάσωση {η}	deforestation	noun	 
+αποδεικνύω	to prove	verb	 
+αποζημιώνω	to indemnify	verb	 
+αποθέτω	to lay	verb	 
+αποθνήσκω από την πείνα	to starve	verb	 
+αποκαλύπτω	to reveal	verb	 
+αποκλίνω προς	to tend to	verb	 
+αποκοιμιέμαι	to fall asleep	verb	 
+αποκορύφωμα {το}	peak	noun	 
+απολαμβάνω	to enjoy	verb	 
+απολογούμαι	to apologize	verb	 
+αποπερατώνω	to finish	verb	 
+απορρίματα {τα}	garbage [Am.]	noun	 
+απορρίμματα {τα}	litter {sg}	noun	 
+αποσκευές {οι}	baggage {sg}	noun	 
+αποσκευές {οι}	luggage	noun	 
+αποσύρω χρήματα	to withdraw money	verb	 
+αποταμιεύω	to save	verb	 
+αποτρέπω	to prevent	verb	 
+αποφασισμένος	decided	adj past-p	 
+αποφεύγω	to avoid	verb	 
+αποφοίτηση {η}	graduation	noun	 
+αποχωρητήριο {το}	toilet	noun	 
+αποχωρητήριο {το} [επίσ.] [παρωχ.]	restroom [Am.]	noun	 
+απρόσεκτος	careless	adj	 
+από	from	prep	 
+από	of	prep	 
+από	than	conj	 
+απόγευμα {το}	afternoon	noun	 
+απόδειξη {η}	receipt	noun	 
+απόθεμα {το}	supply	noun	 
+από κάτω	below	adv	 
+απόλυτα	perfectly	adv	 
+από πάνω	above	adv prep	 
+από πάνω	over	adv	 
+απόπειρα {η}	attempt	noun	 
+από πού	where ... from	adv	 
+απόσβεση {η}	depreciation	noun	 
+απόσταση {η}	distance	noun	 
+απόφαση {η}	decision	noun	 
+απόφαση {η} διαζυγίου	decree of divorce	noun	[law]
+απύθμενος	depthless	adj	 
+αράπικα φυστίκια {τα}	peanuts	noun	 
+αράπικο φυστίκι {το}	peanut	noun	 
+αράχνη {η}	spider	noun	 
+αρέσω	to like	verb	 
+αργά	late	adv	 
+αργυροπελεκάνος {ο}	Dalmatian pelican [Pelecanus crispus]	noun	 
+αργός	slow	adj	 
+αργότερα	later	adv	 
+αρειανισμός {ο}	Arianism	noun	[relig.] [hist.]
+αριθμός {ο}	digit	noun	 
+αριθμός {ο}	figure	noun	 
+αριθμός {ο}	number	noun	 
+αριθμός {ο} τηλεφώνου	phone number	noun	 
+αριθμώ	to count	verb	 
+αρκετά	enough	adv	 
+αρκετά	fairly	adv	 
+αρκετά	plenty	adj adv	 
+αρκετά	quite	adv	 
+αρκετοί	several	adj	 
+αρκετός	enough	adj	 
+αρκούδα {η}	bear	noun	 
+αρμενίζω	to sail	verb	 
+αρνί {το}	lamb	noun	 
+αρπάζω	to catch	verb	 
+αρπάζω	to seize	verb	 
+αρραβωνιαστικιά {η}	fiancée	noun	 
+αρραβωνιαστικός {ο}	fiancé	noun	 
+αρρώστια {η}	ailment	noun	 
+αρρώστια {η}	disease	noun	 
+αρσενικό {το} <As>	arsenic <As>	noun	[chem.]
+αρσενικός	male	adj	 
+αρτοποιός {ο}	breadmaker	noun	 
+αρχάριος {ο}	beginner	noun	 
+αρχή {η}	start	noun	 
+αρχίζω	to commence	verb	 
+αρχαίος	ancient	adj	 
+αρχαιοαστρονομία {η}	archaeoastronomy	noun	[astron.]
+αρχαιοαστρονομία {η}	archeoastronomy [Am.]	noun	[astron.]
+αρχιτεκτονική {η}	architecture	noun	[archi.]
+ας πούμε	so to speak	adv	 
+ασήμαντος	insignificant	adj	 
+ασανσέρ {το}	elevator [Am.] [lift]	noun	 
+ασανσέρ {το} [κοιν.]	lift [Br.] [elevator]	noun	 
+ασβέστης {ο}	lime	noun	 
+ασημί {το}	silver	noun	 
+ασθένεια {η}	ailment	noun	 
+ασθένεια {η}	disease	noun	 
+ασθενής	sick	adj	 
+ασθενοφόρο {το}	ambulance	noun	[automot.] [med.]
+ασπίδα {η}	shield	noun	 
+αστάτιο {το} <At>	astatine <At>	noun	[chem.]
+ασταμάτητος	nonstop	adj	 
+αστείο {το}	joke	noun	 
+αστείος	funny	adj	 
+αστράγαλος {ο}	ankle	noun	 
+αστραπή	lightning	noun	 
+αστρονομία {η}	astronomy	noun	[astron.]
+αστυνομία {η}	police {pl}	noun	 
+αστυνομικό αυτοκίνητο {το}	police car	noun	[automot.]
+αστυνομικός {ο}	policeman	noun	 
+ασφάλεια {η}	safety	noun	 
+ασφαλής	confident	adj	 
+ασφαλώς	certainly	adv	 
+ασφαλώς	for certain	adv	 
+ασφαλώς	for sure	 	 
+ατμάμαξα {η}	steam locomotive	noun	[rail]
+ατμός {ο}	steam	noun	 
+ατμός {ο}	vapor [Am.]	noun	 
+ατομικός	private	adj	 
+αυγό {το}	egg	noun	 
+αυθάδης	arrogant	adj	 
+αυθάδης	cheeky	adj	 
+αυλή {η}	court	noun	 
+αυλαία {η}	curtain	noun	 
+αυξάνω	to increase	verb	 
+αυστηρός	rigorous	adj	 
+αυτή	she	pron	 
+αυτή η ίδια	herself	pron	 
+αυτί {το}	ear	noun	[anat.]
+αυτοί	these	pron	 
+αυτοί	they	pron	 
+αυτοκίνητο {το}	car	noun	 
+αυτοκίνητο {το} αντίκα	antique car	noun	[automot.]
+αυτοκίνητο {το} παντός εδάφους	all-terrain vehicle	noun	[autom
+αυτοκίνητο {το} παντός εδάφους	off-road vehicle	noun	[automot.
+αυτοκινητόδρομος {ο}	freeway [Am.]	noun	 
+αυτοκρατορικός {ο} πιγκουίνος	emperor penguin [Aptenodytes for	 	 
+αυτού	his [possessive]	pron	 
+αυτό	it	pron	 
+αυτό	this	pron	 
+αυτόν	him [direct object]	pron	 
+αυτός	he	pron	 
+αυτός ο ίδιος	himself	pron	 
+αυχένας {ο}	neck	noun	 
+αφήνω	to let	verb	 
+αφήνω να πέσει	to drop [let go]	verb	 
+αφίσα {η}	poster	noun	 
+αφινικός χώρος {ο}	affine space	noun	[math.]
+αχλάδια {τα}	pears	noun	 
+αϊνσταΐνιο {το} <Es>	einsteinium <Es>	noun	[chem.]
+αϋπνία {η}	insomnia	noun	 
+αύριο	tomorrow	adv	 
+βάζω	to lay	verb	 
+βάζω	to put on [clothes]	verb	 
+βάζω	to put	verb	 
+βάλανος {η}	glans [penis]	noun	 
+βάριο {το} <Ba>	barium <Ba>	noun	[chem.]
+βάρκα {η}	boat	noun	 
+βάρος {το}	weight <w., wt.>	noun	 
+βέβαια	certainly	adv	 
+βέβαιος	certain	adj	 
+βέρος	true	adj	 
+βήμα {το}	pace [also unit of measurement]	noun	 
+βήχας {ο}	cough	noun	 
+βίδα {η}	screw	noun	 
+βαδίζω	to walk	verb	 
+βαθμοί {οι}	degrees <deg.>	noun	 
+βαθμολογία {η}	score	noun	 
+βαθμολογώ	to score	verb	 
+βαθμός {ο}	mark [esp. Br.]	noun	 
+βαθύς	deep	adj	 
+βακτηριολογία {η}	bacteriology	noun	[biol.] [acad.] [med.]
+βαλίτσα {η}	suitcase	noun	 
+βαμβάκι {το}	cotton wool	noun	 
+βανίλια {η}	vanilla	noun	 
+βανδαλισμός {ο}	vandalism	noun	 
+βαρβάρα {η}	(common) shelduck [Tadorna tadorna]	noun	[orn.] [T
+βαρετός	boring	adj	 
+βαριεστημένος	bored	adj past-p	 
+βαρύς	heavy	adj	 
+βασίλισσα {η}	queen	noun	 
+βασιλιάς {ο}	king	noun	 
+βασιλικός πείρος {ο}	king pin	noun	[automot.]
+βδομάδα {η}	week	noun	 
+βεβαίως	certainly	adv	 
+βεβαίως	of course	adv	 
+βελτίωση {η}	improvement	noun	 
+βελτιώνω	to enhance	verb	 
+βελτιώνω	to improve	verb	 
+βελόνα {η}	pin	noun	 
+βενζίνη {η}	petrol [Br.]	noun	 
+βενζινάδικο {το}	gas station [Am.]	noun	 
+βενζινάδικο {το}	petrol station [Br.]	noun	 
+βερεσέ	on credit	adv	 
+βηματισμός {ο}	pace [horse]	noun	 
+βηρύλλιο {το} <Be>	beryllium <Be>	noun	[chem.]
+βιαστικά	hurriedly	adv	 
+βιαστικά	quickly	adv	 
+βιασύνη {η}	hurry	noun	 
+βιβλίο {το}	book	noun	 
+βιδώνω	to screw	verb	 
+βιολογία {η}	biology	noun	[biol.] [acad.]
+βιόλα {η}	viola	noun	[mus.]
+βλάκας {ο}	fool	noun	 
+βλέμμα {το}	glimpse	noun	 
+βλέπω	to look	verb	 
+βλέπω	to see	verb	 
+βλέπω τηλεόραση	to watch television	verb	 
+βλαβερός	noxious	adj	 
+βλαμμένος	hurt	adj past-p	 
+βλεφαρίδα {η}	eyelash	noun	 
+βοηθητικός	auxiliary	adj	 
+βοηθός {ο}	auxiliary	noun	 
+βοηθώ	to help	verb	 
+βολικός	convenient	adj	 
+βορράς {ο}	north <N>	noun	 
+βοσκός {ο}	shepherd	noun	[jobs]
+βοτανική {η}	botany	noun	[bot.]
+βοτανικός	herbal	adj	 
+βουνό {το}	mountain	noun	 
+βούρτσα {η} μαλλιών	hairbrush	noun	 
+βούτυρο {το}	butter	noun	 
+βρέχει	to rain	verb	 
+βρέχω [μτβ.]	wet	verb	 
+βρίσκω καλό	to like	verb	 
+βραδινό {το} [φαγητό]	dinner	noun	 
+βραζιλιάνικος	Brazilian	adj	 
+βραχίονας {ο}	upper arm	noun	 
+βραχιόλι {το}	bracelet	noun	 
+βραχιόνιος τρικέφαλος μυς {ο}	triceps	noun	[anat.]
+βραχύς	short	adj	 
+βροντή {η}	thunder	noun	 
+βροχερός	rainy	adj	 
+βρυολογία {η}	bryology	noun	[bot.] [acad.]
+βρυχώμαι [επίσ.]	to yell	verb	 
+βρόντος {ο}	bang	noun	 
+βρώμικος	dirty	adj	 
+βρώμιο {το} <Br>	bromine <Br>	noun	[chem.]
+βόριο {το} <B>	boron <B>	noun	[chem.]
+βότανα {τα}	herbs	noun	 
+γάλα {το}	milk	noun	 
+γάμπες {οι}	calves	noun	 
+γάντια {τα}	gloves	noun	 
+γάντια {τα} χωρίς δάχτυλα	mittens	noun	 
+γάτα {η}	cat	noun	 
+γένι {το}	beard	noun	 
+γένια {τα}	beard	noun	 
+γέφυρα {η}	bridge	noun	 
+γαβγίζω	to bark	verb	 
+γαδολίνιο {το} <Gd>	gadolinium <Gd>	noun	[chem.]
+γαλάζια φάλαινα {η}	blue whale [Balaenoptera musculus]	noun	[z
+γαλάζιος	blue	adj	 
+γαλακτοκομείο {το}	dairy	noun	 
+γαλανός	blue	adj	 
+γαλλικός	French <Fr.>	adj	 
+γαμπρός {ο}	bridegroom	noun	 
+γαμπρός {ο}	groom [bridegroom]	noun	 
+γαμπρός {ο}	son-in-law	noun	 
+γαρίδα {η}	prawn	noun	 
+γαστρονομία {η}	gastronomy	noun	[gastr.]
+γείτονας {ο}	neighbor [Am.]	noun	 
+γείτονας {ο}	neighbour [Br.]	noun	 
+γεγονός {το}	fact	noun	 
+γελαδάρης {ο}	cattle egret [Bubulcus ibis]	noun	[orn.] [T]
+γελοίος	ridiculous	adj	 
+γελώ	to laugh	verb	 
+γεμίζω	to stuff	verb	 
+γεμιστός	stuffed	adj past-p	 
+γενέθλια {τα}	birthday	noun	 
+γενετική μηχανική {η}	genetic engineering	noun	[biol.] [agr.]
+γενναιόδωρος {ο}	generous [liberal, lavish]	adj	 
+γενναιότητα {η}	courage	noun	 
+γεννημένος	born <b.>	adj past-p	 
+γερμανικά {τα}	German	noun	 
+γερμανική γλώσσα {η}	German	noun	 
+γερός	strong	adj	 
+γεωγραφία {η}	geography	noun	[geogr.]
+γεωλογία {η}	geology	noun	[geol.] [acad.]
+γεύμα {το}	meal	noun	 
+γεύομαι	to taste	verb	 
+γεύση {η}	taste	noun	 
+γεώμηλο {το} [επίσ.]	potato	noun	 
+για	about	prep	 
+για	for	prep	 
+για	to	prep	 
+γιαγιά {η}	grandmother	noun	 
+γιακάς {ο}	collar	noun	 
+για να	in order to	 	 
+για πάντα	forever <4E>	adv	 
+για παράδειγμα	for instance <f.i.>	adv	 
+για ποιό λόγο	what for	adv	 
+γιαπωνέζικος	Japanese	adj	 
+γιατί	because	conj	 
+γιατί	why	adv	 
+γιατρός {ο}	physician	noun	 
+για όλους	for all	 	 
+γιγαντόσωμος	huge	adj	 
+γιλέκο {το}	waistcoat [Br.]	noun	 
+γιορτάζω	to celebrate	verb	 
+γιορτή {η}	celebration	noun	 
+γιος {ο}	son	noun	 
+γκαράζ {το}	garage	noun	 
+γκαρσόνι {το} [κοιν.]	waiter	noun	[gastr.] [jobs]
+γκρί	grey [esp. Br.]	adj	 
+γκρίζος	gray [Am.]	adj	 
+γκρινιάζω	to beef [coll.]	verb	 
+γκρινιάζω	to complain	verb	 
+γκρι υφαλοκαρχαρίας {ο}	gray reef shark [Carcharhinus amblyrhy	 	 
+γκρι υφαλοκαρχαρίας {ο}	grey reef shark [Br.] [Carcharhinus am	 	 
+γκόμενος {ο}	boyfriend	noun	 
+γλάρος {ο}	seagull	noun	 
+γλυκά {τα}	sweets	noun	 
+γλυκός	sweet	adj	 
+γλυκύς	sweet	adj	 
+γλωσσολογία {η}	linguistics {pl} [treated as sg.]	noun	[ling.]
+γλώσσα {η}	language <lang.>	noun	 
+γλώσσα {η}	tongue [Lingua / Glossa]	noun	 
+γνάθος {η}	jawbone	noun	 
+γνωρίζω	to know	verb	 
+γνώμη {η}	mind	noun	 
+γνώμη {η}	opinion	noun	 
+γνώσεις {οι}	skills	noun	 
+γνώση {η}	knowledge	noun	 
+γοητεύω	to intrigue	verb	 
+γονείς {οι}	parents	noun	 
+γουρούνι {το} [κοιν.]	pig	noun	 
+γράμμα {το}	letter	noun	 
+γρήγορα	quickly	adv	 
+γρήγορος	rapid	adj	 
+γρίφος {ο}	mystery	noun	 
+γραμματόσημο {το}	stamp	noun	 
+γραφείο {το}	office	noun	 
+γυαλί {το}	glass	noun	 
+γυαλιά {τα}	glasses {pl}	noun	 
+γυμνός	bare	adj	 
+γυνή {η} [καθ.] [παρωχ.]	woman	noun	 
+γυναίκα {η}	woman	noun	 
+γυπαετός {ο}	bearded vulture [Gypaetus barbatus]	noun	[orn.] [
+γυρίζω	to spin	verb	 
+γόμα {η}	rubber [Br.]	noun	 
+γόνατο {το}	knee [Genu]	noun	 
+γόνιμος	fertile	adj	 
+γύρω	around	adv	 
+δάγκωμα {το}	bite	noun	 
+δάκρυ {το}	tear	noun	 
+δάκτυλα {τα} των ποδιών	toes [Digiti pedis]	noun	 
+δάσκαλος {ο}	teacher	noun	[educ.]
+δάσος {το}	forest	noun	 
+δάχτυλο {το}	finger [Digitus manus]	noun	 
+δάχτυλο {το} του ποδιού	toe [Digitus pedis]	noun	 
+δέκα	ten	 	 
+δέκαθλο {το}	decathlon	noun	[sports]
+δέντρο {το}	tree	noun	 
+δέρμα {το}	leather	noun	 
+δέρμα {το}	skin	noun	 
+δέχομαι	to agree	verb	 
+δήλωση {η}	statement	noun	 
+δίκαια	fairly	adv	 
+δίκαιος	fair	adj	 
+δίλημμα {το}	quandary	noun	 
+δίνω	to give	verb	 
+δίνω ευχαρίστηση	to please	verb	 
+δίνω οδηγίες	to instruct	verb	 
+δίπλα	next to	prep	 
+δίπλα σε	by [next to]	prep	 
+δαγκώνω	to bite	verb	 
+δανείζομαι	to borrow	verb	 
+δανείζω	to borrow	verb	 
+δανειστής {ο}	creditor	noun	 
+δαπανηρός	expensive	adj	 
+δασμός {ο}	customs duty	noun	 
+δαχτυλίδι {το}	ring	noun	 
+δείγμα {το}	specimen	noun	 
+δείκτης [δάχτυλο] {ο}	forefinger	noun	[anat.]
+δείπνο {το}	dinner	noun	 
+δείχνω	to show	verb	 
+δείχνω [φαίνομαι]	to look	verb	 
+δεικνύω [παρωχ.]	to show	verb	 
+δεκαέξι	sixteen	 	 
+δεκαεννέα	nineteen	 	 
+δεκαεννιά	nineteen	 	 
+δεκαεπτά	seventeen	 	 
+δεκαοχτούρα {η}	(Eurasian) collared dove [Streptopelia decaoct	 	 
+δεκαπέντε	fifteen	 	 
+δεκατέσσερα	fourteen	 	 
+δεκατέσσερις	fourteen	 	 
+δεντρολίβανο {το}	rosemary [Rosmarinus officinalis]	noun	[bot.
+δεξιά	to / on the right	adv	 
+δεξιόστροφος	clockwise	adj	 
+δερματολογία {η}	dermatology	noun	[acad.] [med.]
+δερματοχελώνα {η}	leatherback (sea) turtle [Dermochelys coriac	 	 
+δερματοχελώνα {η}	leathery turtle [Dermochelys coriacea]	noun	 
+δερματοχελώνα {η}	lute turtle [Dermochelys coriacea]	noun	[zoo
+δευτερόλεπτο {το}	second <s, sec.>	noun	 
+δηλώ	to pronounce	verb	 
+δημήτριο {το} <Ce>	cerium <Ce>	noun	[chem.]
+δημαρχείο {το}	town hall	noun	 
+δημιουργία {η}	creation	noun	 
+δημιουργικός	creative	adj	 
+δημιουργικότητα {η}	creativity	noun	 
+δημιουργός {ο}	creator	noun	 
+δημιουργώ	create	verb	 
+δημοκρατία {η}	democracy	noun	[pol.]
+δημοσιότητα {η}	public	noun	 
+δημοσκόπος {ο}	pollster	noun	 
+διά	via	prep	 
+διάβασμα {το}	study	noun	 
+διάθεση {η}	mood	noun	 
+διάλειμμα {το}	break	noun	 
+διά μέσου	across	prep	 
+διά μιας	at once	adv	 
+διά παντός	forever <4E>	adv	 
+διάρκεια {η}	length	noun	 
+διάφορος	different	adj	 
+διάφορος	sundry	adj	 
+διένεξη {η}	dispute	noun	 
+διένεξη {η}	quarrel	noun	 
+διαίσθηση {η}	intuition	noun	 
+διαβάζω	to read	verb	 
+διαβατήριο {το}	passport	noun	 
+διαβεβαιώνω	to reinforce	verb	 
+διαζευγμένος [επίσ.]	divorced <div.>	adj past-p	 
+διαθήκη {η}	testament	noun	 
+διαθήκη {η}	will	noun	 
+διακλάδωση {η}	junction	noun	 
+διακοπές {οι}	holidays [esp. Br.]	noun	 
+διακοπή {η}	interruption	noun	 
+διακόπτης {ο}	switch	noun	 
+διακόπτης {ο} [φωτός]	light switch	noun	 
+διακόπτω	interrupt	verb	 
+διακόσια	two hundred	 	 
+διαλέγω	to choose	verb	 
+διαλέγω	to pick	verb	 
+διαμέρισμα {το}	apartment <apt.> [Am.]	noun	 
+διαμέρισμα {το}	flat [esp. Br.]	noun	 
+δια μέσου	across	adv	 
+διαπληκτίζομαι	to argue	verb	 
+διαπληκτίζομαι	to quarrel	verb	 
+διαπραγματεύομαι	to negotiate	verb	 
+διαρκώ	to take [to last]	verb	 
+διαρκώ [κοιν.]	to take [to last]	verb	 
+διασκέδαση {η}	enjoyment	noun	 
+διασκέδαση {η}	fun	noun	 
+διασκέδαση {η}	pleasure	noun	 
+διασταύρωση {η}	intersection	noun	 
+διατεθειμένος	willing	adj	 
+διατηρείται μέχρι ...	good until ... [food]	 	 
+διατηρώ	to conserve	verb	 
+διατηρώ	to keep	verb	 
+διατηρώ	to maintain	verb	 
+διατριβή {η}	dissertation	noun	 
+διατριβή {η}	thesis	noun	 
+διαφορετικός	different	adj	 
+διαφωνώ	to disagree	verb	 
+διαχωρισμός {ο}	distinction	noun	 
+διαχωρισμός {ο}	sharing	noun	 
+διδάσκω	to teach	verb	 
+διεπαφή {η}	interface	noun	 
+διερμηνέας {ο}	interpreter	noun	 
+διερώτηση {η}	inquiry	noun	 
+διεύθυνση {η}	address	noun	 
+διηγούμαι	to tell	verb	 
+δικάζω	to try	verb	 
+δικαιώματα	rights	 	 
+δικαιώματα {τα}	charge [fee]	noun	 
+δικαστήριο {το}	court	noun	 
+δικαστική απόφαση {η}	verdict	noun	 
+δικηγόρος {ο}	lawyer	noun	 
+δικτατορία {η}	dictatorship	noun	[pol.]
+δικό μου	my [determiner]	pron	 
+δικός μας	ours	pron	 
+δικός του	his [possessive]	pron	 
+διορθώνω	to correct	verb	 
+διπλάσιος	double	adj	 
+διπλός	double	adj	 
+διστάζω	to hesitate	verb	 
+διψασμένος	thirsty	adj	 
+διότι	because	conj	 
+δοκιμάζω	to taste	verb	 
+δοκιμάζω	to try	verb	 
+δομή {η}	structure	noun	 
+δοξολογώ	to celebrate	verb	 
+δουλειά {η} [κοιν.]	job	noun	 
+δουλεύω	to work	verb	 
+δράστης {ο}	offender	noun	 
+δραστηριότητα {η}	activity	noun	 
+δρομολόγιο {το}	timetable	noun	 
+δροσερός	fresh	adj	 
+δρόμος {ο}	road <Rd.>	noun	 
+δρόμος {ο}	way	noun	 
+δυνατά	loud	adv	 
+δυνατός	strong	adj	 
+δυνατός [εφικτός]	possible	adj	 
+δυστυχισμένος	unhappy	adj	 
+δυστυχώς	unfortunately	adv	 
+δυσφήμηση {η}	denigration	noun	 
+δωμάτιο {το}	room	noun	 
+δόντι {το}	tooth	noun	 
+δόντια {τα}	teeth	noun	 
+δύναμη {η}	force [symbol F]	noun	 
+δύναμη {η}	power	noun	 
+δύο	two	 	 
+δύση {η}	west <W>	noun	 
+δύσκολος	difficult	adj	 
+δώδεκα	twelve	 	 
+δώρο {το}	gift	noun	 
+δώρο {το}	present	noun	 
+εάν	if	conj	 
+εάν	unless	conj	 
+εάν	whether	conj	 
+είδος {το}	sort	noun	 
+είκοσι	twenty	 	 
+είκοσι ένα	twenty-one	 	 
+είμαι	I am	 	 
+είμαι	to be	verb	 
+είμαι διψασμένος	to be thirsty	verb	 
+είμαι ξαπλωμένος	to lie [be in a horizontal position, be situa	 	 
+είμαι στην ώρα μου	to be on time	verb	 
+εί μη	unless	conj	 
+είναι	it's [it is]	 	 
+είσοδος {η}	entrance	noun	 
+είτε ... είτε	either ... or	conj	 
+είτε	either	conj	 
+είχε	sb./sth. had	 	 
+εαυτήν [καθ.]	herself	pron	 
+εαυτός	self	pron	 
+εβδομάδα {η}	week	noun	 
+εβδομήντα	seventy	 	 
+εγγονή {η}	granddaughter	noun	 
+εγγόνι {το}	grandchild	noun	 
+εγγόνι {το}	granddaughter	noun	 
+εγκάρσια	across	adv	 
+εγκαίρως	on time	adv	 
+εγκαταλείπω	abandon	verb	 
+εγκαταλείπω	to give up [surrender, relinquish]	verb	 
+εγκαταλείπω	to leave	verb	 
+εγκαταλειμμένος	lonely	adj	 
+εγκυμοσύνη {η}	pregnancy	noun	 
+εγώ	I	pron	 
+εδεσματολόγιο {το} [επίσ.]	menu	noun	 
+εδώ	here	adv	 
+εθνοκεντρισμός {ο}	ethnocentrism	noun	[sociol.]
+ειδικά	especially <esp.>	adv	 
+εικόνα {η}	picture	noun	 
+ειλικρινά	faithfully	adv	 
+ειλικρινά	to be honest	adv	 
+ειρήνη {η}	peace	noun	 
+εις	upon	prep	 
+εις [καθ.]	in	prep	 
+εις [καθ.]	to	prep	 
+εισάγω	to introduce	verb	 
+εισαγωγή {η}	import	noun	 
+εισβάλλω	to invade	verb	 
+εισιτήριο {το}	ticket	noun	 
+εκ	from	prep	 
+εκατό	hundred	 	 
+εκδήλωση {η}	event	noun	 
+εκδικάζω	to try	verb	 
+εκεί	there	adv	 
+εκείνοι	those	pron	 
+εκείνος	that	pron	 
+εκεί πέρα	over	adv	 
+εκεί πέρα	over there	adv	 
+εκκεντρικός	flamboyant	adj	 
+εκκλησία {η}	church	noun	 
+εκλείπω	to disappear	verb	 
+εκλείπω	to vanish	verb	 
+εκμισθωτής {ο}	landlord	noun	 
+εκ νέου	again	adv	 
+εκπαίδευση {η}	education	noun	 
+εκπαιδευτικός	educational	adj	 
+εκπλήσσω	to surprise	verb	 
+εκπληρώνω	to carry out	verb	 
+εκπρόθεσμος	overdue	adj	 
+εκτελώ	to carry out	verb	 
+εκτελώ	to implement	verb	 
+εκτενής	large-scale	adj	 
+εκτιμώμενος	estimated <est.>	adj past-p	 
+εκτοξεύω	to launch	verb	 
+εκτός (από)	except (for)	 	 
+εκτός	except	prep conj	 
+εκτός	unless	conj	 
+εκτός εάν	unless	conj	 
+εκφωνώ	to pronounce	verb	 
+ελάχιστα	least	adv	 
+ελέφαντας {ο}	elephant	noun	[zool.] [T]
+ελατήριο {το}	spring	noun	 
+ελαττωματικός	faulty	adj	 
+ελεύθερος	free	adj	 
+ελλιπής	short	adj	 
+ελπίδα {η}	hope	noun	 
+εμείς	we	pron	 
+εμπιστεύομαι	trust	verb	 
+εμπιστοσύνη {η}	trust	noun	 
+εμποδίζω	prevent	verb	 
+εμποδίζω	to obstruct	verb	 
+εμπρός	ahead	adv prep	 
+εμπόριο {το}	commerce	noun	[comm.]
+εμπόριο {το}	trade	noun	[comm.]
+εμφανίζομαι	to loom	verb	 
+εμφανίζω	to show	verb	 
+εμφανίσιμος	good-looking	adj	 
+ενέργεια {η}	act	noun	 
+ενήλικας {ο}	adult	noun	 
+ενίοτε	sometimes	adv	 
+εναντίον	against	prep	 
+ενδεχομένως	perhaps	adv	 
+ενδιαφέρων	interesting	adj	 
+ενδύομαι [απαρχ.]	to dress	verb	 
+ενενήντα	ninety	 	 
+ενθαρρύνω	to encourage	verb	 
+ενθουσιασμένος	excited	adj past-p	 
+ενικός	singular	adj	 
+ενισχύω	to reinforce	verb	 
+ενισχύω	to strengthen	verb	 
+εννοώ	to mean	verb	 
+εννοώ	to understand	verb	 
+ενοχλητικό, -ά	annoying	adj pres-p	 
+ενοχλώ	to bother	verb	 
+ενοχλώ	to disturb	verb	 
+εν συντομία [επίσ.]	briefly	adv	 
+εντάξει	all right	 	 
+εντάξει	all right	adv	 
+εντελώς	utterly	adv	 
+εντολή {η}	instruction	noun	 
+εντομολογία {η}	entomology	noun	[entom.] [acad.] [zool.]
+εν τούτοις	however	adv conj	 
+εν τούτοις	though	conj	 
+εντός	inside	adv prep	 
+εντόσθια {τα}	guts	noun	 
+ενόσω	while	conj	 
+ενώ	while	conj	 
+ενώνω	to join	verb	 
+εξάδελφος {ο}	cousin	noun	 
+εξάλλου	furthermore	adv	 
+εξέδρα {η}	platform	noun	 
+εξέλιξη {η}	evolution	noun	 
+εξέχων [καθ.]	outstanding	adj	 
+εξήγηση {η}	explanation	noun	 
+εξήντα	sixty	 	 
+εξίσωση {η} Λαπλάς	Laplace's equation	noun	[math.]
+εξαίρετος	outstanding	adj	 
+εξαίσιος	superb	adj	 
+εξαγωγή {η}	export	noun	 
+εξαιρετικός	excellent	adj	 
+εξαιτίας	because of	prep	 
+εξαιτίας	due to	prep	 
+εξαντλώ	to exhaust	verb	 
+εξαπάτηση {η}	fraud	noun	 
+εξαπατώ	to fool sb./sth.	verb	 
+εξαρτημένος	dependent	adj	 
+εξαρτημένος	hooked [coll.] [addicted]	adj	 
+εξαφανίζομαι	to disappear	verb	 
+εξαφανίζομαι	to vanish	verb	 
+εξεζητημένος	flamboyant	adj	 
+εξελικτική βιολογία {η}	evolutionary biology	noun	[biol.]
+εξετάζω	to examine	verb	 
+εξηγώ	to explain	verb	 
+εξημερωμένος	tame	adj	 
+εξημερώνω	tame	verb	 
+εξοικονομώ	to save	verb	 
+εξοπλισμός {ο}	equipment	noun	 
+εξουσιάζω	to own sth.	verb	 
+εξυμνώ	to celebrate	verb	 
+εξυπηρετικός	accommodating	adj	 
+εξυπηρετικός	helpful [of a person]	adj	 
+εξυπνώ	to wake sb.	verb	 
+εξυπνώ	to wake up	verb	 
+εορτάζω	to celebrate	verb	 
+επάγγελμα {το}	job	noun	 
+επάνω	about	prep	 
+επάνω εις	onto	prep	 
+επάνω σε	onto	prep	 
+επάνω σε	upon	prep	 
+επέκταση {η}	expansion	noun	 
+επέμβαση {η}	intervention	noun	 
+επέτειος {η}	anniversary	noun	 
+επί	on	prep	 
+επίδεσμος {ο}	bandage	noun	 
+επίκαιρος	up-to-date [attr.]	adj	 
+επίπεδος	flat	adj	 
+επίσκεψη {η}	visit	noun	 
+επί τη ευκαιρία	by the way <BTW>	adv	 
+επαγγελματική εκπαίδευση {η}	apprenticeship	noun	 
+επαναθέτω	to replace	verb	 
+επαναλαμβάνω	to repeat	verb	 
+επαρκής	enough	adj	 
+επαυξάνω	to increase	verb	 
+επείγων	urgent	adj	 
+επειδή	as	conj	 
+επειδή	because	conj	 
+επεμβαίνω	to intervene	verb	 
+επευφημώ	to cheer	verb	 
+επηρεάζω	affect	verb	 
+επιβάλλομαι	to assert oneself	verb	 
+επιβραδύνω	to slow down	verb	 
+επιδεκτικός	capable	adj	 
+επιδεξιότητα {η}	skill	noun	 
+επιδημιολογία {η}	epidemiology	noun	[acad.] [med.]
+επιδόρπιο {το}	dessert	noun	 
+επιδόρπιο {το}	sweet [Br.]	noun	 
+επιδότηση {η}	subsidy	noun	 
+επιζητώ	to seek	verb	 
+επιθετικός	aggressive	adj	 
+επικίνδυνος	dangerous	adj	 
+επικερδής	lucrative	adj	 
+επικρατώ	to assert oneself	verb	 
+επιλογή {η}	choice	noun	 
+επιμένω	to insist	verb	 
+επισκέπτης {ο}	visitor	noun	 
+επισκέπτομαι	to visit	verb	 
+επιστολή {η}	letter	noun	 
+επιτάχυνση {η}	acceleration	noun	 
+επιτήδευση {η}	affectation	noun	 
+επιτήρηση {η}	supervision	noun	 
+επιτρέπεται	allowed	adj past-p	 
+επιτρέπεται	to be allowed to	verb	 
+επιτρέπω	to allow	verb	 
+επιτρεπόμενος	allowed	adj past-p	 
+επιτυχής	successful	adj	 
+επιτυχία {η}	success	noun	 
+επιχείρηση {η}	business	noun	 
+επιχείρηση {η}	enterprise	noun	 
+επομένως	consequently	adv	 
+επομένως	hence	adv	 
+επομένως	therefore	adv	 
+εποπτεία {η}	supervision	noun	 
+επώνυμο {το}	surname	noun	 
+εργένης {ο}	bachelor	noun	 
+εργαλείο {το}	tool	noun	 
+εργασία {η}	job	noun	 
+εργαστήριο {το}	workshop	noun	 
+εργατικός	hardworking	adj	 
+ερεθισμένος	sore [inflammatory]	adj	 
+ερευνώ	to search	verb	 
+ερημοσφυριχτής {ο}	greater sand plover [Charadrius leschenault	 	 
+ερμηνεία {η}	interpretation	noun	 
+ερμηνευτής {ο}	actor	noun	 
+ερμηνεύω	to construe	verb	 
+ερμηνεύω	to interpret	verb	 
+ερμηνεύω	to render	verb	 
+ερμηνεύω	to translate	verb	 
+ερπετολογία {η}	herpetology	noun	[acad.] [zool.]
+ερυθροκυανός	purple	adj	 
+ερυθρός λύγκας {ο}	bobcat [Lynx rufus]	noun	[zool.] [T]
+ερωτευμένος	in love [postpos.]	adj	 
+ερωτηματικός	interrogative	adj	 
+ερώτημα {το}	question	noun	 
+εσείς	you {pl} [informal]	pron	 
+εσκεμμένα	on purpose	adv	 
+εστιατόριο {το}	eatery [Am.]	noun	 
+εστιατόριο {το}	restaurant	noun	[gastr.]
+εσφαλμένος	wrong	adj	 
+εσωτερική πτήση {η}	domestic flight	noun	 
+εσύ	you [informal]	pron	 
+εσύ ο ίδιος	yourself	pron	 
+εσώρουχα {τα}	underwear	noun	 
+ετερογενής	heterogeneous	adj	 
+ετικέτα {η}	label	noun	 
+ευαίσθητος	sensitive	adj	 
+ευγένεια {η}	consideration	noun	 
+ευγενικά	kindly	adv	 
+ευγενικός	nice	adj	 
+ευγνώμων	thankful	adj	 
+ευημερία {η}	prosperity	noun	 
+ευημερώ	prosper	verb	 
+ευθεία	straight	adv	 
+ευθεία	straight ahead	adv	 
+ευθεία	straight on	adv	 
+ευθύς	at once	adv	 
+ευκατάστατος	prosperous	adj	 
+ευμάρεια {η}	affluence	noun	 
+ευπρόσδεκτος	welcome	adj	 
+ευρίσκω καλόν	to like	verb	 
+ευρύς	wide	adj	 
+ευσυνείδητος	conscientious	adj	 
+ευτελής	low	adj	 
+ευτυχισμένος	happy	adj	 
+ευτυχώς	fortunately	adv	 
+ευχάριστος	nice	adj	 
+ευχάριστος	pleasant	adj	 
+ευχές {οι}	wishes	noun	 
+ευχαρίστηση {η}	pleasure	noun	 
+ευχαριστημένος	content	adj	 
+ευχαριστημένος	pleased	adj past-p	 
+ευχαριστώ	thanks	 	 
+ευχαριστώ	Thank you!	 	 
+ευχαριστώ	to thank	verb	 
+εφαρμόζω	to apply	verb	 
+εφημερίδα {η}	newspaper	noun	 
+εφοδιάζω	to provide	verb	 
+εύγευστος	delightful	adj	 
+εύθραυστος	brittle	adj	 
+εύκολος	easy	adj	 
+εύκολος	simple	adj	 
+εύπορος	prosperous	adj	 
+εύρωστος	robust	adj	 
+ζάρια {τα}	dice	noun	 
+ζάχαρη {η}	sugar	noun	 
+ζέβρα {η}	zebra	noun	 
+ζέστη {η}	heat	noun	 
+ζήλια {η}	envy	noun	 
+ζαμπόν {το}	ham	noun	 
+ζαχαρωτό {το}	candy	noun	 
+ζεστή σοκολάτα {η}	hot chocolate	noun	 
+ζεστός	warm	adj	 
+ζευγάρι {το}	couple	noun	 
+ζευγάρι {το}	pair	noun	 
+ζευγαράκι {το}	couple	noun	 
+ζηλεύω	to be jealous [of]	verb	 
+ζηλιάρης	jealous [of]	adj	 
+ζηλότυπος	jealous [of]	adj	 
+ζημία {η}	damage	noun	 
+ζημιά {η}	harm	noun	 
+ζητώ	to ask for	verb	 
+ζητώ	to ask	verb	 
+ζητώ	to call for	verb	 
+ζητώ	to seek	verb	 
+ζητώ συγγνώμη	to apologise [Br.]	verb	 
+ζητώ συγνώμη	to apologise [Br.]	verb	 
+ζουμερός	juicy	adj	 
+ζούγκλα {η}	jungle	noun	 
+ζυγός {ο}	yoke	noun	 
+ζυμαρικά {τα}	noodles	noun	 
+ζω	to live	verb	 
+ζωηρός, -ή, -ό	lively	adj	 
+ζωηρός	lively	adj	 
+ζωντανός	alive	adj	 
+ζωολογία {η}	zoology	noun	[acad.] [zool.]
+ζωτικός	vital	adj	 
+ζώνη {η}	belt	noun	 
+ζώο {το}	animal	noun	[zool.]
+η	the	 	 
+ηγουμένη {η}	abbess	noun	[relig.]
+ηγούμαι	to lead	verb	 
+ηγούμενος {ο}	abbot	noun	 
+ηδονή {η}	pleasure	noun	 
+ηθοποιός {η}	actress	noun	 
+ηθοποιός {ο}	actor	noun	 
+ηλίθιος, ανόητος	stupid	adj	 
+ηλίθιος	idiotic	adj	 
+ηλεκτρολογία {η}	electrical engineering	noun	[electr.]
+ηλεκτρολόγος {ο}	electrician	noun	[jobs] [electr.]
+ηλεκτρονικό παιχνίδι {το}	computer game	noun	[games]
+ηλεκτρονικό παιχνίδι {το}	video game	noun	[games]
+ηλεκτρονικός	electronic	adj	 
+ηλιοβασίλεμα {το}	sunset	noun	 
+ηλιόλουστος	sunny	adj	 
+ημέρα {η} [παρωχ.]	day	noun	 
+ημερομηνία λήξεως	expiry date	 	 
+ηφαίστειο {το}	volcano	noun	[geol.]
+ηφαιστειότητα {η}	volcanism	noun	[geol.]
+θάλασσα {η} [επίσης μεταφ.]	sea [also fig.]	noun	 
+θάλλιο {το} <Tl>	thallium <Tl>	noun	[chem.]
+θάνατος {ο}	death	noun	 
+θάρρος {το}	courage	noun	 
+θέατρο {το}	theatre	noun	[theatre]
+θέλω	to want (to)	verb	 
+θέμα {το}	subject [email]	noun	 
+θέση {η}	place	noun	 
+θέση {η} εργασίας	employment	noun	 
+θέτω	to put	verb	 
+θίγω	to hit	verb	 
+θαλάσσιος βυθός {ο}	seabed	noun	 
+θαλασσινά {τα}	seafood	noun	 
+θαρραλέος	courageous	adj	 
+θαυμάζω	to admire	verb	 
+θαυμάσιος	superb	adj	 
+θεία λειτουργία {η}	mass	noun	 
+θείος {ο}	uncle	noun	 
+θεατρικό έργο {το}	play	noun	[theatre]
+θεραπεία {η}	treatment	noun	 
+θερμάστρα {η}	stove	noun	 
+θερμοκρασία {η}	temperature	noun	 
+θερμότητα {η}	heat	noun	 
+θεωρώ	to consider	verb	 
+θεόρατος	huge	adj	 
+θεός {ο}	god	noun	 
+θλιβερός	sad	adj	 
+θλιμμένος	depressed	adj past-p	 
+θλιμμένος	sad	adj	 
+θούλιο {το} <Tm>	thulium <Tm>	noun	[chem.]
+θρησκεία {η}	religion	noun	[relig.]
+θρυλικός	fabulous	adj	 
+θυμάμαι	to remember	verb	 
+θυμωμένος	angry	adj	 
+θυμωμένος	pissed [Am.] [vulg.]	adj	 
+θυμός {ο}	anger	noun	 
+θόρυβος {ο}	noise	noun	 
+θύρα {η}	interface	noun	 
+ιατρική {η}	medicine	noun	 
+ιατρός {ο}	doctor	noun	 
+ιδέα {η}	idea	noun	 
+ιδιαίτερα	especially <esp.>	adv	 
+ιδιαίτερα	particularly	adv	 
+ιδιαίτερος	private	adj	 
+ιδικός μας	ours	pron	 
+ιδικός του	his [possessive]	pron	 
+ιδιοκτησία {η}	property	noun	 
+ιδιωτικό δίκαιο {το}	private law	noun	[law]
+ιδιωτικός	private	adj	 
+ιδιότητα {η}	feature	noun	 
+ιδιότητα {η}	quality [property, attribute]	noun	 
+ιδρύω	to establish	verb	 
+ιδρώνω	to sweat	verb	 
+ιζηματολογία {η}	sedimentology	noun	[geol.] [acad.]
+ικανοποιημένος	satisfied	adj	 
+ικανοποιητικός	satisfying	adj	 
+ικανός	capable	adj	 
+ικανότητα {η}	competence	noun	 
+ικανότητες {οι}	skills	noun	 
+ιππεύω	to ride	verb	 
+ισθμός {ο}	isthmus	noun	[geogr.]
+ισοπαλία {η}	draw [tied game]	noun	 
+ισοτιμία {η} συναλλάγματος	exchange rate	noun	 
+ισπανικά	Spanish	adj	 
+ιστορία {η}	history <hist.>	noun	 
+ιστός {ο}	tissue	noun	[biol.] [med.]
+ισχίο {το}	hip [Coxa]	noun	[anat.]
+ισχυρισμός {ο}	allegation	noun	 
+ισχύων [καθ.]	valid	adj	 
+ισόγειο {το}	ground floor <GF>	noun	 
+ιταλικός {ο}	Italian	adj	 
+ιχθυολογία {η}	ichthyology	noun	[acad.] [zool.] [fish]
+ιώδης	purple	adj	 
+κάγκελο {το} σκάλας	handrail	noun	 
+κάθε	each	adj pron	 
+κάθε	every	 	 
+κάθομαι	to sit	verb	 
+κάλος {ο}	horny skin	noun	 
+κάλτσα {η}	sock	noun	 
+κάλτσες {οι}	socks	noun	 
+κάλυμμα {το}	cover	noun	 
+κάμερα {η}	camera	noun	 
+κάμπινγκ {το}	camping site	noun	 
+κάμψεις {οι}	push-ups [Am.]	noun	 
+κάνω	to do	verb	 
+κάνω	to make	verb	 
+κάνω βλάκα	to fool	verb	 
+κάνω ηλιοθεραπεία	to sunbathe	verb	 
+κάνω λάθος	to be wrong	verb	 
+κάνω νεύμα [κοιν.]	to wave	verb	 
+κάποιος	someone <so.> [subject]	pron	 
+κάποιος αποφασίζει	sb. decides	 	 
+κάποιος πλήγωσε	sb. hurt	 	 
+κάπου αλλού	elsewhere	adv	 
+κάπου κάπου	sometimes	adv	 
+κάρβουνο {το}	coal	noun	 
+κάρτα {η}	card	noun	 
+κάρτα {η}	postcard	noun	 
+κάρτα {η} επιβίβασης	boarding pass	noun	 
+κάστρο {το}	castle	noun	 
+κάτι	something <sth.>	pron	 
+κάτοικος {ο}	inhabitant	noun	 
+κάτω	down	adv	 
+κάτω από	below	adv	 
+κάτω από	under	prep	 
+κάτω χείλι {το}	lower lip [Labium inferius (oris)]	noun	 
+κέικ {το}	cake	noun	 
+κέντρο {το}	centre [Br.]	noun	 
+κέντρο {το} της πόλης	downtown [Am.]	noun	 
+κέφι {το}	mood	noun	 
+κήπος {ο}	garden	noun	 
+κίνδυνος {ο}	danger	noun	 
+κίνδυνος {ο}	hazard	noun	 
+κίσσα {η}	(Eurasian) jay [Garrulus glandarius]	noun	[orn.] [T]
+κίτρινος	yellow	adj	 
+καίτοι	though	conj	 
+καβατίνα {η}	cavatina	noun	[mus.]
+καβγάς {ο}	argument	noun	 
+καβγάς {ο}	quarrel	noun	 
+καβγαδίζω [κοιν.]	to quarrel	verb	 
+καζουάριος {ο} της Αυστραλίας	Australian cassowary [Casuarius	 	 
+καζουάριος {ο} της Αυστραλίας	double-wattled cassowary [Casuar	 	 
+καζουάριος {ο} της Αυστραλίας	southern cassowary [Casuarius ca	 	 
+καζουάριος {ο} της Αυστραλίας	two-wattled cassowary [Casuarius	 	 
+καθένας	each	adj pron	 
+καθένας	everyone	pron	 
+καθαρίζω	to clean	verb	 
+καθαριστήριο {το}	dry cleaner's	noun	 
+καθαρός	clean	adj	 
+καθημερινά	daily	adv	 
+καθημερινά	every day	adv	 
+καθημερινός	ordinary	adj	 
+καθημερινώς [καθ.]	every day	adv	 
+καθιστικό {το}	living room	noun	 
+καθιστικός	sedentary	adj	 
+καθοδηγώ	to shepherd	verb	 
+καθοριστικός	determining	adj	 
+καθρέφτης {ο}	mirror	noun	 
+καθυστέρηση {η}	delay	noun	 
+καθόλου	at all [in negative contexts]	adv	 
+και	also	adv	 
+και	and <&>	conj	 
+και οι δύο	both	adj pron	 
+καιρός {ο}	time	noun	 
+καιρός {ο}	weather	noun	 
+και τέταρτο	a quarter past	 	 
+και τα δύο	both	adj pron	 
+και όμως	still	adv	 
+κακία	despite	prep	 
+κακοκαμωμένος	ugly	adj	 
+κακός	bad	adj	 
+κακός	mischievous	adj	 
+καλάμι {το}	shin	noun	 
+καλαμοσάκχαρο {το}	cane sugar	noun	 
+καλαμπόκι {το}	corn [Zea mays] [Am.] [Aus.] [NZ]	noun	 
+καλαμόκιρκος {ο}	(western) marsh harrier [Circus aeruginosus]	 	 
+καλεσμένος {ο}	guest	noun	 
+καληνύχτα	good night	 	 
+καλλιτέχνης {ο}	artist	noun	 
+καλοδεχούμενος	welcome	adj	 
+καλοκαίρι {το}	summer	noun	 
+καλυτερεύω	to improve	verb	 
+καλόγερος {ο}	great tit [Parus major]	noun	[orn.] [T]
+καλός	good	adj	 
+καλύπτω	to blanket [cover, conceal]	verb	 
+καλύπτω	to cover	verb	 
+καλύτερα...παρά	rather ... than	 	 
+καλύτερος	better	adj	 
+καμίνι {το}	stove	noun	 
+καμιά φορά	ever	adv	 
+καν	even	adv	 
+κανάτα {η}	jug	noun	 
+κανένας	nobody	pron	 
+καναπές {ο}	couch	noun	 
+καναπές {ο}	sofa	noun	 
+κανείς	anyone	pron	 
+κανείς	nobody	pron	 
+κανείς [κατά κανένα άλλο τρόπο]	no [in no other way]	adj	 
+κανονικός	normal	adj	 
+κανονικός	regular	adj	 
+κανόνας {ο}	rule	noun	 
+καπνίζω	to smoke	verb	 
+καπνός {ο}	smoke	noun	 
+καράβι {το}	ship	noun	 
+καρέκλα {η}	chair	noun	 
+καρίνα {η}	keel	noun	[naut.]
+καρδιά {η}	heart	noun	[anat.]
+καρτ-ποστάλ {η}	postcard	noun	 
+καρτ-ποστάλ {οι}	postcards	noun	 
+καρυκεύω	to spice	verb	 
+καρχαρίας-τίγρης {ο}	tiger shark [Galeocerdo cuvier]	noun	[fis
+καρχαρίας {ο} των Γκαλαπάγκος	Galapagos shark [Carcharhinus ga	 	 
+καρύδι {το}	nut	noun	 
+κασκόλ {το}	scarf	noun	 
+κατά	on	prep	 
+κατάλληλος	appropriate	adj	 
+κατάλυμα	accommodation [convenience]	noun	 
+κατάμεστο	crowded	adj	 
+κατάμεστος	congested	adj past-p	 
+κατά οίκον	at home	adv	 
+κατά προσέγγιση	approximately	adv	 
+κατάσταση {η}	state	noun	 
+κατάσταση {η} έκτακτης ανάγκης	emergency	noun	 
+κατάστημα {το}	shop	noun	 
+κατάστημα {το}	store [Am.]	noun	 
+κατά τα άλλα	incidentally	adv	 
+κατάταξη {η}	allocation	noun	 
+κατά τη διάρκεια	during	prep	 
+κατά την άποψη μου	in my opinion <IMO>	 	 
+κατά την γνώμη μου	in my opinion <IMO>	 	 
+κατέχω	to own sth.	verb	 
+κατέχω	to possess	verb	 
+καταδίκη {η}	doom	noun	 
+καταδικάζω	to condemn	verb	 
+καταδικάζω	to doom	verb	 
+καταδιώκω	to chase	verb	 
+καταζητούμενος	wanted	adj past-p	 
+καταθλίβω	depressing	adj	 
+κατακρίνω	to blame	verb	 
+καταλαβαίνω	to understand	verb	 
+καταλαμβάνω	to occupy	verb	 
+καταλληλότητα {η}	skill	noun	 
+καταλύτης {ο}	catalytic converter	noun	 
+κατανοώ	to understand	verb	 
+καταπακτή {η}	trap door	noun	 
+καταπληκτικός	wonderful	adj	 
+καταπνίγω	to blanket [suppress]	verb	 
+καταραμένος	bloody [Br.] [coll.]	adj	 
+καταφέρνω	to reach	verb	 
+καταφατικός	affirmative	adj	 
+καταφρόνηση {η}	contempt	noun	 
+καταψύκτης {ο}	freezer [chest-type]	noun	 
+κατεργασία {η}	processing	noun	 
+κατεχόμενος {ο}	occupied	adj past-p	 
+κατηγορώ	to blame	verb	 
+κατοικίδιο ζώο {το}	pet	noun	 
+κατοικώ	to dwell	verb	 
+κατσίκα {η}	goat	noun	 
+κατσαβίδι {το}	screwdriver	noun	 
+κατσαρίδα {η}	cockroach	noun	[zool.] [T]
+κατσαρόλα {η}	pot	noun	 
+κατσαρόλα {η}	saucepan	noun	 
+κατσουλιέρης {ο}	crested lark [Galerida cristata]	noun	[orn.]
+κατόπιν	after	prep	 
+καυγάς {ο}	quarrel	noun	 
+καυτός	hot	adj	 
+καυχιέμαι	to brag	verb	 
+καφέ	brown	adj	 
+καφέ αρκούδα {η}	brown bear [Ursus arctos]	noun	[T] [zool.]
+καφές {ο}	coffee	noun	 
+καφετέρια {η}	café	noun	 
+κβαντική χημεία {η}	quantum chemistry	noun	[acad.] [phys.] [ch
+κείμαι	to lie [be in a horizontal position, be situated]	verb	 
+κείτομαι	to lie [be in a horizontal position, be situated]	ver	 
+κεντρίζω	to bite	verb	 
+κενό {το}	gap	noun	 
+κεράσι {το}	cherry	noun	 
+κερί {το}	candle	noun	 
+κερδίζω	to win	verb	 
+κεφάλι {το}	pate [archaic]	noun	 
+κεφτές {ο}	burger	noun	 
+κεχρί {το}	millet	noun	 
+κηπουρικές εργασίες {οι}	gardening	noun	 
+κηπουρική	gardening	noun	 
+κηπουρική {η}	gardening	noun	[hort.]
+κι	and <&>	conj	 
+κινέζικα ξυλάκια {τα}	chopsticks	noun	 
+κινηματογράφος {ο}	cinema [esp. Br.]	noun	 
+κινητήρας {ο}	engine	noun	 
+κινούμενος δεξιά	clockwise	adj	 
+κινώ	to move	verb	 
+κιούριο {το} <Cm>	curium <Cm>	noun	[chem.]
+κλάδος {ο}	branch	noun	 
+κλάσμα {το}	fraction	noun	 
+κλέβω	to steal	verb	 
+κλίνω προς	to tend to	verb	 
+κλίση {η}	inflection	noun	 
+κλαίω	to cry	verb	 
+κλαδί {το}	branch	noun	 
+κλαδεύω	crop	verb	 
+κλείνω	shut	verb	 
+κλείνω	to close	verb	 
+κλειδί {το}	key	noun	 
+κλειδαριά {η} [πόρτας]	lock	noun	 
+κλειδωνάς {ο}	somber tit [Am.] [Poecile lugubris, syn.: Parus	 	 
+κλειδωνάς {ο}	sombre tit [Br.] [Poecile lugubris, syn.: Parus	 	 
+κλειδώνω	to lock	verb	 
+κλειστός	shut	adj past-p	 
+κλεμμένος	stolen	past-p	 
+κληρονόμος {ο}	heir	noun	 
+κλοπή {η} σε κατάστημα	shoplifting	noun	 
+κοίλος	hollow	adj	 
+κοιλάδα {η}	valley	noun	 
+κοιλιά {η}	belly	noun	 
+κοιλότης	hollow	adj	 
+κοιλότητα	hollow	adj	 
+κοιμάμαι	to sleep	verb	 
+κοιμώμαι [απαρχ.]	to sleep	verb	 
+κοινή άλκα {η}	razorbill [Alca torda]	noun	[orn.] [T]
+κοινή αρκούδα {η}	brown bear [Ursus arctos]	noun	[T] [zool.]
+κοινωνία {η}	society	noun	 
+κοινότητα {η}	society	noun	 
+κοιτάζω	to look	verb	 
+κοκκινίζω	to blush	verb	 
+κοκκινοβουτηχτάρι {το}	red-necked grebe [Podiceps grisegena]	n	 
+κοκκινοσκέλης {ο}	(common) redshank [Tringa totanus]	noun	[orn
+κοκτέιλ {το}	cocktail	noun	[gastr.]
+κολιέ {το} [κοιν.]	necklace	noun	 
+κολλώδης	sticky	adj	 
+κολοκυθάκι {το}	courgette [Br.]	noun	[bot.] [gastr.] [T]
+κολοκύθι {το}	courgette [Br.]	noun	 
+κολορατούρα {η}	coloratura	noun	[mus.]
+κολυμπώ	to swim	verb	 
+κομμάτι {το}	piece	noun	 
+κομφουκιανισμός {ο}	Confucianism	noun	[relig.]
+κομψός	elegant	adj	 
+κονιάκ {το}	brandy	noun	 
+κονσέρβα {η}	can	noun	 
+κοντά	nearby	adv	 
+κοντά σε	by [near / beside]	prep	 
+κοντινός	close	adj	 
+κοντινός	near	adj	 
+κοντινός	nearby	adj	 
+κοντός	short	adj	 
+κοπέλα {η}	girl	noun	 
+κοπερνίκιο {το} <Cn>	copernicium <Cn>	noun	[chem.]
+κορίτσι {το}	girl	noun	 
+κορίτσια {τα}	girls	noun	 
+κορμί {το}	body	noun	 
+κορμός {ο}	trunk	noun	 
+κοροιδεύω	to fool sb./sth.	verb	 
+κορυδαλλός {ο}	lark	noun	[orn.] [T]
+κορυφή {η}	height	noun	 
+κοτόπουλο {το}	chicken	noun	 
+κουβάς {ο} [κοιν.]	bucket	noun	 
+κουβέρτα {η}	blanket	noun	 
+κουβαλώ	to carry	verb	 
+κουβεντιάζω	to speak	verb	 
+κουδουνίζω	to ring	verb	 
+κουζίνα {η}	kitchen	noun	 
+κουλουράκι {το}	cookie [Am.]	noun	 
+κουναώ	to move	verb	 
+κουνιάδος {ο}	brother-in-law	noun	 
+κουπαστή {η} σκάλας	handrail	noun	 
+κουρασμένος	tired	adj	 
+κουραστικός	tiresome	adj	 
+κουρτίνα {η}	curtain	noun	 
+κουρτίνες {οι}	curtains	noun	 
+κουτάλι {το}	spoon	noun	 
+κουταλάκι {το} του τσαγιού	tea spoon <tsp. / t.>	noun	 
+κουτσομπολιό {το} [κοιν.]	gossip	noun	 
+κουτός	dumb	adj	 
+κοφτερός	sharp	adj	 
+κοχύλι {το}	shell	noun	 
+κούκλα {η}	doll	noun	 
+κούπα {η}	cup [esp. without handle]	noun	 
+κούτσουρο {το}	stub	noun	 
+κούφιος	hollow	adj	 
+κρέας {το}	meat	noun	 
+κρίκετ {το}	cricket	noun	[sports]
+κρανίο {το}	skull	noun	 
+κρασί {το}	wine	noun	 
+κρατάω [κοιν.]	to take [to last]	verb	 
+κρατώ	to keep	verb	 
+κρατώ απόσταση	to keep away	verb	 
+κρεμμύδι {το}	onion	noun	 
+κρεμμύδια {τα}	onions	noun	 
+κρυολόγημα {το}	cold	noun	 
+κρυπτοτσικνιάς {ο}	squacco heron [Ardeola ralloides]	noun	[orn
+κρόκος {ο}	crocus	noun	[bot.] [T]
+κρότος {ο}	bang	noun	 
+κρύβω	to conceal	verb	 
+κρύβω	to hide	verb	 
+κρύος	chilly	adj	 
+κρύπτομαι	to hide	verb	 
+κρύπτω	to hide	verb	 
+κρύωμα {το}	cold	noun	 
+κτίριο {το}	building	noun	 
+κτηνίατρος {ο}	vet	noun	 
+κτυπώ	to hit	verb	 
+κυανός	blue	adj	 
+κυβερνήτης {ο}	pilot	noun	 
+κυβικός	cubic	adj	 
+κυλιόμενη σκάλα {η}	escalator	noun	 
+κυλώ	to roll	verb	 
+κυματιστά	wavy	adj	 
+κυνηγώ	to chase	verb	 
+κυρία {η}	lady	noun	 
+κυρίως	principal	adj	 
+κυρίως πιάτο {το}	main course	noun	[gastr.]
+κόβω	to cut	verb	 
+κόβω ταχύτητα	to slow down	verb	 
+κόκαλο {το} [κοιν.]	bone	noun	 
+κόκκινο	red	noun	 
+κόκκινος	red	adj	 
+κόκκος {ο}	grain	noun	 
+κόκορας {ο}	cock	noun	 
+κόλαση {η}	hell	noun	 
+κόλπος {ο}	gulf	noun	[geogr.]
+κόμβος {ο}	knot	noun	 
+κόμμα {το}	party [political]	noun	 
+κόμπος {ο}	knot	noun	 
+κόνδορας {ο} της Καλιφόρνιας	California condor [Gymnogyps cali	 	 
+κόνδορας {ο} των Άνδεων	Andean condor [Vultur gryphus]	noun	[o
+κόρακας {ο}	crow [genus Corvus]	noun	 
+κόσμημα {το}	jewellery [Br.]	noun	 
+κόσμος {ο}	world	noun	 
+κύβος {ο}	cube	noun	 
+κύκλος {ο}	circle	noun	 
+κύμα {το}	wave	noun	 
+κύπελλο {το}	bowl	noun	 
+κύπελλο {το}	mug	noun	 
+κύριος	main [attr.]	adj	 
+κύτταρο {το}	cell	noun	[biol.]
+λάδι {το}	oil	noun	 
+λάθος	wrong	adj	 
+λάθος {το}	error	noun	 
+λάμπα {η}	lamp	noun	 
+λάχανο {το}	cabbage	noun	 
+λέγομαι	to be called	verb	 
+λέμφος {η}	lymph	noun	 
+λέξη {η}	word	noun	 
+λέω	to call [name]	verb	 
+λέω	to say	verb	 
+λίγο	little	adv	 
+λίγοι, λίγα	few	adj pron	 
+λίθιο {το} <Li>	lithium <Li>	noun	[chem.]
+λίθος {ο} {η}	stone	noun	 
+λίμνη {η}	lake	noun	 
+λίπος {το}	fat	noun	 
+λίστα {η}	list	noun	 
+λαβή {η}	handle	noun	 
+λαθεύω	to be wrong	verb	 
+λαιμό {το}	throat	noun	 
+λαιμός {ο}	neck	noun	 
+λαιμός {ο}	throat	noun	 
+λαμβάνω	to get [receive]	verb	 
+λαμβάνω	to receive	verb	 
+λαμπρατζιά {η} [κυπρ.]	fire	noun	 
+λαμπροβούτι {το}	Arctic loon [Am.] [Gavia arctica]	noun	[orn.]
+λαμπροβούτι {το}	black-throated diver [Br.] [Gavia arctica]	no	 
+λαμπροβούτι {το}	black-throated loon [Am.] [Gavia arctica]	nou	 
+λαμπρός	brilliant	adj	 
+λαμπρότατος	brilliant	adj	 
+λανθάνιο {το} <La>	lanthanum <La>	noun	[chem.]
+λαρδί {το}	bacon	noun	 
+λαρύγγι {το}	throat	noun	 
+λασκαρισμένος	loose	adj	 
+λασπη {η}	mud	noun	 
+λατομείο {το}	quarry	noun	[geol.]
+λείος	smooth	adj	 
+λείος καρχαρίας {ο}	silky shark [Carcharhinus falciformis]	nou	 
+λεβέντης {ο}	fellow	noun	 
+λεκάνη {η}	pelvis	noun	[anat.]
+λεκές {ο}	stain	noun	 
+λεμονάδα {η}	lemonade [Br.]	noun	 
+λεμόνι {το}	lemon	noun	 
+λεξικό {το}	dictionary	noun	 
+λεοπάρδαλη {η}	leopard [Panthera pardus]	noun	[zool.] [T]
+λεπτομέρεια {η}	detail	noun	 
+λεπτόνιο {το}	lepton	noun	[phys.]
+λεπτός	fine	adj	 
+λεπτός	thin	adj	 
+λευκοχελίδονο {το}	(common) house martin [Delichon urbicum]	no	 
+λεφτά {τα}	money	noun	 
+λεωφορείο {το}	bus	noun	 
+λιβάδι {το}	meadow	noun	 
+λιβερμόριο {το} <Lv>	livermorium <Lv>	noun	[chem.]
+λιγότερο	least	adv	 
+λιθόσφαιρα {η}	lithosphere	noun	[geol.]
+λιμοκτονώ	to starve	verb	 
+λιμόζα {η}	black-tailed godwit [Limosa limosa]	noun	[orn.] [T]
+λιοντάρι {το}	lion [Panthera leo]	noun	[zool.] [T]
+λιπαρός	fat	adj	 
+λιπόθυμος	unconscious	adj	 
+λοίμωξη {η}	infection	noun	 
+λογαριάζω	to count	verb	 
+λογαριασμός {ο}	bill	noun	 
+λογικός	wise	adj	 
+λογοτεχνία {η}	literature	noun	[lit.]
+λοιμώδης, -, -ες	infectious	adj	 
+λουκάνικα {τα}	sausages	noun	 
+λουκάνικο {το}	sausage	noun	 
+λουλούδι {το}	flower	noun	 
+λυκαυγές {το}	dawn	noun	 
+λυπάμαι	to pity	verb	 
+λυπημένος	grieved	adj past-p	 
+λυπημένος	sad	adj	 
+λόγος {ο}	reason	noun	 
+λόγω	because of	prep	 
+λόγω	due to	prep	 
+λόγω κάτι	due to sth.	 	 
+λόφος {ο}	hill	noun	 
+λύμφη {η}	lymph	noun	 
+λύση {η}	solution [to]	noun	 
+μάγειρας {ο}	cook	noun	 
+μάγισσα {η}	witch	noun	 
+μάγκας {ο}	guy [coll.]	noun	 
+μάγουλο {το}	cheek	noun	 
+μάζα {η}	mass	noun	 
+μάλιστα	certainly	adv	 
+μάλλον	probably	adv	 
+μάλλον	rather	adv	 
+μάρτυρας {ο}	witness	noun	 
+μάτι {το}	eye [Oculus]	noun	 
+μέγεθος {το}	size	noun	 
+μέλι {το}	honey	noun	 
+μέλισσα {η}	bee [unranked, Anthophila or Apiformes]	noun	 
+μέλλον {το}	future	noun	 
+μέλος {το}	member	noun	 
+μένω	to live	verb	 
+μέρα {η}	day	noun	 
+μέρα {η} [της εβδομάδας]	weekday	noun	 
+μέρος {το}	part	noun	 
+μέρος {το}	place	noun	 
+μέσα	inside	adv	 
+μέσα [κίνηση]	into	prep	 
+μέσα από	through	prep	 
+μέσα σε	inside	adv prep	 
+μέση {η}	centre [Br.]	noun	 
+μέσος όρος {ο}	average	noun	 
+μέσος όρος {ο}	mean	noun	 
+μέσω	via	prep	 
+μέτρο {το}	measure	noun	 
+μέτρο {το}	meter <m> [Am.]	noun	 
+μέτωπο {το}	forehead	noun	 
+μέχρι	to	prep	 
+μέχρι	until	prep	 
+μέχρι τώρα	so far	adv	 
+μήκος {το}	length	noun	 
+μήλο {το}	apple [Malus domestica]	noun	 
+μήνας {ο}	month <mo.>	noun	 
+μήνυμα {το}	message	noun	 
+μίξερ {το}	mixer	noun	 
+μίσος {το}	hate	noun	 
+μαγαζί {το}	store [Am.]	noun	 
+μαγείρεμα {το}	cooking	noun	[gastr.]
+μαγειρεύω	to cook	verb	 
+μαγεύω	to intrigue	verb	 
+μαζί	together <tog.>	adv	 
+μαζί	with	prep	 
+μαζεύω	to gather	verb	 
+μαθαίνω	to learn	verb	 
+μαθηματικά {τα}	mathematics	noun	 
+μαθητής {ο}	student [Am.] [pupil]	noun	 
+μακαρόνια {τα}	pasta {sg}	noun	 
+μακαρόνια {τα}	spaghetti	noun	[gastr.]
+μακιαβελισμός {ο}	Machiavellianism	noun	[pol.] [philos.] [psyc
+μακριά	away	adv	 
+μακριά	far	adv	 
+μακρύς	long	adj	 
+μαλακός, απαλός	soft	adj	 
+μαλλιά {τα}	hair	noun	[anat.]
+μαλώνω	to fight	verb	 
+μαμά {η}	mum [Br.] [coll.]	noun	 
+μανίκι {το}	sleeve	noun	 
+μανθάνω	to hear	verb	 
+μανιτάρι {το}	mushroom	noun	 
+μαντήλι {το}	handkerchief	noun	 
+μαντεύω	to guess	verb	 
+μαξιλάρι {το}	pillow	noun	 
+μαοϊσμός {ο}	Maoism	noun	[pol.]
+μαρμελάδα {η}	jam	noun	[gastr.]
+μας	our [determiner]	pron	 
+μασουλώ	to chew	verb	 
+μασώ	to chew	verb	 
+ματιά {η}	glimpse	noun	 
+μαυροκιρκίνεζο {το}	red-footed falcon [Falco vespertinus]	noun	 
+μαυροπελαργός {ο}	black stork [Ciconia nigra]	noun	[orn.] [T]
+μαυροσκούφης {ο}	(Eurasian) blackcap [Sylvia atricapilla]	noun	 
+μαχαίρι {το}	knife	noun	 
+μαχαιροπήρουνα {τα}	cutlery {sg}	noun	 
+μαϊμού {η}	monkey	noun	 
+μαύρος	black	adj	 
+με	at	prep	 
+με	with	prep	 
+μείον	less	adv	 
+με αυτοπεποίθηση	self-confident	adj	 
+μεγάλος	big	adj	 
+μεγάλος	large	adj	 
+μεγάφωνο {το}	loudspeaker	noun	 
+μεγαλοποιώ	to exaggerate	verb	 
+μεγαλόψυχος	generous	adj	 
+μεγαλώνω	to bring up [children]	verb	 
+μειώνω	to reduce	verb	 
+μελέτη {η}	consideration	noun	 
+μελέτη {η}	study	noun	 
+μελανόραχο τσακάλι {το}	black-backed jackal [Canis mesomelas]	 	 
+μελετώ	to study	verb	 
+μενεξεδένιος	purple	adj	 
+μενού {το}	menu	noun	 
+μεντελέβιο {το} <Md>	mendelevium <Md>	noun	[chem.]
+με πειράζει κάτι	to mind (sth.) [have something against]	verb	 
+μερίδιο {το}	share	noun	 
+μερικά	a few	 	 
+μερικές φορές	sometimes	adv	 
+μερικοί	a few	adj pron	 
+μερικοί	some	adj pron	 
+μερικοί	some	pron	 
+μεσάνυχτα {τα}	midnight	noun	 
+μεσαίο {το}	middle	noun	 
+μεσαίο δάχτυλο	middle finger	noun	 
+μεσαίωνας {ο}	Middle Ages {pl} <MA> [most often with a singula	 	 
+μεσημέρι {το}	noon	noun	 
+μεσημεριανό {το} [φαγητό]	lunch	noun	 
+με συγχωρείτε!	Excuse me, please!	 	 
+με συντομία	briefly	adv	 
+μετά	after	prep	 
+μετά	afterwards	adv	 
+μετέχω	to share	verb	 
+μετέχω	to take part	verb	 
+μεταβάλλω	to change	verb	 
+μεταδοτικός	contagious	adj	 
+μεταδοτικός	infectious	adj	 
+μεταλλικό νερό {το}	mineral water	noun	 
+μεταξύ	among	prep	 
+μετασχηματιστής {ο}	transformer	noun	 
+μεταφραστής {ο}	translator	noun	 
+μεταχείριση {η}	treatment	noun	 
+μεταχειρισμένο αυτοκίνητο {το}	used car	noun	[automot.]
+μετεωρολογία {η}	meteorology	noun	[acad.] [meteo.]
+με την ευκαιρία	during	prep	 
+μετοχή {η}	share	noun	 
+μετοχή {η}	stock	noun	 
+μετριόφρων	modest	adj	 
+μετρό {το}	subway [Am.]	noun	 
+μετρώ	to count	verb	 
+μηδέ ... μηδέ	neither ... nor	conj	 
+μην ασχολείσαι	Don't bother!	 	 
+μηνιαίος	monthly	adj	 
+μηρός {ο}	thigh	noun	 
+μητέρα {η}	mother	noun	 
+μηχανή {η}	engine	noun	 
+μηχανή {η} συγκόλλησης	welder	noun	 
+μηχανική {η}	mechanics {pl} [treated as sg.]	noun	[engin.]
+μικροβιολογία {η}	microbiology	noun	[biol.]
+μικροκύμα {το}	microwave	noun	 
+μικροπρεπής	small [mean]	adj	 
+μικροσκοπικός	tiny	adj	 
+μικρούτσικο	tiny [little]	adj	 
+μικρούτσικος	smallish	adj	 
+μικρούτσικος	tiny	adj	 
+μικρό αυτοκίνητο {το}	small car	noun	[automot.]
+μικρός	small	adj	 
+μικτός	mixed	adj past-p	 
+μιλάω	to talk	verb	 
+μιλώ	to speak	verb	 
+μιλώ	to talk	verb	 
+μισθός {ο}	salary	noun	 
+μισός	half <hf.>	adj adv	 
+μισώ	to hate	verb	 
+μοίρα {η}	fortune	noun	 
+μοβ	purple	adj	 
+μοιράζομαι	share	verb	 
+μολονότι	though	conj	 
+μολυβδαίνιο {το} <Mo>	molybdenum <Mo>	noun	[chem.]
+μολυσματικός, -ή, -ό	infectious	adj	 
+μολύβι {το}	pencil	noun	 
+μολύβι {το}	pen	noun	 
+μοναστήρι {το}	abbey	noun	[relig.]
+μονοπάτι {το}	path	noun	 
+μονός	odd	adj	 
+μοσχάρι {το}	veal	noun	 
+μοσχοκάρυδο {το}	nutmeg	noun	 
+μοτέτο {το}	motet	noun	[mus.]
+μοτοσυκλέτα {η}	motorbike	noun	 
+μοτοσυκλέτα {η}	motorcycle	noun	 
+μουρμουρίζω	to mumble	verb	 
+μουσείο {το}	museum	noun	 
+μουσειολογία {η}	museology	noun	 
+μουσική {η}	music	noun	[mus.]
+μουστάκι {το}	mustache [Am.]	noun	 
+μουστάρδα {η}	mustard	noun	 
+μούσλι {το}	muesli	noun	 
+μπάρμπεκιου {το}	barbecue	noun	 
+μπαμπάς {ο}	dad [coll.]	noun	 
+μπανάνα {η}	banana	noun	 
+μπανιέρα {η}	bath	noun	 
+μπανιέρα {η}	bathtub	noun	 
+μπαχαρικά {τα}	spices	noun	 
+μπαχαρικό {το}	spice	noun	 
+μπαχτσές {ο} [κοιν.]	garden	noun	 
+μπερδεμένος	confused	adj	 
+μπιζέλια {τα}	peas	noun	 
+μπισκότο {το}	biscuit [Br.]	noun	 
+μπισκότο {το}	cookie [Am.]	noun	 
+μπλε	blue	adj	 
+μπλουζάκι {το}	T-shirt	noun	 
+μπλούζα {η}	blouse	noun	 
+μπορώ	to be allowed to	verb	 
+μπουγάδα {η}	laundry	noun	 
+μπουφάν {το}	jacket	noun	 
+μπουφές {ο}	buffet	noun	 
+μπούτι {το}	thigh	noun	 
+μποὐρδες {οι}	gobbledygook [hum.]	noun	 
+μπράτσο {το} [κοιν.]	upper arm	noun	 
+μπριζόλα {η}	steak	noun	 
+μπροστά	ahead	adv	 
+μπροστά από	in front of	prep	 
+μπροστινός	front	adj	 
+μπόριο {το} <Bh>	bohrium <Bh>	noun	[chem.]
+μπότα {η}	boot	noun	 
+μπότες {οι}	boots	noun	 
+μπύρα {η}	beer	noun	 
+μυαλό {το}	brain	noun	 
+μυθικός	fabulous	adj	 
+μυθολογία {η}	mythology	noun	[myth.]
+μυρίζομαι	to smell	verb	 
+μυρίζω	to smell	verb	 
+μυρμήγκι {το}	ant	noun	[zool.] [T]
+μυρωδιά {η}	odour [Br.]	noun	 
+μυρωδιά {η}	smell	noun	 
+μυς {ο}	muscle [Musculus]	noun	 
+μυστήριος	strange	adj	 
+μυστικοπαθής	secretive	adj	 
+μυστικός	secret	adj	 
+μωρό {το}	baby	noun	 
+μόδα {η}	fashion	noun	 
+μόλις (και μετά βίας)	barely	adv	 
+μόλις	but	conj	 
+μόλις	just	adv	 
+μόλις	once	conj	 
+μόλυνση {η}	infection	noun	 
+μόνο	merely	adv	 
+μόνο	only	adv	 
+μόνο	solely	adv	 
+μόνο λίγο	slightly	adv	 
+μόνος	lone	adj	 
+μόνος {ο}	alone	adj	 
+μόρτης {ο} [παρωχ.]	guy [coll.]	noun	 
+μύτη {η}	nose	noun	[anat.]
+νάνος {ο}	dwarf	noun	 
+νάτριο {το} <Na>	sodium <Na>	noun	[chem.]
+νέα {τα}	news {sg}	noun	 
+νέος	fresh	adj	 
+νέος	new	adj	 
+νέος	young	adj	 
+νήπιο {το}	baby	noun	 
+νήσος {η} [καθ.]	island	noun	 
+ναι	yes	 	 
+ναυτιλία {η}	navigation	noun	[naut.]
+ναυτιλία {η}	shipping	noun	[naut.]
+νεκροταφείο {το}	graveyard	noun	 
+νεκρός	dead	adj	 
+νεπτούνιο {το} <Np>	neptunium <Np>	noun	[chem.]
+νερό {το}	water	noun	 
+νερό {το} χωρίς ανθρακικό	still water	noun	 
+νευρικό σύστημα {το}	nervous system	noun	 
+νεφρό {το}	kidney	noun	[anat.]
+νεφρός {ο} [καθ.]	kidney	noun	[anat.]
+νεότητα {η}	youth	noun	 
+νησί {το}	island	noun	 
+νησιώτης {ο}	islander	noun	 
+νικώ	to defeat	verb	 
+νιόβιο {το} <Nb>	niobium <Nb>	noun	[chem.]
+νοήμων	intelligent	adj	 
+νοημοσύνη {η}	wit	noun	 
+νοιάζομαι	to worry	verb	 
+νομική {η}	law [body of laws, system]	noun	[law]
+νοσηλεύτρια {η}	nurse [female]	noun	 
+νοσοκομείο {το}	hospital	noun	 
+νοσοκόμα {η}	nurse [female]	noun	 
+νοστιμότατος	delicious	adj	 
+νοστιμότατος	delicious [food]	adj	 
+νοώ	to understand	verb	 
+ντεϊσμός {ο}	deism	noun	[relig.] [philos.]
+ντομάτες {οι}	tomatoes	noun	 
+ντουλάπι {το}	closet	noun	 
+ντους {το} [κοιν.]	shower	noun	 
+ντροπή {η}	disgrace	noun	 
+ντροπή {η}	shame	noun	 
+ντροπαλός	shy	adj	 
+ντύνομαι	to dress	verb	 
+νωρίς	early	adj adv	 
+νόημα {το}	sense	noun	 
+νόμισμα {το}	coin	noun	 
+νόμισμα {το}	currency	noun	 
+νόμος {ο}	law	noun	 
+νόσημα {το} [επίσ.]	disease	noun	 
+νόσος {η} [επίσ.]	disease	noun	 
+νόστιμος	delightful	adj	 
+νόστιμος [μεταφ.]	pretty	adj	 
+νότος {ο}	south <S>	noun	 
+νύφη {η}	bride	noun	 
+νύχι {το}	nail	noun	 
+νύχτα {η}	night	noun	 
+ξένο {το} <Xe>	xenon <Xe>	noun	[chem.]
+ξένος	foreign	adj	 
+ξένος {ο} [κοιν.]	foreigner	noun	 
+ξέρω	to be aware of	verb	 
+ξέρω	to know	verb	 
+ξίδι {το}	vinegar	noun	[gastr.]
+ξίφος {το}	sword	noun	 
+ξαδέλφη {η}	cousin [female]	noun	 
+ξανά	again	adv	 
+ξαπλώστρα {η}	deckchair	noun	 
+ξαφνιασμένος	surprised	adj	 
+ξαφνικά	suddenly	adv	 
+ξεγελώ	to bite	verb	 
+ξεγελώ	to fool sb./sth.	verb	 
+ξεκινώ	to begin	verb	 
+ξεκινώ	to start	verb	 
+ξεκουράζομαι	to rest	verb	 
+ξενώνας {ο}	hostel	noun	 
+ξεπερνώ	to exceed	verb	 
+ξεροψήνω	to toast	verb	 
+ξερόλας {ο}	know-it-all	noun	 
+ξεχνώ	to forget	verb	 
+ξεχωριστός	outstanding	adj	 
+ξοδεύω	to spend	verb	 
+ξυπνώ	to wake sb.	verb	 
+ξυπνώ	to wake up	verb	 
+ξυρίζω, -ομαι	shave	verb	 
+ξόδεψα	issued	adj past-p	 
+ξύδι {το}	vinegar	noun	[gastr.]
+ξύλο {το}	wood	noun	 
+ξύνω	to scratch	verb	 
+ξύπνιος	awake	adj	 
+ξύρισμα {το}	shave	noun	 
+ο	the	 	 
+ογδόντα	eighty	 	 
+οδήγηση {η}	steering	noun	 
+οδηγός {ο}	driver	noun	 
+οδηγώ	to drive	verb	 
+οδοντίατρος {ο}	dentist	noun	 
+οδοντόβουρτσα {η}	toothbrush	noun	 
+οδοντόκρεμα {η}	toothpaste	noun	 
+οδοντόπαστα {η}	toothpaste	noun	 
+οδός {η}	street <St., str.>	noun	 
+ο εαυτός του	himself	pron	 
+οικειότητα {η}	intimacy	noun	 
+οικογένεια {η}	family	noun	 
+οικογενειακή κατάσταση {η}	marital status	noun	 
+οικοδομή {η}	building	noun	 
+οικολογία {η}	ecology	noun	[acad.] [ecol.]
+οικονομία {η}	economy	noun	[econ.]
+οικονομία {η} [κέρδος]	saving	noun	 
+οικονομία {η} [φειδώ στα έξοδα]	thrift	noun	 
+οινολογία {η}	enology [Am.]	noun	[acad.] [oenol.]
+οινολογία {η}	oenology [esp. Br.]	noun	[acad.] [oenol.]
+οκτώ	eight	 	 
+ολίγο	little	adv	 
+ολιγώτερα [παρωχ.]	less	adv	 
+ολοκληρώνω	to finish	verb	 
+ολόκληρος	entire	adj	 
+ολόκληρος	whole	adj	 
+ολόκληρος ο	entire	adj	 
+ομίχλη {η}	fog	noun	 
+ομαλός	normal	adj	 
+ομοίως	even	adv	 
+ομολογώ	to own sth.	verb	 
+ομού	together <tog.>	adv	 
+ομπρέλα {η}	umbrella	noun	 
+ομφαλός {ο}	navel [Umbilicus]	noun	 
+ομόλογος {ο}	counterpart	noun	 
+ονειρεύομαι	to dream	verb	 
+ονομάζομαι	to be called	verb	 
+ονομάζω	to call [name]	verb	 
+οξυγόνο {το} <O>	oxygen <O>	noun	[chem.]
+οπλισμένος	armed	adj past-p	 
+οποτεδήποτε	anytime	adv	 
+οπουδήποτε	anywhere	adv	 
+οπωσδήποτε	anyway	adv	 
+οπότε	then	adv	 
+οργή {η}	anger	noun	 
+οργισμένος	angry	adj	 
+οργισμένος	furious	adj	 
+ορεκτικό {το}	appetizer	noun	 
+ορεκτικό {το}	starter [Br.]	noun	 
+ορεκτικό ποτό, απεριτίφ {το}	aperitif	noun	 
+ορθογώνιος	rectangular	adj	 
+ορθός {ο} [επίσ.]	correct	adj	 
+ορισμένες φορές	at times	adv	 
+ορισμένος	certain	adj	 
+ορκίζομαι	to swear [oath]	verb	 
+ορνιθολογία {η}	ornithology	noun	[acad.] [zool.] [orn.]
+ορυκτερόπους {ο}	aardvark [Orycteropus afer]	noun	[zool.] [T]
+οσμή {η}	odour [Br.]	noun	 
+οστό {το} [επίσ.]	bone	noun	 
+ουίσκι {το}	whisky	noun	[gastr.]
+ουγγαρέζικος	Hungarian	adj	 
+ουγγρικός	Hungarian	adj	 
+ουδέποτε	never	adv	 
+ουρανίσκος {ο}	palate	noun	[anat.]
+ουρανός {ο}	sky	noun	 
+ουρλιάζω [κοιν.]	to yell	verb	 
+ουσιαστικά {τα}	nouns	noun	 
+ουσιαστικά ονόματα {τα}	nouns	noun	 
+ουσιαστικό {το}	noun	noun	 
+ούτε ... ούτε	 	 	 
+neither ... nor	conj	 	 
+ούτε	neither	adv	 
+ούτως	thus  [therefore]	adv	 
+ούτως ή άλλως	anyway	adv	 
+ούτως ή άλλως	in any case	adv	 
+πάγκος {ο}	booth	noun	 
+πάγος {ο}	ice	noun	 
+πάθος {το}	passion	noun	 
+πάλι	again	adv	 
+πάντα	always	adv	 
+πάντες	everybody	pron	 
+πάντοτε	always	adv	 
+πάντως	anyway	adv	 
+πάνω	above	adv	 
+πάνω	on	 	 
+πάνω	up	adv	 
+πάνω από	above	prep	 
+πάπια {η}	duck	noun	 
+πάρα πολύ	too	adv	 
+πάταγος {ο}	bang	noun	 
+πάτος {ο}	bottom	noun	 
+πάτωμα {το}	floor	noun	 
+πάω	to go	verb	 
+πάω διακοπές	to go on holiday	verb	 
+πέντε και μισή	half past five	 	 
+πέταγμα {το}	flight	noun	 
+πέταλο {το}	horseshoe	noun	 
+πέτρα {η}	stone	noun	 
+πέψη {η}	digestion	noun	 
+πίεση {η}	pressure	noun	 
+πίθηκος {ο}	monkey	noun	 
+πίνακας {ο}	board	noun	 
+πίνω	to drink	verb	 
+πίστη {η}	belief	noun	 
+πίσω	behind	adv	 
+πίσω απ' αυτό	behind that	 	 
+πίσω από	behind	prep	 
+πίτσα {η}	pizza	noun	 
+παίζω	to play	verb	 
+παίρνω	to receive	verb	 
+παίρνω	to take away	verb	 
+παίρνω διαζύγιο	to divorce	verb	 
+παίρνω στροφή	to bend	verb	 
+παίρνω συνέντευξη	to interview	verb	 
+παίρνω τηλέφωνο	to call [Am.]	verb	 
+παγίδα {η}	trap	noun	 
+παγωτό {το}	ice cream	noun	 
+παγώνι {το}	peacock	noun	 
+παθιασμένος, -η, -ο	passionate	adj	 
+παιδί {το}	kid [coll.]	noun	 
+παιδί {το} [συναισθ.]	boy	noun	 
+παιχνίδι {το}	game	noun	 
+παιχνίδι {το}	match	noun	 
+παλάμη {η}	palm	noun	[anat.]
+παλάτι {το}	palace	noun	 
+παλαιότερα	formerly	adv	 
+παλεύω	to fight	verb	 
+παλιός (για πράγματα), γέρος (για πρόσωπα)	old	adj	 
+παλλάδιο {το} <Pd>	palladium <Pd>	noun	[chem.]
+παλτό {το}	coat	noun	 
+παμμέγεθης	huge	adj	 
+πανί {το}	cloth	noun	 
+παναφρικανισμός {ο}	Pan-Africanism	noun	[pol.]
+πανεπιστήμιο {το}	university	noun	 
+πανηγυρίζω	to celebrate	verb	 
+πανθεϊσμός {ο}	pantheism	noun	[relig.] [philos.]
+παντοτινά	forever <4E>	adv	 
+παντού	everywhere	adv	 
+παντρεμένος	married	adj past-p	 
+παντρεύομαι	to marry	verb	 
+παπάκι {το}	at-sign [@]	noun	[comp.]
+παπάκι {το}	duckling	noun	[orn.]
+παπαγάλος {ο}	parrot	noun	 
+παπούτσι {το}	shoe	noun	 
+παπούτσια {τα}	shoes	noun	 
+παππούδες {οι}	grandparents	noun	 
+παππούς {ο}	grandfather	noun	 
+παππούς {ο}	grandpa [coll.]	noun	 
+παρ' όλο	in spite of	prep	 
+παράδειγμα {το}	example	noun	 
+παράθυρο {το}	window	noun	 
+παράμεσος {ο}	ring finger	noun	 
+παράνομος	illegal	adj	 
+παράξενος	odd	adj	 
+παράξενος	strange	adj	 
+παράφρονας	mad [insane]	adj	 
+παράφρων [καθ.]	mad [insane]	adj	 
+παρέμβαση {η}	intervention	noun	 
+παρένθεση {η}	bracket	noun	 
+παραβιάζω	to break	verb	 
+παραγγέλνω	to order	verb	 
+παραγεμίζω	to stuff	verb	 
+παραγωγικός	productive	adj	 
+παραδίδω	to deliver	verb	 
+παραιτούμαι	to abdicate	verb	 
+παρακολουθώ	to attend	verb	 
+παρακολουθώ	to watch	verb	 
+παρακωλύω	to obstruct	verb	 
+παραλείπω	to omit	verb	 
+παραμύθι {το}	fairy tale	noun	 
+παραπλήσιος	similar	adj	 
+παραπονιέμαι	to complain	verb	 
+παρα τέταρτο	a quarter to	 	 
+παρατήρηση {η}	remark	noun	 
+παρατείνω	protract	verb	 
+παραψυχολογία {η}	parapsychology	noun	 
+παρειά {η} [καθ.]	cheek	noun	 
+παρεμβαίνω	to intervene	verb	 
+παρεμπιπτόντως	by the way <BTW>	adv	 
+παροιμία {η}	proverb	noun	[proverb]
+παρομοίως	likewise	adv	 
+παρουσιάζομαι	to appear	verb	 
+παρουσιάζω	to offer	verb	 
+παρόλα αυτα	however	adv	 
+παρόλο	despite	prep	 
+παρόμοιος	similar	adj	 
+παρόν {το}	present	noun	 
+πασίγνωστος	renowned	adj	 
+πασιφισμός {ο}	pacifism	noun	[pol.]
+πατάτα {η}	potato	noun	 
+πατάτες {οι}	potatoes	noun	 
+πατάτες τηγανιτές {οι}	chips [Br.]	noun	 
+πατέρας {ο}	father	noun	 
+πατατάκια {τα}	potato chips [Am.]	noun	 
+πατινάζ {το}	ice skating	noun	 
+πατώ	to push	verb	 
+παχύς	fat  [thick]	adj	 
+παχύφυτο {το}	succulent plant	noun	[bot.] [T]
+πείνα {η}	hunger	noun	 
+πείσμα	despite	prep	 
+πεθαίνω	to die	verb	 
+πεθαίνω της πείνας	to starve	verb	 
+πεθαμένος	dead	adj	 
+πεθερικά {τα}	parents-in-law	noun	 
+πεθερός {ο}	father-in-law	noun	 
+πεθυμώ	to miss	verb	 
+πειθαρχώ	to obey	verb	 
+πεινασμένος	hungry	adj	 
+πειράζω	tease	verb	 
+πεισματάρης	stubborn	adj	 
+πελώριος	huge	adj	 
+πενήντα	fifty	 	 
+πεντάλ {το} γκαζιού	accelerator	noun	 
+πεπρωμένο {το}	fortune	noun	 
+πεπόνι {το}	melon	noun	 
+περί	about	prep	 
+περί	towards	prep	 
+περίεργος	strange	adj	 
+περίπου	about	adv	 
+περίπου	approximately <approx.>	adv	 
+περίπου	around	adv	 
+περίπτωση {η} έκτακτης ανάγκης	emergency	noun	 
+περασμένος	past	adj	 
+περηφάνια {η}	pride	noun	 
+περιβάλλον {το}	environment	noun	 
+περιβάλλον {το} [περίγυρος]	surroundings {pl}	noun	 
+περιδέραιο {το}	necklace	noun	 
+περιμένω	to wait	verb	 
+περιορισμένος	narrow	adj	 
+περιπαίζω	tease	verb	 
+περιπατώ	to walk	verb	 
+περιποιημένος	natty	adj	 
+περιποιημένος	neat	adj	 
+περισσότεροι, -ες, -α	more	adv pron	 
+περιστέρι {το}	pigeon	noun	 
+περιστασιακά	occasionally	adv	 
+περιφρονώ	to disdain	verb	 
+περιφρόνηση {η}	contempt	noun	 
+περιφρόνηση {η}	disdain	noun	 
+περπατώ	to walk	verb	 
+πετσέτα {η}	towel	noun	 
+πετυχαίνω	to attain	verb	 
+πετυχαίνω	to hit	verb	 
+πετώ	to fly	verb	 
+πετώ	to throw	verb	 
+πηγαίνω	to go	verb	 
+πηγούνι {το}	chin	noun	 
+πηδώ	to hop	verb	 
+πηδώ	to jump	verb	 
+πηρούνι {το}	fork	noun	 
+πιάτα {τα} [μεταφ.]	dishes	noun	 
+πιάτο {το}	dish	noun	 
+πιάτο {το}	plate	noun	 
+πιέζω	to push	verb	 
+πιατάκι	saucer	noun	 
+πιθανός, -ή, -ό	likely	adj	 
+πιθανώς	likely	adv	 
+πιθανώς	possibly	adv	 
+πικρός	bitter	adj	 
+πιλότος {ο}	pilot	noun	 
+πινέλο {το}	brush	noun	 
+πιο πολύ	more	adv pron	 
+πιπέρι {το}	pepper	noun	 
+πιστά	faithfully	adv	 
+πιστεύω	to believe	verb	 
+πιστολάκι {το} για τα μαλλιά	hair dryer	noun	 
+πιστωτής {ο}	creditor	noun	 
+πιστόλι {το}	gun [pistol]	noun	 
+πιστός	true	adj	 
+πιτζάμα {η}	pajamas {pl} [Am.]	noun	 
+πλάγια	across	adv	 
+πλάι σε	by [next to]	prep	 
+πλάτη {η}	back	noun	 
+πλένω	to wash	verb	 
+πλέον	more	adv pron	 
+πλέω	to sail	verb	 
+πλήττω	afflict	verb	 
+πλακάκι {το}	tile	noun	 
+πλανήτης {ο}	planet	noun	[astron.]
+πλατεία {η}	square	noun	 
+πλατύς	wide	adj	 
+πλειονότητα {η}	majority	noun	 
+πλειοψηφία {η}	majority	noun	 
+πλεονέκτημα {το}	advantage	noun	 
+πλεονασμός {ο}	pleonasm	noun	[ling.]
+πλευρό {το}	rib	noun	[anat.]
+πληγωμένος	injured	adj past-p	 
+πληγώνω	to hit	verb	 
+πληγώνω	to hurt sb.	verb	 
+πληγώνω	to hurt	verb	 
+πληγώνω	to injure	verb	 
+πληθαίνω	to increase	verb	 
+πληθυσμιακή γενετική {η}	population genetics [treated as sg.]	 	 
+πλην	but	conj	 
+πληροφορία {η}	communication	noun	 
+πληρώνω	to pay	verb	 
+πλησίον	nearby	adj	 
+πλησίον	towards	prep	 
+πλοίο {το}	ship	noun	 
+πλουσιοπάροχος {ο}	generous [liberal, lavish]	adj	 
+πλουτώνιο {το} <Pu>	plutonium <Pu>	noun	[chem.]
+πλούσιος	rich	adj	 
+πλυντήριο {το}	washing machine	noun	 
+πνεύμα {το}	spirit	noun	 
+πνεύμα {το}	wit	noun	 
+πνεύμονας {ο}	lung [Pulmo]	noun	[anat.]
+ποδήλατο {το}	bike [coll.] [bicycle]	noun	 
+ποδηλασία {η}	cycling	noun	 
+ποιά	who	pron	 
+ποιμένω	to shepherd	verb	 
+ποινή {η}	punishment	noun	 
+ποιος	who	pron	 
+ποιό	what	 	 
+ποιό	who	pron	 
+ποιός	what	 	 
+ποιός	which	pron	 
+ποιός	who	pron	 
+πολεμάω	to fight	verb	 
+πολιτική {η}	politics	noun	 
+πολλά	a lot of	adj	 
+πολλαπλός	multiple	adj	 
+πολλοί	many	adj	 
+πολυθρόνα {η}	armchair	noun	 
+πολυκατάστημα {το}	department store	noun	 
+πολύ	too	adv	 
+πολύ	very	adv	 
+πολύ [επίρρ.]	much	adv	 
+πολύ ευχαριστημένος	delighted	adj	 
+πολύ μικρός	tiny	adj	 
+πολύς - πολλή - πολύ [επίθ}	much	adj adv	 
+πολύτιμος λίθος {ο}	gem	noun	 
+πολώνιο {το} <Po>	polonium <Po>	noun	[chem.]
+πονάω	to ache	verb	 
+πονοκέφαλος {ο}	headache {sg}	noun	 
+πονοκέφαλος {ο} από μεθύσι	hangover [coll.]	noun	 
+ποντίκι {το}	mouse	noun	[zool.] [comp.] [T]
+πονόδοντος {ο}	toothache	noun	 
+πορεία {η}	course	noun	 
+πορθμός {ο}	channel	noun	[naut.]
+πορσελάνη {η}	china	noun	 
+πορτ μπαγκάζ {το}	trunk [Am.]	noun	 
+πορτμπαγκάζ {το}	trunk [Am.]	noun	 
+πορτογαλικά	Portuguese	adj	 
+πορτοκαλής	orange	adj	 
+πορτοκαλιά {η}	orange [tree] [Citrus sinensis]	noun	[bot.] [T]
+πορτοφόλι {το}	wallet	noun	 
+ποσειδώνιο {το} <Np>	neptunium <Np>	noun	[chem.]
+ποσοστό διαζυγίων	divorce rate	 	 
+ποσότητα {η}	amount	noun	 
+ποτέ	never	adv	 
+ποτήρι {το}	glass [container]	noun	 
+ποταμός {ο}	river	noun	 
+ποτό {το}	drink	noun	 
+που	where [interrogative]	adv	 
+πουκάμισο {το}	shirt	noun	 
+πουρμπουάρ {το}	tip	noun	 
+πούδρα {η}	powder	noun	 
+πούλμαν {το} [κοιν.]	coach [esp. Br.]	noun	 
+πούρο {το}	cigar	noun	 
+πράγμα {το}	thing	noun	 
+πράγματα {τα}	things	noun	 
+πράγματι	actually	adv	 
+πράγματι	indeed	adv	 
+πράγματι	truly	adv	 
+πράκτορας {ο}	agent	noun	 
+πράσινη σαλάτα {η}	green salad	noun	 
+πράσινος	green	adj	 
+πρέπει	to need to	verb	 
+πρέπει	[we/they/you] must	 	 
+πρίζα {η}	socket	noun	 
+πραγματεύομαι	to deal	verb	 
+πραγματικά	actually	adv	 
+πραγματικά	truly	adv	 
+πραγματικός	real	adj	 
+πραγματοποιώ	to accomplish	verb	 
+πρεσβεία {η}	embassy	noun	 
+πριγκίπισσα {η}	princess	noun	 
+πριν	before	adv	 
+πριν από	before	prep	 
+πριν από αυτό	before that	adv	 
+πριν αυτού	before that	adv	 
+προάγω	promote	verb	 
+προαύλιο {το}	courtyard	noun	 
+προβιβάζω	promote	verb	 
+προβλέπω	to predict	verb	 
+προγενέστερος	previous	adj	 
+προδιάθεση {η}	predisposition	noun	 
+προδιαθέτω	predispose	verb	 
+προετοιμάζω	to prepare	verb	 
+προηγουμένως	before that	adv	 
+προηγούμενος	previous	adj	 
+προκόβω	prosper	verb	 
+προμήθειο {το} <Pm>	promethium <Pm>	noun	[chem.]
+προμηθεύω	to deliver	verb	 
+προοδευτικός	progressively	adv	 
+προοδεύω	to progress	verb	 
+προ ολίγου	recently	adv	 
+προς	on	prep	 
+προς	to	prep	 
+προς	towards	prep	 
+προς τα αριστερά	to the left	adv	 
+προς τα δεξιά	to the right	 	 
+προς τα κάτω	down	adv	 
+προς τούτοις	besides	adv	 
+προσέχω [μεταφ.]	to shepherd	verb	 
+προσβάλλω	to insult	verb	 
+προσβλητικός	abusive	adj	 
+προσδοκώ	to expect	verb	 
+προσεκτικά	carefully	adv	 
+προσεκτικός	careful	adj	 
+προσεκτικός	cautious	adj	 
+προσθέτω	to add	verb	 
+προσθέτω	to admit	verb	 
+προσκαλώ	to invite	verb	 
+προσοχή {η}	attention	noun	 
+προσοχή {η}	heed	noun	 
+προσπάθεια {η}	attempt	noun	 
+προσπαθώ	to try	verb	 
+προσποίηση {η}	affectation	noun	 
+προσποιούμαι	pretend	verb	 
+προστάτης {ο}	shepherd	noun	 
+προστασία {η}	protection	noun	 
+προστατευτισμός {ο}	protectionism	noun	[comm.] [pol.]
+προστατεύω	protect	verb	 
+προσφέρω	to pay	verb	 
+προσφορά {η}	offer	noun	 
+προσφορά {η}	proposal	noun	 
+προσωπικός	private	adj	 
+προσωρινός	temporary	adj	 
+προτεραιότητα {η}	priority	noun	 
+προτού	before	conj	 
+προφέρω	to pronounce	verb	 
+προφορά {η}	pronunciation	noun	 
+προχθές	the day before yesterday	adv	 
+προϊόν {το}	good [commodity]	noun	 
+πρωί {το}	morning	noun	 
+πρωινό {το} μπουφέ	breakfast buffet	noun	 
+πρωτεύουσα {η}	capital	noun	 
+πρωτοαστέρας {ο}	protostar	noun	[astron.]
+πρωτοβουλία {η}	initiative	noun	 
+πρόβατο {το}	sheep [Ovis]	noun	 
+πρόβλημα {το}	problem	noun	 
+πρόγραμμα {το}	schedule	noun	 
+πρόγραμμα {το}	scheme [plan]	noun	 
+πρόθυμος	willing	adj	 
+πρόκειται να	is about to	 	 
+πρόληψη {η}	prevention	noun	 
+πρόσκληση {η}	invitation	noun	 
+πρόστυχος	vulgar	adj	 
+πρόσφατα	recently	adv	 
+πρόσφατος	recent	adj	 
+πρόσωπο {το}	face	noun	 
+πρόσωπο {το} [μεταφ.]	person	noun	 
+πρόταση {η}	proposal	noun	 
+πρόταση {η}	suggestion	noun	 
+πρόφαση {η}	excuse	noun	 
+πρώτα	first	adv	 
+πρώτος αριθμός {ο}	prime	noun	[math.]
+πρώτος αριθμός {ο}	prime number	noun	[math.]
+πτέρνα {η} [επίσ.]	heel	noun	 
+πτήση {η}	flight	noun	 
+πταρνίζομαι [παρωχ.]	to sneeze	verb	 
+πτερνίζομαι [παρωχ.]	to sneeze	verb	 
+πυγολαμπίδα {η}	firefly	noun	 
+πυθμένας {ο} [επίσ.]	bottom	noun	 
+πυκνός	dense	adj	 
+πυκνός	thick	adj	 
+πυρά {η} [επίσ.]	fire	noun	 
+πυρετός {ο}	fever	noun	 
+πυρκαγιά {η}	fire	noun	 
+πυροβολώ	to shoot	verb	 
+πυρομανία {η}	pyromania	noun	[psych.]
+πυροσβεστική υπηρεσία {η}	fire brigade [esp. Br.]	noun	 
+πόδι {το}	leg	noun	 
+πόδια {τα}	feet	noun	 
+πόδια {τα}	legs	noun	 
+πόλη {η}	city	noun	 
+πόλη {η}	town	noun	 
+πόνος {ο}	ache	noun	 
+πόνος {ο}	pain	noun	 
+πόρτα {η}	door	noun	 
+πόσα	how many	 	 
+πόσα	how much	 	 
+πόσοι	how many	 	 
+πότε πότε	sometimes	adv	 
+πώς	how	adv	 
+ράβω	to sew	verb	 
+ράδιο {το}	radio	noun	[RadioTV]
+ράπτης {ο} [επίσ.]	tailor	noun	 
+ράφι {το}	shelf	noun	 
+ράφτης {ο}	tailor	noun	 
+ρέπω προς	to tend to	verb	 
+ρέω	to flow	verb	 
+ρίπτω	to throw	verb	 
+ραγχαλίζω	to snore	verb	 
+ραδιενεργός	radioactive	adj	 
+ραδιοαστρονομία {η}	radio astronomy	noun	[astron.] [acad.]
+ραδιόφωνο {το}	radio	noun	 
+ραδόνιο {το} <Rn>	radon <Rn>	noun	[chem.]
+ραντεβού {το}	appointment	noun	 
+ραπανάκι {το}	radish [Raphanus sativus]	noun	[bot.] [gastr.] [
+ρατσισμός {ο}	racism	noun	[pol.]
+ρεμβάζω	to muse	verb	 
+ρευματολήπτης {ο}	plug	noun	 
+ρευστός	liquid	adj	 
+ρεύμα {το}	current	noun	 
+ροζ	pink	adj	 
+ρολόι {το} με κούκο	cuckoo clock	noun	 
+ρολόι {το} χεριού	watch [wristwatch]	noun	 
+ρολόϊ {το}	clock	noun	 
+ρουβίδιο {το} <Rb>	rubidium <Rb>	noun	[chem.]
+ρουθούνι {το}	nostril	noun	[anat.]
+ροχαλίζω	to snore	verb	 
+ρούχα {τα}	clothes {pl}	noun	 
+ρωγμή {η}	crack	noun	 
+ρωμαλέος	robust	adj	 
+ρωτώ	to ask	verb	 
+ρόδι {το}	pomegranate [Punica granatum]	noun	 
+ρύζι {το}	rice	noun	 
+σάντουιτς {το}	sandwich	noun	 
+σέβομαι	to respect	verb	 
+σέρνομαι	to creep	verb	 
+σήμα {το} κατατεθέν	trademark	noun	 
+σήμερα	today	adv	 
+σίγουρα	certainly	adv	 
+σίγουρα	for certain	adv	 
+σίγουρα	for sure	 	 
+σίγουρος	confident	adj	 
+σίγουρος	sure	adj	 
+σίδερο {το}	iron <Fe>	noun	 
+σίδηρος {ο}	iron <Fe>	noun	 
+σαββατόκυριακο {το}	weekend	noun	 
+σαγόνι {το}	chin	noun	 
+σαγόνι {το}	jawbone	noun	 
+σακάκι {το}	jacket	noun	 
+σακίδιο {το}	backpack	noun	 
+σαλάτα {η}	salad	noun	 
+σαλτάρω	to jump	verb	 
+σαμπουάν {το}	shampoo	noun	 
+σαξοφωνίστας {ο}	saxophonist	noun	[jobs] [mus.]
+σαπούνι {το}	soap	noun	 
+σαράντα	forty	 	 
+σαρσέλα {η}	garganey [Spatula querquedula, syn.: Anas querqued	 	 
+σαχλός	silly	adj	 
+σβέρκος {ο}	neck	noun	 
+σβήνω	to switch off	verb	 
+σε	at	prep	 
+σε	by	prep	 
+σε	in	prep	 
+σε	to	prep	 
+σε	with	prep	 
+σεβαστός	respected	adj	 
+σειρά {η} μαθημάτων	course	noun	 
+σε καμία περίπτωση	in no case	 	 
+σελήνιο {το} <Se>	selenium <Se>	noun	[chem.]
+σελίδα {η}	page <p.>	noun	 
+σε μεγάλο βαθμό	to a great extent	verb	 
+σε μια στιγμή	in a moment	adv	 
+σεμνός	humble	adj	 
+σεμνός	modest	adj	 
+σε περίπτωση που	in case	conj	 
+σερβιετάκι {το}	pantyliner	noun	 
+σερβιτόρος {ο}	waiter	noun	[gastr.] [jobs]
+σε τάξη	in order	adv	 
+σηκώνομαι	to get up	verb	 
+σημάδι {το}	sign	noun	 
+σημαίνω	to mean	verb	 
+σημαντικός	considerable	adj	 
+σημαντικός	relevant	adj	 
+σημαντικός	significant	adj	 
+σημασία {η}	importance	noun	 
+σημασία {η}	meaning	noun	 
+σημείο {το} αναφοράς	datum [premise, starting point]	noun	 
+σημείωμα {το}	note	noun	 
+σημείωση {η}	note	noun	 
+σημειώνω	to write down	verb	 
+σιγά	slowly	adv	 
+σιδερώνω	to iron	verb	 
+σιδηροδρομικός σταθμός {ο}	train station	noun	 
+σιχαμερός	disgusting	adj	 
+σιωνισμός {ο}	Zionism	noun	[pol.]
+σιωπηλός	silent	adj	 
+σιωπηλός	taciturn	adj	 
+σκάλα {η}	ladder	noun	 
+σκέφτομαι	to think about	verb	 
+σκέψη {η}	thought	noun	 
+σκίζω	to tear	verb	 
+σκαλοπάτι {το}	step	noun	 
+σκαλοπάτια {τα}	stairs {pl}	noun	 
+σκαμνί {το}	stool	noun	 
+σκαρφαλώνω	to climb	verb	 
+σκεπάζω	to blanket [cover, conceal]	verb	 
+σκιά {η}	shadow	noun	 
+σκληρός {ο}	hard	adj	 
+σκοπός {ο}	purpose	noun	 
+σκοπός {ο}	target	noun	 
+σκοτεινός	black	adj	 
+σκοτεινός	dark	adj	 
+σκοτώνω	to kill	verb	 
+σκουπίδια {τα} [κοιν.]	garbage [Am.]	noun	 
+σκουπίζω με ηλεκτρική σκούπα	to vacuum [coll.]	verb	 
+σκουριασμένος	rusty	adj	 
+σκούπα {η}	broom	noun	 
+σκούρο μπλε	dark blue	adj	 
+σκούρος	dark	adj	 
+σκόρδο {το}	garlic [Allium sativum]	noun	 
+σκύλος {ο}	dog	noun	 
+σμυρνοτσίχλονο {το}	cinereous bunting [Emberiza cineracea]	nou	 
+σνίτσελ {το}	escalope	noun	 
+σνακ μπαρ {το}	snack bar	noun	[gastr.]
+σοβαρός	grave	adj	 
+σοβαρός	serious	adj	 
+σοδειά {η}	crop	noun	 
+σοκαρισμένος {ο} [κοιν.]	shocked	adj past-p	 
+σοκολάτα {η}	chocolate	noun	 
+σολομός {ο}	salmon	noun	 
+σονάτα {η}	sonata	noun	[mus.]
+σονάτα {η} για πιάνο	piano sonata	noun	[mus.]
+σουβλόπαπια {η}	(northern) pintail [Anas acuta]	noun	[T] [orn.
+σούπα {η}	soup	noun	 
+σούπερ-μάρκετ {το}	supermarket	noun	 
+σπάζω	to break	verb	 
+σπάνια	seldom	adv	 
+σπάτουλα {η}	spatula	noun	[tools]
+σπίτι {το}	home	noun	 
+σπίτι {το}	house	noun	 
+σπαταλώ	to waste	verb	 
+σπλαχνίζομαι	to pity	verb	 
+σπονδυλική στήλη {η}	backbone	noun	 
+σπορ αυτοκίνητο {το}	sports car	noun	[automot.]
+σπουδάζω	to study	verb	 
+σπουδές {οι}	study	noun	 
+σπυδαίος	great	adj	 
+σπόρος {ο}	grain	noun	 
+σπόρος {ο}	seed	noun	 
+στάμνα {η}	jug	noun	 
+στάση {η} λεωφορείου	bus stop	noun	[traffic]
+στέγη {η}	roof	noun	 
+στήθος {ο}	breast	noun	 
+στήθος {το}	chest	noun	 
+σταθερά	steadily	adv	 
+σταλινισμός {ο}	Stalinism	noun	[pol.]
+σταματάω το όχημα εκτός δρόμου	to pull over	verb	 
+σταματώ	to stop	verb	 
+σταυρός {ο}	cross	noun	 
+σταφύλι {το} [ρώγα]	grape	noun	 
+σταφύλια {τα}	grapes	noun	 
+σταχτοδοχεία {τα}	ashtrays	noun	 
+σταχτοτσικνιάς {ο}	gray heron [Am.] [Ardea cinerea]	noun	[orn.
+σταχτοτσικνιάς {ο}	grey heron [Br.] [Ardea cinerea]	noun	[orn.
+σταχτόχηνα {η}	graylag goose [Am.] [Anser anser]	noun	[orn.] [
+σταχτόχηνα {η}	greylag goose [Br.] [Anser anser]	noun	[orn.] [
+στεγνώνω	to dry	verb	 
+στενοχωρημένος	grieved	adj past-p	 
+στενοχωρημένος	sad	adj	 
+στενοχωριέμαι	to worry	verb	 
+στενός	narrow	adj	 
+στενός	near	adj	 
+στεπαετός {ο}	steppe eagle [Aquila nipalensis]	noun	[orn.] [T]
+στερεώνω	to fix [fasten]	verb	 
+στερούμενος φαντασίας	unimaginative	adj	 
+στη δεξιά πλευρά	on the right-hand side	adv	 
+στην πραγματικότητα	in fact	adv	 
+στην ώρα	on time	adv	 
+στη συνέχεια	next	adv	 
+στιγμή {η}	moment	noun	 
+στιλπνότατος	brilliant	adj	 
+στιλό {το} διαρκείας	ballpoint pen	noun	 
+στις οκτώ και μισή	at half past eight	 	 
+στο	in the	prep	 
+στομάχι {το}	stomach	noun	 
+στον	on the	prep	 
+στοργικός, -ή, -ό	loving	adj	 
+στο σπίτι	at home	adv	 
+στο τέλος	last	adv	 
+στρίβω	to bend	verb	 
+στρίβω	to turn	verb	 
+στρίβω	to twist	verb	 
+στρίβω δεξιά	to turn right	verb	 
+στρίγγλα {η}	witch	noun	 
+στρατιωτικό {το}	military	noun	[mil.]
+στρατοδικείο {το}	court martial	noun	 
+στρατός {ο}	army	noun	[mil.]
+στριμωγμένος	narrow	adj	 
+στρουθοκάμηλος {η}	ostrich [Struthio camelus]	noun	 
+στροφή {η}	bend	noun	 
+στρόντιο {το} <Sr>	strontium <Sr>	noun	[chem.]
+στρώση {η}	layer	noun	 
+στυλό {το}	pen	noun	 
+στόμα {το}	mouth	noun	 
+στόχος {ο}	goal	noun	 
+στόχος {ο}	target	noun	 
+συµπεριλαµβανοµένου ΦΠΑ	VAT included	 	 
+συγγένεια {η}	relationship	noun	 
+συγγενείς {οι}	relatives	noun	 
+συγκεντρώνομαι	to gather	verb	 
+συγκεχυμένος	confused	adj	 
+συγκρίνω	to match	verb	 
+συγχωρώ	to excuse	verb	 
+συγχωρώ	to forgive	verb	 
+συγχώνευση {η}	merger	noun	 
+συζήτηση {η}	conversation	noun	 
+συζητώ	to argue	verb	 
+συκώτι {το}	liver	noun	 
+συλλέγω	to collect	verb	 
+συλλαβή {η}	syllable	noun	[ling.]
+συλλαβίζω	to spell	verb	 
+συλλαμβάνω	to catch	verb	 
+συλλογίζομαι	to think about	verb	 
+συμβαίνω	to happen	verb	 
+συμβαίνω	to occur	verb	 
+συμβουλή {η}	advice	noun	 
+συμμερίζομαι	to share	verb	 
+συμμετέχω	to take part in	verb	 
+συμμετέχω	to take part	verb	 
+συμμιγής	mixed	adj past-p	 
+συμπέρασμα {το}	inference	noun	 
+συμπαγής	solid	adj	 
+συμπαθητικός	nice	adj	 
+συμπαθώ	to like	verb	 
+συμπεριλαμβάνω	to involve	verb	 
+συμπονώ	to pity	verb	 
+συμπόνια {η}	compassion	noun	 
+συμφωνία {η}	arrangement	noun	 
+συμφωνία {η}	deal	noun	 
+συμφωνώ	to agree	verb	 
+συνέντευξη {η}	interview	noun	 
+συναντώ	to meet	verb	 
+συναρπάζω	to intrigue	verb	 
+συναρπαστικός	exciting	adj	 
+συναυλία {η}	concert	noun	[mus.]
+συνδυάζω	to relate	verb	 
+συνεπώς	then	adv	 
+συνεσταλμένος	modest	adj	 
+συνεσταλμένος	timid	adj	 
+συνεχίζω	to continue <cont.>	verb	 
+συνηθισμένος	ordinary	adj	 
+συνηθισμένος	usual	adj	 
+συνθετική ύλη {η}	plastic	noun	 
+συνιστώ	to recommend	verb	 
+συννεφιασμένος	cloudy	adj	 
+συνομιλία {η}	conversation	noun	 
+συνταγή {η}	prescription	noun	 
+συντηρητικός	conservative	adj	 
+συντηρώ	to conserve	verb	 
+συνωστισμός {ο}	jam [crowd, squeeze]	noun	 
+συρτάρια {τα}	drawers	noun	 
+συστήνω	to introduce	verb	 
+συχνά	often	adv	 
+συχνός	common	adj	 
+συχνός	frequent	adj	 
+σφάλμα {το}	error	noun	 
+σφαγείο {το}	abattoir	noun	 
+σφαιρικός	spherical	adj	 
+σφαιρωτό (αστρικό) σμήνος {το}	globular cluster	noun	[astron.]
+σφηνάκι {το}	booze [coll.]	noun	 
+σφιχταγκαλιάζω	to hug	verb	 
+σφυρί {το}	hammer	noun	 
+σφυρίζω	to whistle	verb	 
+σχέδιο {το}	plan	noun	 
+σχέσεις {οι}	relations	noun	 
+σχέση {η}	relationship	noun	 
+σχεδιάζω	to plan	verb	 
+σχεδόν	almost	adv	 
+σχεδόν	nearly	adv	 
+σχεδόν καθόλου	hardly	adv	 
+σχετικά με	about	prep	 
+σχετικά με	concerning	prep	 
+σχετικός	relevant	adj	 
+σχοινί {το}	rope	noun	 
+σχολή {η}	school	noun	 
+σχολείο {το}	school	noun	 
+σχολικός	educational [needs, achievement]	adj	 
+σωλήνας {η}	pipe	noun	 
+σωλήνας {η}	tube	noun	 
+σωματικός	physical	adj	 
+σωστά	precisely	adv	 
+σωστά	properly	adv	 
+σωστός {ο}	correct	adj	 
+σόδα {η} φαγητού	baking powder	noun	 
+σόμπα {η}	stove	noun	 
+σύζυγος {η}	wife	noun	 
+σύζυγος {ο}	husband	noun	 
+σύζυγος {ο} {η}	spouse	noun	 
+σύλλογος {ο}	association <assn.>	noun	 
+σύλλογος {ο}	society	noun	 
+σύμβολο {το}	symbol	noun	 
+σύμμικτος	mixed	adj past-p	 
+σύμπτωση {η}	coincidence	noun	 
+σύνδεσμος {ο}	association	noun	 
+σύννεφο {το}	cloud	noun	 
+σύνολο {το}	total	noun	 
+σύνορο {το}	border	noun	 
+σύνταξη {η}	retirement	noun	 
+σύντομα	briefly	adv	 
+σύντομα	soon	adv	 
+σύντομος	brief	adj	 
+σύρτης {ο}	lock [latch, bolt]	noun	 
+σύσκεψη {η}	meeting [conference]	noun	 
+σύσταση {η}	address	noun	 
+σύσταση {η}	recommendation	noun	 
+σώμα {το}	body	noun	 
+τάζω	to promise	verb	 
+τάξη {η}	class	noun	 
+τάπα {η}	plug	noun	 
+τάρτα {η}	tart	noun	 
+τάση {η}	tendency	noun	 
+τέλεια [άψογα]	perfectly	adv	 
+τέλειος	perfect	adj	 
+τέλεση {η} του γάμου	wedding	noun	 
+τέλη {τα}	charge [fee]	noun	 
+τέλος {το}	charge [fee]	noun	 
+τέλος {το}	end	noun	 
+τέλος πάντων	anyway	adv	 
+τέρβιο {το} <Tb>	terbium <Tb>	noun	[chem.]
+τέσσερα	four	 	 
+τέταρτο {το}	quarter	noun	 
+τέτοιος	such	pron	 
+τέχνη {η}	art	noun	 
+τίμιος	honest	adj	 
+τίποτα	nothing	pron	 
+ταΐζω	to feed	verb	 
+ταβάνι {το}	ceiling	noun	 
+ταιριάζω	to fit	verb	 
+τακτικός	regular	adj	 
+τακτοποιώ	to tidy up	verb	 
+ταμείο {το}	till [Br.]	noun	 
+ταξί {ο}	taxi	noun	 
+ταξί {το}	cab	noun	 
+ταξίδι {το}	journey	noun	 
+ταξίδι {το}	trip	noun	 
+ταξίδι {το}	voyage	noun	 
+ταξιδεύω	to travel	verb	 
+ταξινόμηση {η}	allocation	noun	 
+ταπεινός	humble	adj	 
+ταπεινός	low	adj	 
+ταραγμένος	confused	adj	 
+ταρσός {ο}	instep	noun	 
+τασάκι {το}	ashtray	noun	 
+ταυτόχρονος	coincident	adj	 
+ταχυδρομείο {το} [κτήριο]	post office <PO>	noun	 
+ταχύς	rapid	adj	 
+ταχύτητα {η}	speed	noun	 
+τείνω προς	to tend to	verb	 
+τελείως	completely	adv	 
+τελείως	quite	adv	 
+τελευταίος	last	adj	 
+τελικά	finally	adv	 
+τελλούριο {το} <Te>	tellurium <Te>	noun	[chem.]
+τεμπέλης	lazy	adj	 
+τεράστιος	enormous	adj	 
+τεράστιος	huge	adj	 
+τεράστιος	tremendous	adj	 
+τερπνός	pleasant	adj	 
+τετράγωνο {το}	square [geommetry]	noun	 
+τεφρός καρχαρίας {ο}	gray reef shark [Carcharhinus amblyrhynch	 	 
+τεφρός καρχαρίας {ο}	grey reef shark [Br.] [Carcharhinus ambly	 	 
+τεχνήτιο {το} <Tc>	technetium <Tc>	noun	[chem.]
+τεχνίτης {ο} για στέγες	roofer	noun	 
+τεχνολογία {η}	technology	noun	[tech.]
+τζετ-λάγκ {το}	jet lag	noun	 
+τζιπ {το}	jeep	noun	[automot.]
+τηγανητές πατάτες {οι}	fried potatoes	noun	 
+τηγανισμένα χτυπητά αυγά	scrambled eggs	noun	[gastr.]
+τηλέφωνο {το}	phone	noun	 
+τηλεπάθεια {η}	telepathy	noun	 
+τηλεφωνώ	to call [Am.]	verb	 
+τηλεόραση {η}	television	noun	 
+τη νύχτα	at night	adv	 
+της	her [direct object]	pron	 
+τι	what	pron	 
+τιμή	price	noun	 
+τιμή {η} συναλλάγματος	exchange rate	noun	 
+τινές	some	pron	 
+το απόγευμα	in the afternoon	adv	 
+τοιουτοτροπώς	thus  [therefore]	adv	 
+το κλαρί {το}	branch	noun	 
+τοποθετώ	to lay	verb	 
+το πρωί	in the morning	adv	 
+του	his [possessive]	pron	 
+τουαλέτα {η}	restroom [Am.]	noun	 
+τουαλέτα {η}	toilet	noun	 
+τουαλέτα {η}	toilet [Br.]	noun	 
+τουαλέτα {η} γυναικών	women's restroom [Am.]	noun	 
+τουλάχιστον	at least	adv	 
+του οποίου	whose	pron	 
+τουρίστας {ο}	tourist	noun	 
+τους	them [direct object]	pron	 
+τούβλο {το}	brick	noun	 
+τράπεζα {η}	bank	noun	 
+τρέμω	to shake	verb	 
+τρένο {το}	train	noun	 
+τρέφομαι	to feed	verb	 
+τρέφω	to feed	verb	 
+τρέχω	to run	verb	 
+τρία	three	 	 
+τραγουδάω	to sing	verb	 
+τραγούδι {το}	song	noun	 
+τραμπισμός {ο}	Trumpism	noun	[pol.]
+τραπέζι {το}	table	noun	 
+τραπεζομάντηλο {το}	tablecloth	noun	 
+τραυματίζω	to injure	verb	 
+τραυματισμένος	injured	adj past-p	 
+τραυματισμός {ο}	injury	noun	 
+τρελός	crazy	adj	 
+τρελός {ο}	mad [insane]	adj	 
+τρεχούμενος λογαριασμός {ο}	checking account [Am.]	noun	 
+τριο-σονάτα {η}	trio sonata	noun	[mus.]
+τριοσονάτα {η}	trio sonata	noun	[mus.]
+τριπλός	triple	adj	 
+τρομακτικός	horrible	adj	 
+τρομακτικός	scary  [coll.]	adj	 
+τρομαχτικός	scary  [coll.]	adj	 
+τρομερός	awesome [Am.] [coll.]	adj	 
+τρομερός	awful	adj	 
+τρομοκρατία {η}	terrorism	noun	 
+τροφή {η}	food	noun	 
+τροφοδοτώ	to feed	verb	 
+τροφοδοτώ	to provide	verb	 
+τρυπητήρι {το}	puncher	noun	 
+τρυπώνω	to hide	verb	 
+τρυφερός	tender [affectionate]	adj	 
+τρόμος {ο}	fear	noun	 
+τρόποι {οι}	manners	noun	 
+τρόφιμα {τα}	groceries	noun	 
+τρύπα {η} / οπή {η} [καθ.]	hole	noun	 
+τσάι {το}	tea	noun	 
+τσάντα {η}	bag	noun	 
+τσέπη {η}	pocket	noun	 
+τσίχλα {η} [κοιν.]	chewing gum	noun	 
+τσακώνομαι [κοιν.]	to quarrel	verb	 
+τσακώνω	to catch	verb	 
+τσιγάρο {το}	cigarette	noun	 
+τσιμούχα {η}	gasket	noun	[tech.]
+τσιμπίδα {η}	tweezer	noun	 
+τσιμπώ	to bite	verb	 
+τσιμπώ	to sting	verb	 
+τσοπάνης {ο}	shepherd	noun	 
+τσουγκρανίζω	to scratch	verb	 
+τυλίγω	to wind	verb	 
+τυπάς {ο} [κοιν.] [νεολ.]	guy [coll.]	noun	 
+τυπικός	formal	adj	 
+τυπικός	typical	adj	 
+τυρί {το}	cheese	noun	 
+τυχαία	arbitrary	adj	 
+τυχαία	by chance	adv	 
+τωρινός	current	adj	 
+τόπος {ο}	place	noun	 
+τότε	then	adv	 
+τύπος {ο}	guy [coll.]	noun	 
+τύχη {η}	fortune	noun	 
+τώρα	now	adv	 
+υγειής	healthy	adj	 
+υγειονομικός	sanitary	adj	 
+υγρός	liquid	adj	 
+υγρός	wet	adj	 
+υδρογόνο {το} <H>	hydrogen <H>	noun	[chem.]
+υλικός	physical	adj	 
+υπάγω	to subordinate	verb	 
+υπάρχει	there is	 	 
+υπάρχω	to be	verb	 
+υπέροχα	great	adv	 
+υπέροχος	delicious	adj	 
+υπέροχος	superb	adj	 
+υπακούω	to obey	verb	 
+υπερβάλλω	to exaggerate	verb	 
+υπερμεγέθης	huge	adj	 
+υπεροπτικός	conceited	adj	 
+υπερπηδώ	to jump	verb	 
+υπερπλήρης	congested	adj past-p	 
+υπηρέτης {ο}	attendant	noun	 
+υπηρεσία {η}	service	noun	 
+υπογραφή {η}	signature	noun	 
+υποδείξεις {οι}	suggestions	noun	 
+υποκρίνομαι	pretend	verb	 
+υπολειμματικός	residual	adj	 
+υπολογίζω	to assess	verb	 
+υπολογίζω	to count	verb	 
+υπομανία {η}	hypomania	noun	[psych.]
+υπομονή {η}	patience	noun	 
+υπομονετικός	patient	adj	 
+υποστηρίζω	to support	verb	 
+υποτιθέμενα	allegedly	adv	 
+υπό	under	prep	 
+υπόγειος {ο}	underground	noun	 
+υπόδειξη {η}	suggestion	noun	 
+υπόθεση {η}	affair	noun	 
+υπόληψη {η}	reputation	noun	 
+υπόλοιπο {το}	residue	noun	 
+υπόσχομαι	to promise	verb	 
+υστερώ	to stand back	verb	 
+υψόμετρο {το}	altitude	noun	[geogr.]
+φάκελος {ο}	file	noun	 
+φάλαινα {η}	whale	noun	 
+φέρμιο {το} <Fm>	fermium <Fm>	noun	[chem.]
+φέρνω	to bring	verb	 
+φέρνω	to fetch sth.	verb	 
+φέρνω	to get [fetch]	verb	 
+φέρνω αντίρρηση	contradictory	adj	 
+φέρνω κάποιον σε αμηχανία	to embarrass	verb	 
+φέρω	to bring	verb	 
+φέρω	to carry	verb	 
+φίδι {το}	snake	noun	 
+φίλη {η}	friend [female]	noun	 
+φίλη {η}	girlfriend	noun	 
+φίλος {ο}	friend	noun	 
+φαίνομαι	to look	verb	 
+φαγητό {το}	dish	noun	 
+φαγητό {το}	food	noun	 
+φαγόπυρο {το}	buckwheat	noun	[bot.] [T]
+φαιά αρκούδα {η}	brown bear [Ursus arctos]	noun	[T] [zool.]
+φαλαινοκέφαλος {ο}	shoe-billed stork [Balaeniceps rex]	noun	[o
+φαλαινοκέφαλος {ο}	shoebill [Balaeniceps rex]	noun	[orn.] [T]
+φαλαινοκέφαλος {ο}	whale-headed stork [Balaeniceps rex]	noun	[
+φαλαινοκέφαλος {ο}	whalehead [Balaeniceps rex]	noun	[orn.] [T]
+φαλαινοκαρχαρίας {ο}	whale shark [Rhincodon typus]	noun	[T] [f
+φαλακρός	bald [head, tree, also liter.]	adj	 
+φανάρια {τα}	traffic lights {pl}	noun	 
+φανερώνω	to reveal	verb	 
+φαντασία {η}	imagination	noun	 
+φανταστικός	fantastic	adj	 
+φαρδύς	wide	adj	 
+φασαρία {η}	trouble	noun	 
+φασόλια {τα}	beans	noun	 
+φαταλισμός {ο}	fatalism	noun	 
+φεγγάρι {το}	moon	noun	 
+φεύγω	to leave	verb	 
+φημισμένος	famous	adj	 
+φθάνω	to arrive	verb	 
+φθινόπωρο {το}	autumn	noun	 
+φθινόπωρο {το}	fall [Am.] [season]	noun	 
+φθονερός	jealous [of]	adj	 
+φθόριο {το} <F>	fluorine <F>	noun	[chem.]
+φιλάκι {το}	peck	noun	 
+φιλανθρωπία {η}	philanthropy	noun	 
+φιλαράκι {το}	chum [coll.]	noun	 
+φιλενάδα {η}	girlfriend	noun	 
+φιλικός	friendly	adj	 
+φιλοδοξία {η}	ambition	noun	 
+φιλοδώρημα {το}	tip	noun	 
+φιλοξενούμενος {ο}	guest	noun	 
+φιλοσοφία {η} της θρησκείας	philosophy of religion	noun	[relig
+φιλοσοφία {η} των μαθηματικών	philosophy of mathematics	noun	[
+φιλοτελισμός {ο}	philately	noun	[philat.]
+φιλόδοξος	ambitious	adj	 
+φιλώ	to kiss	verb	 
+φις {το}	plug	noun	 
+φλας {το}	indicator [Br.]	noun	 
+φλόγα {η}	flame	noun	 
+φοίτηση {η}	study	noun	 
+φοβάμαι	to be afraid	verb	 
+φοβάμαι	to be scared	verb	 
+φοβερός	amazing	adv	 
+φοβισμένος	afraid	adj	 
+φοβιτσιάρης	scary  [coll.]	adj	 
+φοιτήτρια {η}	student [female]	noun	 
+φοιτητής {ο}	student	noun	 
+φονεύω με πείνα	to starve	verb	 
+φορά {η}	time [occasion]	noun	 
+φοράω	to put on [clothes]	verb	 
+φοράω	to wear	verb	 
+φορείο {το}	stretcher	noun	[med.]
+φορτίο {το}	load	noun	 
+φορτηγό {το}	truck	noun	 
+φορώ	to wear	verb	 
+φούρνος {ο}	stove	noun	 
+φούστα {η}	skirt	noun	 
+φράουλα {η}	strawberry	noun	 
+φρέσκος	fresh	adj	 
+φρενοβλαβής [επίσ.]	mad [insane]	adj	 
+φρικτός	terrible	adj	 
+φριτέζα {η}	deep fryer [Am.]	noun	 
+φροντίδα {η}	concern	noun	 
+φροντίζω	to prompt	verb	 
+φρουτοσαλάτα {η}	fruit salad	noun	 
+φρούριο {το}	castle	noun	 
+φρούτα {τα}	fruit	noun	 
+φρύδι {το}	eyebrow	noun	[anat.]
+φτέρνα {η}	heel	noun	 
+φταίξιμο {το}	fault	noun	 
+φταρνίζομαι	to sneeze	verb	 
+φτερνίζομαι	to sneeze	verb	 
+φτιάχνω	to cook	verb	 
+φτιάχνω	to make	verb	 
+φτωχός	poor	adj	 
+φυλάω	to keep	verb	 
+φυλακή {η}	prison	noun	 
+φυματίωση {η}	tuberculosis	noun	[med.]
+φυσικά	certainly	adv	 
+φυσικά	of course	adv	 
+φυσικαλισμός {ο}	physicalism	noun	[philos.]
+φυσικός	normal	adj	 
+φυσικός	physical	adj	 
+φυστίκι {το}	peanut	noun	 
+φυσώ	to blow	verb	 
+φυτεύω	to plant	verb	 
+φυτικός	herbal	adj	 
+φυτοφάγος	vegetarian	noun	 
+φυτό {το}	plant	noun	 
+φωνάζω	to cry [call loudly]	verb	 
+φωνάζω	to shout	verb	 
+φωνή {η}	voice	noun	 
+φως {το}	light	noun	 
+φωτεινός	bright	adj	 
+φωτιά {η}	fire	noun	 
+φωτογραφία {η}	photo	noun	 
+φωτογραφίες {οι}	photographs	noun	 
+φωτογραφίζω	to take a photograph	verb	 
+φωτοσύνθεση {η}	photosynthesis	noun	[bot.]
+φόβος {ο}	fear	noun	 
+φόρεμα {το}	dress	noun	 
+φύλακας {ο}	warden	noun	 
+φύλλο {το} [φυτού]	leaf	noun	 
+φύλλο {το} δάφνης	bayleaf	noun	[gastr.]
+φύλο {το}	sex	noun	 
+χάμπουργκερ {το}	burger [coll.]	noun	[gastr.]
+χάνομαι	to disappear	verb	 
+χάνω	to miss	verb	 
+χάρη {η}	favour [Br.]	noun	 
+χάρτης {ο}	map	noun	 
+χάσιο {το} <Hs>	hassium <Hs>	noun	[chem.]
+χέλι {το}	eel [order Anguilliformes]	noun	[fish] [T]
+χέρι {το}	hand	noun	 
+χίλιες	thousand	 	 
+χαίρομαι	to enjoy	verb	 
+χαβαρόνι {το}	rook [Corvus frugilegus]	noun	[orn.] [T]
+χαλί {το}	carpet	noun	 
+χαλαρός	casual	adj	 
+χαλαρός	loose	adj	 
+χαλασμένος	faulty	adj	 
+χαλκός {ο}	copper <Cu>	noun	 
+χαμένος	lost	adj	 
+χαμηλός	low	adj	 
+χαμόγελο	to smile	verb	 
+χαρά {η}	happiness	noun	 
+χαρά {η}	joy	noun	 
+χαρά {η}	pleasure	noun	 
+χαρακτηριστικό {το}	characteristic	noun	 
+χαρακτηριστικός	distinguishing	adj	 
+χαριτωμένος	pretty	adj	 
+χαρούμενος	happy	adj	 
+χαρτί {το}	paper	noun	 
+χαρτί {το} υγείας	toilet paper	noun	 
+χαρτομάντηλο {το}	tissue	noun	 
+χαρτοπετσέτα {η}	napkin	noun	 
+χαρτοφύλακας {ο}	briefcase	noun	 
+χατήρι {το}	favour [Br.]	noun	 
+χείλι {το}	lip [Labium oris]	noun	 
+χείλος {το}	lip [Labium oris]	noun	 
+χείλος {το} [άκρη]	brim	noun	 
+χειμώνας {ο}	winter	noun	 
+χειρίζομαι	to operate	verb	 
+χειρότερα	worse	adv	 
+χειρότερος	worse	adj	 
+χερσόνησος {η}	peninsula	noun	[geogr.]
+χημικός {ο}	chemist	noun	 
+χθες	yesterday	adv	 
+χιλιόμετρο {το} <χλμ>	kilometer [Am.] <km>	noun	 
+χιόνι {το}	snow	noun	 
+χοίρος {ο}	pig	noun	 
+χοιρινό {το}	pork	noun	 
+χοντρέμπορος {ο}	wholesaler	noun	 
+χορευτής {ο}	dancer	noun	 
+χορεύω	to dance	verb	 
+χοροπηδώ	to dance	verb	 
+χορτάτος	full (up)	adj	 
+χορός {ο}	dance	noun	 
+χουχουριστής {ο}	(Eurasian) tawny owl [Strix aluco]	noun	[orn.
+χουχουριστής {ο}	brown owl [Strix aluco]	noun	[orn.] [T]
+χρήματα {τα}	money	noun	 
+χρήσιμος	useful	adj	 
+χρειάζομαι	to need	verb	 
+χρειάζομαι	to require	verb	 
+χρηματικός	liquid	adj	 
+χρηματοοικονομική κατάσταση {η}	financial position	noun	 
+χρησιμοποιώ	to use	verb	 
+χρονοδιάγραμμα {το}	schedule	noun	 
+χρυσός	golden	adj	 
+χρόνος {ο}	time	noun	 
+χρώμα {το}	colour [Br.]	noun	 
+χτένα {η}	comb	noun	 
+χτίζω	to build	verb	 
+χτυπώ	to hit	verb	 
+χτυπώ	to knock	verb	 
+χτύπημα {το}	hit	noun	 
+χυμός {ο}	juice	noun	 
+χυμός {ο} μήλου	apple juice	noun	 
+χυμός {ο} πορτοκαλιού	orange juice	noun	 
+χωνί {το}	funnel	noun	 
+χωρίζω	to divorce	verb	 
+χωρίζω	to separate	verb	 
+χωρίς	without <w/o>	prep	 
+χωρίς αμφιβολία	without (a / any) doubt	adv	 
+χωρίς κόκκαλα	boneless	adj	 
+χωρισμένος	divorced <div.>	adj past-p	 
+χωρισμός {ο}	sharing	noun	 
+χώνευση {η}	digestion	noun	 
+χώνω	to plug in	verb	 
+χώρος {ο}	room	noun	 
+χώρος {ο} αποσκευών	boot [Br.]	noun	 
+χώρος {ο} αποσκευών	trunk [Am.]	noun	 
+ψάρι {το}	fish	noun	 
+ψάχνω	to look for [search, seek]	verb	 
+ψάχνω	to search	verb	 
+ψέμα {το}	lie	noun	 
+ψήνομαι	to cook	verb	 
+ψήνω (φουρνίζω)	to bake	verb	[gastr.]
+ψήφισμα {το}	resolution	noun	 
+ψαλίδι {το}	scissors {sg} {pl}	noun	 
+ψεύδομαι	to lie [deceive]	verb	 
+ψηλά	high	adv	 
+ψηλός	high	adj	 
+ψηλός	tall	adj	 
+ψηφίζω	to vote	verb	 
+ψηφίο {το}	digit	noun	 
+ψιθυρίζω	to whisper	verb	 
+ψυγείο {το}	fridge	noun	 
+ψυγείο {το}	refrigerator	noun	 
+ψυχαγωγία {η}	pleasure	noun	 
+ψυχολογία {η} της θρησκείας	psychology of religion	noun	[relig
+ψωμάκι {το}	roll	noun	[gastr.]
+ψωνίζω	shop	verb	 
+ωκεανός {ο}	ocean	noun	[geogr.]
+ωοειδής	ovoid	adj	 
+ωραίος, -α, -ο	lovely	adj	 
+ωραίος	beautiful	adj	 
+ωραίος	fine	adj	 
+ωργισμένος	angry	adj	 
+ως εκ τούτου	therefore	adv	 
+ως συνήθως	as usual	 	 
+ωτοειδής	auriculate	adj	 
+όλα / τα πάντα	everything	pron	 
+όλη την ημέρα	all day	 	 
+όλμιο {το} <Ho>	holmium <Ho>	noun	[chem.]
+όλοι	all	adj	 
+όλοι	everybody	pron	 
+όμοιος	similar	adj	 
+όμορφος	beautiful	adj	 
+όμποε {το}	oboe	noun	[mus.]
+όμως	however	adv conj	 
+όνειρο {το}	dream	noun	 
+όνομα {το}	first name	noun	 
+όνομα {το}	name	noun	 
+όντως	truly	adv	 
+όπλο	gun	noun	 
+όπλο	weapon	noun	 
+όποια	who	pron	 
+όποιο	who	pron	 
+όποιος	who	pron	 
+όποτε θέλεις	any time you want	 	 
+όπως πάντα	as always	 	 
+όροι {οι}	conditions	noun	 
+όροφος {ο}	floor	noun	 
+όσμιο {το} <Os>	osmium <Os>	noun	[chem.]
+όστρακο {το}	shell	noun	 
+όταν	when	conj	 
+ότι	that	conj	 
+όχημα {το} παντός εδάφους	all-terrain vehicle	noun	[automot.]
+όχημα {το} παντός εδάφους	off-road vehicle	noun	[automot.]
+όχι	not	adv	 
+όχι ακόμη	not yet	adv	 
+όχι πριν [την επόμενη εβδομάδα]	not until [next week]	adv	 
+ύψος {το} του σώματος	height	noun	 
+ώμος {ο}	shoulder	noun	[anat.]
+ώρα {η}	hour <h, hr>	noun	 
+ώρα {η}	time	noun	 
+ώρα {η}	time of day	noun	 
+ώς εάν	as if	 	 
+ώσμωση {η}	osmosis	noun	[biol.] [phys.] [chem.]
