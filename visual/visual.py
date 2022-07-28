@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import numpy as np
 from regex import P, X
@@ -46,7 +47,7 @@ def plot(data,
         type='dist',
         bins=25,
         
-        save_path='',
+        save_dir='',
         ):
 
     ## df preprocessing
@@ -224,9 +225,13 @@ def plot(data,
     if vlines:
         for vline in vlines:
             plt.axvline(**vline)
+
     plt.title(title)
     #plt.legend(title=huelabel)
-    if save_path:
+
+    if save_dir:
+        filename = '_'.join(title.split(' ')) +'.png'
+        save_path = os.path.join(os.getcwd(),filename)
         plt.savefig(save_path)
     plt.show()
     
