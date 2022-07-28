@@ -30,6 +30,10 @@ plot(x=x, y=y, hue=hue, data=df,
     )
 ```
 
+<p align="center">
+  <img src="https://github.com/e-lubrini/utils/edit/main/visual/img/violin.png" width="500" />
+</p>
+
 #### Scatterplot
 ```python
 x = 'dateIdentified'
@@ -49,6 +53,10 @@ plot(x=x, y=y, hue=hue, style=style, data=df,
     
 ```
 
+<p align="center">
+  <img src="https://github.com/e-lubrini/utils/edit/main/visual/img/scatter.png" width="500" />
+</p>
+
 #### Distribution
 ```python
 x = 'dateIdentified'
@@ -64,6 +72,11 @@ plot(x=x, hue=hue, data=df,
     )
 ```
 
+
+<p align="center">
+  <img src="https://github.com/e-lubrini/utils/edit/main/visual/img/dist.png" width="500" />
+</p>
+
 #### Composiiton
 ```python
 hue = 'language'
@@ -75,3 +88,8 @@ plot(hue=hue, data=df,
     save_dir = save_dir,
     )
 ```
+
+
+<p align="center">
+  <img src="https://github.com/e-lubrini/utils/edit/main/visual/img/perc.png" width="500" />
+</p>
