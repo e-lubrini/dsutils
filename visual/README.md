@@ -31,7 +31,7 @@ plot(x=x, y=y, hue=hue, data=df,
 ```
 
 <p align="center">
-  <img src="https://github.com/e-lubrini/utils/edit/main/visual/img/violin.png" width="500" />
+  <img src="https://github.com/e-lubrini/utils/blob/main/visual/img/violin.png" width="500" />
 </p>
 
 #### Scatterplot
@@ -54,7 +54,7 @@ plot(x=x, y=y, hue=hue, style=style, data=df,
 ```
 
 <p align="center">
-  <img src="https://github.com/e-lubrini/utils/edit/main/visual/img/scatter.png" width="500" />
+  <img src="https://github.com/e-lubrini/utils/blob/main/visual/img/scatter.png" width="500" />
 </p>
 
 #### Distribution
@@ -74,7 +74,7 @@ plot(x=x, hue=hue, data=df,
 
 
 <p align="center">
-  <img src="https://github.com/e-lubrini/utils/edit/main/visual/img/dist.png" width="500" />
+  <img src="https://github.com/e-lubrini/utils/blob/main/visual/img/dist.png" width="500" />
 </p>
 
 #### Composiiton
@@ -91,5 +91,5 @@ plot(hue=hue, data=df,
 
 
 <p align="center">
-  <img src="https://github.com/e-lubrini/utils/edit/main/visual/img/perc.png" width="500" />
+  <img src="https://github.com/e-lubrini/utils/blob/main/visual/img/perc.png" width="500" />
 </p>
