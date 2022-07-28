@@ -11,6 +11,8 @@ plot(x=x : str,
     type=type : str)
 ```
 
+`type`: one of `'violin'`, `'dist'`, `'hist'`, `'scatter'`, `'count'`, `'perc'`
+
 ### Examples
 #### Violin
 ```python
