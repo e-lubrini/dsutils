@@ -28,6 +28,8 @@ def plot(data,
 
         drop_doubles=None,
         drop_na=False,
+        select_data=False, # dict mapping column names to list of values accepted
+        drop_data=False, # dict mapping column names to list of values to be dropped
 
         slice_top = False,
         split=False,
@@ -41,17 +43,31 @@ def plot(data,
         sort_alpha=[],
 
         vlines='',
-        figsize=(5,5),
+        figsize=(), # 2 value tuple
         palette='tab10',
         
-        type='dist',
+        plot_type='dist',
+        markers=False,
         bins=25,
         
         save_dir='',
+        save_path='',
         ):
 
     ## df preprocessing
     data = data.copy()
+
+    if select_data:
+        for col_name, values in select_data.items():
+            selected_data = pd.DataFrame(columns=data.columns)    
+            for value in values:
+                selected_data = pd.concat([selected_data, data[data[col_name]==value]])
+            data = selected_data
+
+    if drop_data:
+        for col_name, values in select_data.items():
+            for value in values:
+                data = data[data[col_name]!=value]
 
     if drop_na:
         for i in drop_na:
@@ -87,7 +103,7 @@ def plot(data,
     ## fig 
     sns.set_style("darkgrid")
 
-    if type == 'violin':
+    if plot_type == 'violin':
         split = len(set(data[hue]))==2
         hue_order = sort_legend(hue, sort_alpha, data, other_values)
         ax = sns.violinplot(data=data,
@@ -98,8 +114,13 @@ def plot(data,
                     split=split,
                     palette=palette,
                     cut=0,
+                    inner=None,
                     )
-    elif type == 'dist':
+        if markers:
+            plt.setp(ax.collections, alpha=.25)
+            ax = sns.swarmplot(x=x, y=y, data=data, size=3, hue=hue, palette=palette, edgecolor='grey', dodge=True)
+        
+    elif plot_type == 'dist':
         hue_order = sort_legend(hue, sort_alpha, data, other_values)
         ax = sns.displot(data=data,
                     x=x,
@@ -111,7 +132,7 @@ def plot(data,
                     cut=0,
                     hue_order=hue_order,
                     )
-    elif type == 'hist':
+    elif plot_type == 'hist':
         hue_order = sort_legend(hue, sort_alpha, data, other_values)
         ax = sns.histplot(data=data,
                     x=x,
@@ -122,7 +143,7 @@ def plot(data,
                     palette=palette,
                     hue_order=hue_order,
                     )
-    elif type == 'scatter':
+    elif plot_type == 'scatter':
         hue_order = sort_legend(hue, sort_alpha, data, other_values)
         size_order = sort_legend(size, sort_alpha, data, other_values)
         style_order = sort_legend(style, sort_alpha, data, other_values)
@@ -138,12 +159,24 @@ def plot(data,
                     size_order=size_order,
                     style_order=style_order,
                     )
-    elif type == 'count':
+
+    elif plot_type == 'line':
+        hue_order = sort_legend(hue, sort_alpha, data, other_values)
+        size_order = sort_legend(size, sort_alpha, data, other_values)
+        style_order = sort_legend(style, sort_alpha, data, other_values)
+        ax = sns.lineplot(
+                data=data,
+                x=x, y=y, hue=hue, style=style,
+                markers=True, dashes=False
+                )
+
+    elif plot_type == 'count':
         ax = sns.countplot(data=data,
                     x=x,
                     palette=palette,
                     )
-    elif type == 'perc':
+
+    elif plot_type == 'perc':
         sns.set_style("white")
         if x:
             index = data[x]
@@ -167,9 +200,9 @@ def plot(data,
         ax.set(ylabel=None)
         if not x:
             ax.set(xlabel=None)
-        
 
-    sns.set(rc={'figure.figsize':figsize})
+    if figsize:
+        sns.set(rc={'figure.figsize':figsize})
 
     if yscale:
         plt.yscale(yscale)
@@ -217,21 +250,24 @@ def plot(data,
     if not title:
         if hue and x and not y:
             title = 'Distribution of ' + str(huelabel)+ (' by ' + str(xlabel))*bool(xlabel)
-        elif hue:
-            'Number of instances grouped by ' + str(huelabel)*bool(huelabel)
-        else:
+        elif hue and x and y:
             title = str(xlabel)+ (' vs ' + str(ylabel))*bool(ylabel) + (' grouped by ' + str(huelabel))*bool(huelabel)
+        elif hue and not x and not y:
+            title = 'Number of instances grouped by ' + str(huelabel)
+            
+
 
     if vlines:
         for vline in vlines:
             plt.axvline(**vline)
 
     plt.title(title)
-    #plt.legend(title=huelabel)
 
     if save_dir:
-        filename = '_'.join(title.split(' ')) +'.png'
-        save_path = os.path.join(os.getcwd(),filename)
-        plt.savefig(save_path)
+        filename = '_'.join(title.lower().split(' ')) +'.png'
+        save_path = os.path.join(save_dir,filename)
+        plt.savefig(save_path, bbox_inches='tight')
+    elif save_path:
+        plt.savefig(save_path, bbox_inches='tight')
     plt.show()
     
