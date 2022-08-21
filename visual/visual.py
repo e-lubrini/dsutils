@@ -1,3 +1,4 @@
+from audioop import cross
 import os
 import pandas as pd
 import numpy as np
@@ -40,6 +41,8 @@ def plot(data,
         xlabel='',
         ylabel='',
         huelabel='',
+        x_ticks=[],
+        y_ticks=[],
         sort_alpha=[],
 
         vlines='',
@@ -132,6 +135,9 @@ def plot(data,
                     cut=0,
                     hue_order=hue_order,
                     )
+    elif plot_type == 'stack':
+        ax = data.set_index(x).plot(kind='bar', stacked=True, color=sns.color_palette(palette))
+
     elif plot_type == 'hist':
         hue_order = sort_legend(hue, sort_alpha, data, other_values)
         ax = sns.histplot(data=data,
@@ -182,7 +188,7 @@ def plot(data,
             index = data[x]
         else:
             index = np.zeros(len(data))
-                    
+        
         cross_tab = pd.crosstab(
                             index=index,
                             columns=data[hue],
@@ -190,7 +196,7 @@ def plot(data,
                             )
         cross_tab = cross_tab.T
         cross_tab = cross_tab.sort_values(cross_tab.columns[0], ascending = False).T
-        kind = 'bar'+ ('h' * (not bool(x)))
+        kind = 'bar'#+ ('h' * (not bool(x)))
         ax = cross_tab.plot(
                         kind = kind, 
                         stacked = True, 
@@ -213,6 +219,11 @@ def plot(data,
         xlabel = x
     if not huelabel:
         huelabel = hue
+
+    if x_ticks:
+        plt.xticks(*x_ticks)
+    if y_ticks:
+        plt.xticks(*y_ticks)
 
     plt.ylabel(ylabel)
     plt.xlabel(xlabel)
