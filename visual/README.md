@@ -3,15 +3,15 @@
 ## Seaborn Wrapper
 ### Usage
 
-minimal working example: 
+Minimal working example: 
 ```python
 plot(x=x : str,
     y=y : str,
     data=data : DataFrame,
-    type=type : str)
+    plot_type=plot_type : str)
 ```
 
-`type`: one of `'violin'`, `'dist'`, `'hist'`, `'scatter'`, `'count'`, `'perc'`
+`plot_type`: one of `'violin'`, `'dist'`, `'stack'`, `'hist'`, `'scatter'`, `'line'`, `'count'`, `'perc'`
 
 ### Examples
 #### Violin
