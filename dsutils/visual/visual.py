@@ -2,7 +2,6 @@ from audioop import cross
 import os
 import pandas as pd
 import numpy as np
-from regex import P, X
 import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn import cross_decomposition
@@ -21,6 +20,8 @@ def sort_legend(col, cols_to_be_sorted, data, other_values={}):
     return legend_order
 
 def plot(data,
+        data_shape='', # pass 'count' if  table shape is count
+         
         x=None,
         y=None,
         hue=None,
@@ -29,7 +30,7 @@ def plot(data,
 
         drop_doubles=None,
         drop_na=False,
-        select_data=False, # dict mapping column names to list of values accepted
+        select_data=False, # dict mapping column names to list of accepted values
         drop_data=False, # dict mapping column names to list of values to be dropped
 
         slice_top = False,
@@ -136,7 +137,14 @@ def plot(data,
                     hue_order=hue_order,
                     )
     elif plot_type == 'stack':
-        ax = data.set_index(x).plot(kind='bar', stacked=True, color=sns.color_palette(palette))
+        if data_shape != 'count':
+            data = data[[hue, x]].copy()
+            data.dropna(inplace=True)
+            cross_tab_prop = pd.crosstab(index=data[x],
+                                        columns=data[hue],
+                                        normalize="index")
+            data = cross_tab_prop
+        ax = data.plot(kind='bar', stacked=True, color=sns.color_palette(palette))
 
     elif plot_type == 'hist':
         hue_order = sort_legend(hue, sort_alpha, data, other_values)
@@ -170,6 +178,18 @@ def plot(data,
         hue_order = sort_legend(hue, sort_alpha, data, other_values)
         size_order = sort_legend(size, sort_alpha, data, other_values)
         style_order = sort_legend(style, sort_alpha, data, other_values)
+        
+        if data_shape != 'count' and data_shape != 'numeric':
+            data = data[[y, x]].copy()
+            print(data.head())
+            data = data.squeeze()
+            print(data.shape)
+            data.dropna(inplace=True)
+            cross_tab_prop = pd.crosstab(index=data[x],
+                                        columns=data[y],
+                                        normalize="index")
+            data = cross_tab_prop
+            
         ax = sns.lineplot(
                 data=data,
                 x=x, y=y, hue=hue, style=style,
