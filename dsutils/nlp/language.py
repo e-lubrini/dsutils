@@ -3,7 +3,7 @@ import imp
 import nltk
 from nltk.tokenize import sent_tokenize
 from dsutils.de.filesystem import *
-from dsutils.de.utils import *
+#from dsutils.de.utils import *
 
 nltk.download('words')
 

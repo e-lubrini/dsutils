@@ -6,7 +6,7 @@ LONG_DESCRIPTION = 'Utilities for data manipulation and analysis'
 
 # Setting up
 setup(
-       # the name must match the folder name 'verysimplemodule'
+       # the name must match the folder module name
         name="dsutils", 
         version=VERSION,
         author="Elisa Lubrini",

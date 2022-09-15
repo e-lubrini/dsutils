@@ -1,1 +1,0 @@
-Read the Tutorial on how to create your own Kindle dictionary for every language for free at http://1manfactory.com/kindle_dictionary
