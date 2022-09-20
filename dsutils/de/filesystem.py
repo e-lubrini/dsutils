@@ -24,6 +24,17 @@ def join_parentpath_childnames(parentpath,childnames):
         childnames)
     return list(fullpaths)
 
+# find first data subdir in path
+def get_data_path(wd = os.getcwd()):
+    dircount = 0
+    dirs = (wd.split(os.path.normpath(os.sep)))
+    for i in range(len(dirs)):
+        data_dir = os.path.join(*list(dirs[:-i]+['data']))
+        if os.path.isdir('/'+data_dir):
+            return data_dir
+        else:
+            dircount += 1
+    return None
 
 # lists paths with certain extension 
 def list_ext(path,
