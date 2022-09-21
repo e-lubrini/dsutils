@@ -1,11 +1,12 @@
+import imp
 import json
-from dsutils.de.utils import *
+from dsutils.de.utils import get_var_name
 import fnmatch
 import functools
 import os
 import shutil
 from tqdm import tqdm
-
+import pandas as pd
 
 def get_dir_and_doc_paths(path):
     if os.path.isfile(path):
@@ -29,13 +30,19 @@ def get_data_path(wd = os.getcwd()):
     dircount = 0
     dirs = (wd.split(os.path.normpath(os.sep)))
     for i in range(len(dirs)):
-        data_dir = os.path.join(*list(dirs[:-i]+['data']))
-        if os.path.isdir('/'+data_dir):
+        data_dir = '/'+os.path.join(*list(dirs[:-i]+['data']))
+        if os.path.isdir(data_dir):
             return data_dir
         else:
             dircount += 1
     return None
 
+def get_datafile_path(filename, data_path=get_data_path(), format='csv'):
+    filepath = os.path.join(data_path,filename)
+    if '.xls' in filename and 'csv' in format :
+        filepath = xls_to_csv(filepath)
+    return filepath
+        
 # lists paths with certain extension 
 def list_ext(path,
             exts,
@@ -171,3 +178,11 @@ def store_data(storage,
     else:
         data_path = ''
     return data_path
+
+
+def xls_to_csv(xls_path, csv_path=''):
+    read_file = pd.read_excel(xls_path)
+    if not csv_path:
+        csv_path = os.path.join(get_parent_dir(xls_path),os.path.splitext(os.path.basename(xls_path))[0]+'.csv')
+    read_file.to_csv(csv_path, index = None, header=True)
+    return csv_path
