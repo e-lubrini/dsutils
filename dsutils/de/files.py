@@ -1,6 +1,7 @@
+from ast import operator
 import imp
 import json
-from dsutils.de.utils import get_var_name
+from dsutils.de.utils import dbg, get_var_name
 import fnmatch
 import functools
 import os
@@ -186,3 +187,47 @@ def xls_to_csv(xls_path, csv_path=''):
         csv_path = os.path.join(get_parent_dir(xls_path),os.path.splitext(os.path.basename(xls_path))[0]+'.csv')
     read_file.to_csv(csv_path, index = None, header=True)
     return csv_path
+
+def get_filename(path):
+    filename = os.path.splitext(path)[0]
+    return filename
+def get_extension(path):
+    ext = os.path.splitext(path)[1]
+    return ext
+
+def sample_csv(path, size=5, filename='', in_col_select_rows={}, operator='OR'):
+    if not filename:
+        filename = get_filename(path)
+    sample_path = filename+'_sample'+get_extension(path)
+    df = pd.read_csv(path)
+    df_ = None
+    if in_col_select_rows:
+        if operator == 'OR':
+            for c,strs in in_col_select_rows.items():
+                dbg(c)
+                c =0
+                for s in strs:
+                    c +=1
+                    dbg(s)
+                    if c>1:
+                        quit()
+                    if type(df_) == None:
+                        print('NONE')
+                        df_ = df[df[c].astype(str).str.contains(s, na = False)]   
+                    else:
+                        df_ = pd.concat([df_, df[df[c].astype(str).str.contains(s, na = False)]])
+                    print(set(df_['id']))
+            df = df_
+        elif operator == 'AND':
+            for c,strs in in_col_select_rows.items():
+                for s in strs:
+                    df = df[df[c].astype(str).str.contains(s, na = False)]
+    df.head(size).to_csv(sample_path, index = None, header=True)
+    return sample_path
+
+def get_csv_head(path, size=5):
+    with open(path) as f:
+        df = pd.read_csv(f)
+    if isinstance(size, str):
+        return df
+    return df.head(size)
