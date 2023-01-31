@@ -8,6 +8,11 @@ import os
 import shutil
 from tqdm import tqdm
 import pandas as pd
+import sys
+import subprocess
+
+#subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'tabulate'])
+from tabulate import tabulate
 
 def get_dir_and_doc_paths(path):
     if os.path.isfile(path):
@@ -189,10 +194,10 @@ def xls_to_csv(xls_path, csv_path=''):
     return csv_path
 
 def get_filename(path):
-    filename = os.path.splitext(path)[0]
+    filename = os.path.basename(path)
     return filename
 def get_extension(path):
-    ext = os.path.splitext(path)[1]
+    ext = os.path.splitext(path)[-1]
     return ext
 
 def sample_csv(path, size=5, filename='', in_col_select_rows={}, operator='OR'):
@@ -225,9 +230,14 @@ def sample_csv(path, size=5, filename='', in_col_select_rows={}, operator='OR'):
     df.head(size).to_csv(sample_path, index = None, header=True)
     return sample_path
 
-def get_csv_head(path, size=5):
+def get_csv_head(path, size=5, nrows=100):
     with open(path) as f:
-        df = pd.read_csv(f)
+        df = pd.read_csv(f, on_bad_lines='skip', nrows=nrows)
     if isinstance(size, str):
         return df
     return df.head(size)
+
+
+def describe_csv(path):
+    df = pd.read_csv(path, on_bad_lines='skip')
+    return df.describe(include="all") #pd.DataFrame(df, c = df.shape),

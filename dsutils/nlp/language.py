@@ -14,7 +14,7 @@ import fasttext
 def get_lang_code(lang_name):
     import langcodes as lc
     #lang_name = str(lang_name)
-    if type(lang_name) is str:
+    if type(lang_name) is str and len(lang_name) > 0:
         lang_code = lc.find(lang_name)
     else:
         lang_code = lang_name
