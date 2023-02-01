@@ -91,3 +91,8 @@ wasabi==0.9.1
 wcwidth==0.2.5
 Werkzeug==2.1.2
 wordcloud==1.8.2.2
+humanfriendly
+tabulate
+deep_translator
+fasttext
+language_data
