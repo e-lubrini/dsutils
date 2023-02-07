@@ -154,38 +154,6 @@ def try_read(path, ext=None, alt=''):
         content = alt
     return content
 
-def store_data(storage,
-                data,
-                dir_path,
-                name):
-    storage_types = ['meta', # the metadata file
-                    'dir'] # a new subdirectory where the document is stored
-    if storage not in storage_types:
-        raise ValueError("Invalid path_type. Expected one of: {0}".format(storage_types)) 
-    
-    if data:
-        match storage:
-            case 'meta':
-                data_path = os.path.join(dir_path,name+'.json')
-                with open(data_path, 'w+') as f:
-                    json.dump(data, f)
-            case 'dir':
-                if type(data) == dict:
-                    for k,v in data.items():
-                        new_dir = mkdir_no_over(os.path.join(dir_path,k))
-                        data_path = os.path.join(new_dir, name+'.txt')
-                        with open(data_path, 'w+') as f:
-                            f.write(v)  
-                else:
-                    new_dir = mkdir_no_over(os.path.join(dir_path,name))
-                    data_path = os.path.join(new_dir, get_var_name(data)+'.txt')
-                    with open(data_path, 'w+') as f:
-                        f.write(data)
-    else:
-        data_path = ''
-    return data_path
-
-
 def xls_to_csv(xls_path, csv_path=''):
     read_file = pd.read_excel(xls_path)
     if not csv_path:
