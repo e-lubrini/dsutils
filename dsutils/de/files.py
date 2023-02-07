@@ -34,9 +34,9 @@ def join_parentpath_childnames(parentpath,childnames):
 # find first data subdir in path
 def get_data_path(wd = os.getcwd()):
     dircount = 0
-    dirs = (wd.split(os.path.normpath(os.sep)))
+    dirs = list(wd.split(os.path.normpath(os.sep)))+['data']
     for i in range(len(dirs)):
-        data_dir = '/'+os.path.join(*list(dirs[:-i]+['data']))
+        data_dir = os.path.normpath(os.sep)+os.path.join(*list(dirs[:-i]),'data')
         if os.path.isdir(data_dir):
             return data_dir
         else:
